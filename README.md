@@ -27,6 +27,7 @@
 - [Public Procurement](#public-procurement)
 - [Energy and Electricity](#energy-and-electricity)
 - [Sustainability and ESG](#sustainability-and-esg)
+- [Agriculture and Food Safety](#agriculture-and-food-safety)
 - [Transport and Mobility](#transport-and-mobility)
 - [Space and Aviation](#space-and-aviation)
 - [Geospatial and Earth Observation](#geospatial-and-earth-observation)
@@ -87,6 +88,8 @@ Electronic Identification, Authentication and Trust Services regulation for cros
 - [EUDI PID Issuer](https://github.com/eu-digital-identity-wallet/eudi-srv-pid-issuer) - Microservice for issuing Person Identification Data and mDL according to OpenID4VCI.
 - [EUDI Web Verifier](https://github.com/eu-digital-identity-wallet/eudi-web-verifier) - Web-based verifier application for the European Digital Identity Wallet.
 - [OID4VCI](https://github.com/sphereon-opensource/OID4VCI) - TypeScript modules for OpenID for Verifiable Credential Issuance used in EUDI Wallet implementations.
+- [EWC EUDI Wallet RFCs](https://github.com/EWC-consortium/eudi-wallet-rfcs) - EU Digital Identity Wallet RFCs for the Large Scale Pilot use cases, co-funded by the European Union.
+- [EUDI OpenID4VP Kotlin](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-siop-openid4vp-kt) - Kotlin implementation of the OpenID for Verifiable Presentations protocol for the EUDI Wallet.
 
 ## Digital Regulation
 
@@ -299,6 +302,7 @@ TED (Tenders Electronic Daily), eForms, ESPD, CPV codes, and EU public procureme
 - [eForms Notice Editor](https://github.com/OP-TED/eforms-notice-editor) - Sample application demonstrating how to create eForms notices using the SDK.
 - [model2owl](https://github.com/OP-TED/model2owl) - Tool to transform UML models into OWL ontologies and SHACL shapes for EU procurement data.
 - [ted-rdf-mapping](https://github.com/OP-TED/ted-rdf-mapping) - Transformation rules for the TED Semantic Web Services RDF conversion.
+- [TED RDF Conversion Pipeline](https://github.com/OP-TED/ted-rdf-conversion-pipeline) - Pipeline for converting Tenders Electronic Daily notices to linked open data.
 
 ## Energy and Electricity
 
@@ -332,10 +336,19 @@ EU Taxonomy, CSRD, SFDR, CBAM, Digital Product Passport, EU Deforestation Regula
 - [Battery Pass Data Model](https://github.com/batterypass/BatteryPassDataModel) - Data model for the EU Battery Passport under the Digital Product Passport framework.
 - [SustainableQA](https://github.com/DataScienceUIBK/SustainableQA) - Question answering dataset for corporate sustainability reporting and EU Taxonomy compliance.
 - [Open DPP](https://github.com/open-dpp/open-dpp) - Open source platform for managing Digital Product Passports in compliance with EU regulations.
+- [Tractus-X PURIS](https://github.com/eclipse-tractusx/puris) - Predictive Unit Real-Time Information Service for short-term demand and capacity management in Catena-X.
 - [EUDR API Client](https://github.com/mfrntic/eudr-api-client) - Node.js library for the EU Deforestation Regulation TRACES system API.
 - [ESRS XBRL Parser](https://github.com/aimabel-ai/esrs-xbrl-parser) - Tools for parsing European Sustainability Reporting Standards taxonomies in XBRL format.
 - [EU Emissions Trading System Data](https://github.com/datasets/eu-emissions-trading-system) - Open dataset of the EU Emissions Trading System.
 - [OS-Climate ITR](https://github.com/os-climate/ITR) - Python implementation of the Implied Temperature Rise methodology for EU sustainable finance.
+
+## Agriculture and Food Safety
+
+EFSA, Common Agricultural Policy (CAP), RASFF, EU food labeling, and pan-European agricultural data.
+
+- [JRC Checks by Monitoring](https://github.com/ec-jrc/cbm) - JRC toolkit for CAP area-based checks by monitoring using Copernicus Sentinel data.
+- [Open Food Facts Server](https://github.com/openfoodfacts/openfoodfacts-server) - Database, API and web interface for the collaborative food products database with EU nutrition labeling support.
+- [Open Food Facts Python](https://github.com/openfoodfacts/openfoodfacts-python) - Python package for accessing the Open Food Facts database including EU Nutri-Score and food labeling data.
 
 ## Transport and Mobility
 
@@ -396,6 +409,11 @@ INSPIRE directive, Copernicus programme, Sentinel data, and European geospatial 
 - [earthkit](https://github.com/ecmwf/earthkit) - ECMWF Python tools for working with European weather and climate data.
 - [INSPIRE Validator](https://github.com/INSPIRE-MIF/helpdesk-validator) - Community discussion and issue tracker for the INSPIRE data and service validation tools.
 - [actinia](https://github.com/mundialis/actinia_core) - Open source REST API for scalable geospatial data processing used in European environmental monitoring.
+- [openEO API](https://github.com/Open-EO/openeo-api) - Specification for the openEO API providing standardised access to European Earth observation cloud processing.
+- [openEO R Client](https://github.com/Open-EO/openeo-r-client) - R client for working with openEO backends to access Copernicus and other European EO data.
+- [openEO Processes](https://github.com/Open-EO/openeo-processes) - Interoperable process definitions for openEO big Earth observation cloud processing.
+- [pyPoseidon](https://github.com/ec-jrc/pyPoseidon) - JRC Python framework for hydrodynamic simulations in European coastal and marine environments.
+- [LISFLOOD Utilities](https://github.com/ec-jrc/lisflood-utilities) - Utility tools for the JRC LISFLOOD European flood forecasting system.
 - [52North SOS](https://github.com/52North/sos) - OGC Sensor Observation Service implementation for European environmental monitoring networks.
 - [Helgoland](https://github.com/52North/helgoland) - Visual exploration and analysis of sensor web data for European environmental monitoring.
 - [Magics](https://github.com/ecmwf/magics) - ECMWF meteorological plotting package for visualising data in GRIB, NetCDF, and BUFR formats.
@@ -466,6 +484,8 @@ ECTS, Erasmus+, Horizon Europe, CORDIS, OpenAIRE, EOSC, CERN, and European resea
 - [RDA DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard) - Machine-actionable data management plan standard used in European research infrastructure.
 - [MGnify API](https://github.com/EBI-Metagenomics/emgapi) - RESTful API for the MGnify metagenomics platform at the European Bioinformatics Institute.
 - [EBRAINS Drive](https://github.com/HumanBrainProject/ebrains-drive) - Python client for EBRAINS Collaboratory storage in the EU Human Brain Project.
+- [OpenAIRE IIS](https://github.com/openaire/iis) - Information Inference Service of the OpenAIRE European research data infrastructure.
+- [OpenAIRE Guidelines](https://github.com/openaire/guidelines-literature-repositories) - Guidelines for literature repository managers based on Dublin Core and DataCite for OpenAIRE compliance.
 
 ## European Utilities
 
