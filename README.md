@@ -108,6 +108,13 @@ EU AI Act, Digital Services Act (DSA), Digital Markets Act (DMA), and related di
 - [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered evaluation framework for generative AI models aligned with the EU AI Act.
 - [VerifyWise](https://github.com/verifywise-ai/verifywise) - AI governance and evaluation platform with EU AI Act, ISO 42001, and NIST AI RMF support.
 - [EU AI Act MCP](https://github.com/SonnyLabs/EU_AI_ACT_MCP) - Model Context Protocol server connecting AI agents to EU AI Act compliance checks.
+- [Practical AI Act](https://github.com/aai-institute/practical-ai-act) - Reference implementation of a high-risk AI system demonstrating EU AI Act Chapter III compliance.
+- [AI Act Engineering](https://github.com/visenger/aiact-engineering) - Reference list for engineering practices that ensure AI systems comply with the EU AI Act.
+- [TechOps](https://github.com/aloosley/techops) - Technical documentation templates for responsible AI systems with full EU AI Act requirement mapping.
+- [AIR Blackbox](https://github.com/airblackbox/gateway) - AI governance control plane with tamper-proof audit trails for EU AI Act compliance.
+- [AI-SBOM](https://github.com/aai-institute/AI-SBOM) - AI Software Bill of Materials specification addressing EU AI Act transparency obligations.
+- [RADAR](https://github.com/CheckFirstHQ/RADAR) - Structured framework for assessing Digital Services Act compliance with standardized infringement tags.
+- [Awesome EU AI Act](https://github.com/morganrcu/awesome-eu-ai-act) - Curated list of tools, frameworks, and resources for EU AI Act compliance and AI assurance.
 
 ## Interoperability and Digital Infrastructure
 
@@ -119,6 +126,7 @@ CEF building blocks (eDelivery, eSignature, eTranslation), X-Road, EBSI, and EU 
 - [FIWARE Catalogue](https://github.com/FIWARE/catalogue) - Curated framework of open source platform components for EU smart applications using NGSI-LD.
 - [Europa Component Library](https://github.com/ec-europa/europa-component-library) - Component library used by the European Commission websites.
 - [sovity EDC CE](https://github.com/sovity/edc-ce) - Community Edition of the Eclipse Dataspace Connector by sovity.
+- [XFSC Federated Catalogue](https://github.com/eclipse-xfsc/federated-catalogue) - Gaia-X Federation Services catalogue for self-descriptions and service offerings in European data spaces.
 - [Orion-LD](https://github.com/FIWARE/context.Orion-LD) - Context Broker and CEF building block for context data management supporting NGSI-LD and NGSI-v2.
 - [FIWARE NGSI-LD Tutorials](https://github.com/FIWARE/tutorials.NGSI-LD) - Step-by-step tutorials for FIWARE NGSI-LD smart applications.
 - [pkilint](https://github.com/digicert/pkilint) - Framework for verifying PKI structures including EU trust service certificates.
@@ -423,6 +431,8 @@ EU Taxonomy, CSRD, SFDR, CBAM, Digital Product Passport, EU Deforestation Regula
 - [EUDR API Client](https://github.com/mfrntic/eudr-api-client) - Node.js library for the EU Deforestation Regulation TRACES system API.
 - [ESRS XBRL Parser](https://github.com/aimabel-ai/esrs-xbrl-parser) - Tools for parsing European Sustainability Reporting Standards taxonomies in XBRL format.
 - [EU Emissions Trading System Data](https://github.com/datasets/eu-emissions-trading-system) - Open dataset of the EU Emissions Trading System.
+- [DPP Validator](https://github.com/artiso-ai/dppvalidator) - Compliance validation engine for EU Digital Product Passports against ESPR regulations.
+- [EUDR PHP Client](https://github.com/4bdullatif/eudr-php-client) - PHP client for the EU Deforestation Regulation TRACES system API with WS-Security authentication.
 - [OS-Climate ITR](https://github.com/os-climate/ITR) - Python implementation of the Implied Temperature Rise methodology for EU sustainable finance.
 
 ## Agriculture and Food Safety
@@ -574,6 +584,9 @@ European Health Data Space (EHDS), EMA, EudraVigilance, EHIC, EU MDR/IVDR, and c
 - [DGC Verifier Android](https://github.com/eu-digital-green-certificates/dgca-verifier-app-android) - Android application for verifying EU Digital COVID Certificates.
 - [OpenRegulatory Templates](https://github.com/openregulatory/templates) - Templates for ISO 13485, IEC 62304, ISO 14971 and IEC 62366 compliance with EU medical device regulations.
 - [FHIR IPS](https://github.com/HL7/fhir-ips) - HL7 FHIR International Patient Summary standard for cross-border healthcare data exchange.
+- [EHDS Explorer](https://github.com/stefanbuttigieg/ehdsexplorer) - Digital platform for navigating and searching the European Health Data Space Regulation.
+- [HL7 EU Patient Summary](https://github.com/hl7-eu/eps) - HL7 Europe Patient Summary FHIR Implementation Guide for cross-border health data exchange.
+- [UNICOM IDMP Implementation Guide](https://github.com/hl7-eu/unicom-ig) - FHIR Implementation Guide for the UNICOM project implementing ISO IDMP standards for EU medicinal product identification.
 
 ## Cybersecurity
 
@@ -610,6 +623,8 @@ NIS2 directive, ENISA, EU Cybersecurity Act, Cyber Resilience Act, and European 
 - [CSAF Distribution](https://github.com/csaf-poc/csaf_distribution) - Tools for downloading and providing Common Security Advisory Framework documents.
 - [Hfinger](https://github.com/CERT-Polska/hfinger) - HTTP request fingerprinting tool developed by CERT Polska for malware traffic analysis.
 - [Awesome NIS2 Directive](https://github.com/CyberAlbSecOP/Awesome_NIS2_Directive) - Curated resources, information, and tools for the EU NIS2 Directive on network and information security.
+- [TARA Tool](https://github.com/SCHUNK-SE-Co-KG/TARATool) - Browser-based threat analysis and risk assessment tool for EU Cyber Resilience Act compliance.
+- [Cyberismo EU CRA](https://github.com/CyberismoCom/module-eu-cra) - Content module helping product manufacturers comply with the EU Cyber Resilience Act.
 
 ## Accessibility
 
@@ -658,6 +673,11 @@ ECTS, Erasmus+, Horizon Europe, CORDIS, OpenAIRE, EOSC, CERN, and European resea
 - [RODA](https://github.com/keeps/roda) - Repository of Authentic Digital Objects for long-term digital preservation in European cultural heritage institutions.
 - [DBPTK](https://github.com/keeps/dbptk-developer) - Database Preservation Toolkit for migrating databases to archival formats used in European digital preservation.
 - [HEPData](https://github.com/HEPData/hepdata) - CERN-hosted repository for publication-related high-energy physics data.
+- [Europass CV Parser](https://github.com/europass/europasscv-parser-js) - JavaScript library for parsing Europass CV documents from PDF and XML formats.
+- [EWP Interinstitutional Agreements API](https://github.com/erasmus-without-paper/ewp-specs-api-iias) - Specifications of the Erasmus Without Paper Interinstitutional Agreements API for cross-border student mobility.
+- [OpenAIRE Guidelines](https://github.com/openaire/guidelines) - Interoperability guidelines for integrating repositories and CRIS systems with the OpenAIRE infrastructure.
+- [Pangeo EOSC](https://github.com/pangeo-data/pangeo-eosc) - Deployment of the Pangeo big data geoscience stack on the European Open Science Cloud.
+- [ERC Starting Grant Template](https://github.com/alexfikl/erc-stg) - LaTeX class and template for European Research Council Starting Grant proposals.
 
 ## European Utilities
 
@@ -675,6 +695,7 @@ Pan-European utility libraries: IBAN validation, NUTS regions, European phone nu
 - [date-holidays](https://github.com/commenthol/date-holidays) - JavaScript library providing public holiday data for countries worldwide including all EU member states.
 - [stdnum-js](https://github.com/koblas/stdnum-js) - JavaScript library to validate European tax numbers, VAT IDs, and other standard identifiers.
 - [OpenHolidays API](https://github.com/openpotato/openholidaysapi) - Web service providing public holiday data with strong European country coverage.
+- [Schengulator](https://github.com/PennyHow/schengulator) - Python tool to calculate how many days an individual has been in Schengen countries out of a 180-day period.
 
 ## Country-Specific Awesome Lists
 
