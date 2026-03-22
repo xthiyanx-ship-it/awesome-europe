@@ -90,6 +90,8 @@ Electronic Identification, Authentication and Trust Services regulation for cros
 - [OID4VCI](https://github.com/sphereon-opensource/OID4VCI) - TypeScript modules for OpenID for Verifiable Credential Issuance used in EUDI Wallet implementations.
 - [EWC EUDI Wallet RFCs](https://github.com/EWC-consortium/eudi-wallet-rfcs) - EU Digital Identity Wallet RFCs for the Large Scale Pilot use cases, co-funded by the European Union.
 - [EUDI OpenID4VP Kotlin](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-siop-openid4vp-kt) - Kotlin implementation of the OpenID for Verifiable Presentations protocol for the EUDI Wallet.
+- [EUDI Web Issuing](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py) - Python backend for issuing PID, mDL and EAA credentials via OID4VCI for the EUDI Wallet.
+- [Sphereon SSI SDK](https://github.com/Sphereon-Opensource/SSI-SDK) - Self Sovereign Identity SDK used in European digital identity wallet implementations.
 
 ## Digital Regulation
 
@@ -97,6 +99,7 @@ EU AI Act, Digital Services Act (DSA), Digital Markets Act (DMA), and related di
 
 - [EuConform](https://github.com/Hiepler/EuConform) - EU AI Act compliance tool for risk classification and bias testing.
 - [DSA Transparency Database](https://github.com/digital-services-act/transparency-database) - Official Digital Services Act Transparency Database for content moderation reporting.
+- [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered evaluation framework for generative AI models aligned with the EU AI Act.
 
 ## Interoperability and Digital Infrastructure
 
@@ -117,6 +120,7 @@ CEF building blocks (eDelivery, eSignature, eTranslation), X-Road, EBSI, and EU 
 - [LinkedPipes ETL](https://github.com/linkedpipes/etl) - RDF-based lightweight ETL tool developed under EU research funding.
 - [Stellio Context Broker](https://github.com/stellio-hub/stellio-context-broker) - NGSI-LD compatible context broker for EU smart applications.
 - [Scorpio Broker](https://github.com/ScorpioBroker/ScorpioBroker) - NGSI-LD compliant context broker developed by NEC for EU data spaces.
+- [Orion Context Broker](https://github.com/telefonicaid/fiware-orion) - Reference implementation of the NGSI Context Broker providing NGSI-v2 interfaces for EU smart applications.
 - [hale»studio](https://github.com/halestudio/hale) - Spatial data harmonisation tool for INSPIRE-compliant data transformation.
 - [Interoperability Test Bed](https://github.com/ISAITB/gitb) - Conformance testing solution supported by the European Commission for EU IT systems interoperability.
 - [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - Metadata standard for describing public software adopted across EU administrations.
@@ -183,6 +187,7 @@ SEPA, PSD2, Open Banking, EBICS, and the Single Euro Payments Area infrastructur
 - [ebics-client-php](https://github.com/ebics-api/ebics-client-php) - PHP EBICS library supporting versions 2.4, 2.5, and 3.0 for European banking communication.
 - [libfintx](https://github.com/libfintx/libfintx) - .NET banking client library for HBCI 2.2, FinTS 3.0, and EBICS H004/H005.
 - [ebics-java-client](https://github.com/ebics-java/ebics-java-client) - Java open source EBICS client supporting French, German, and Swiss banks.
+- [python-sepadd](https://github.com/raphaelm/python-sepadd) - Python library for generating SEPA Direct Debit XML files.
 
 ## Central Banking and Monetary Policy
 
@@ -414,6 +419,8 @@ INSPIRE directive, Copernicus programme, Sentinel data, and European geospatial 
 - [openEO Processes](https://github.com/Open-EO/openeo-processes) - Interoperable process definitions for openEO big Earth observation cloud processing.
 - [pyPoseidon](https://github.com/ec-jrc/pyPoseidon) - JRC Python framework for hydrodynamic simulations in European coastal and marine environments.
 - [LISFLOOD Utilities](https://github.com/ec-jrc/lisflood-utilities) - Utility tools for the JRC LISFLOOD European flood forecasting system.
+- [pycsw](https://github.com/geopython/pycsw) - OGC CSW server implementation widely used as a catalogue component of European spatial data infrastructures.
+- [GeoDCAT-AP](https://github.com/SEMICeu/iso-19139-to-dcat-ap) - Reference XSLT implementation for converting ISO 19139 metadata to GeoDCAT-AP for EU data portals.
 - [52North SOS](https://github.com/52North/sos) - OGC Sensor Observation Service implementation for European environmental monitoring networks.
 - [Helgoland](https://github.com/52North/helgoland) - Visual exploration and analysis of sensor web data for European environmental monitoring.
 - [Magics](https://github.com/ecmwf/magics) - ECMWF meteorological plotting package for visualising data in GRIB, NetCDF, and BUFR formats.
