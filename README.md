@@ -298,7 +298,7 @@ EBA, ESMA regulations, MiFID II, MiCA, DORA, EMIR, XBRL/iXBRL reporting, and Eur
 Eurostat, EU Open Data Portal, SDMX, NUTS regions, and pan-European statistical infrastructure.
 
 - [CKAN](https://github.com/ckan/ckan) - Open source data management system powering many European government open data portals.
-- [ckanext-dcat](https://github.com/okfn/ckanext-dcat) - CKAN extension implementing DCAT and DCAT-AP for EU open data portal interoperability.
+- [ckanext-dcat](https://github.com/ckan/ckanext-dcat) - CKAN extension implementing DCAT and DCAT-AP for EU open data portal interoperability.
 - [ckanext-harvest](https://github.com/ckan/ckanext-harvest) - Remote harvesting extension for CKAN used by European government data portals.
 - [ckanext-spatial](https://github.com/ckan/ckanext-spatial) - Geospatial extension for CKAN enabling INSPIRE metadata support in European data portals.
 - [DCAT-AP](https://github.com/SEMICeu/DCAT-AP) - Application profile of DCAT for describing public sector datasets in European data portals.
