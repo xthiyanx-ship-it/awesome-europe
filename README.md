@@ -603,6 +603,8 @@ NIS2 directive, ENISA, EU Cybersecurity Act, Cyber Resilience Act, and European 
 - [CSAF Distribution](https://github.com/csaf-poc/csaf_distribution) - Tools for downloading and providing Common Security Advisory Framework documents.
 - [Cyberismo EU CRA](https://github.com/CyberismoCom/module-eu-cra) - Content module helping product manufacturers comply with the EU Cyber Resilience Act.
 - [DRAKVUF Sandbox](https://github.com/CERT-Polska/drakvuf-sandbox) - Automated hypervisor-level malware analysis system developed by CERT Polska.
+- [GCVE](https://github.com/gcve-eu/gcve) - Python client for the Global CVE allocation system, a decentralized vulnerability numbering alternative developed by CIRCL Luxembourg.
+- [GCVE.eu](https://github.com/gcve-eu/gcve.eu) - Standards and website for the Global CVE allocation system, a European-led decentralized vulnerability identification framework.
 - [Hfinger](https://github.com/CERT-Polska/hfinger) - HTTP request fingerprinting tool developed by CERT Polska for malware traffic analysis.
 - [IntelMQ](https://github.com/certtools/intelmq) - Security feed processing framework for CERTs, developed by Austrian CERT for European cybersecurity operations.
 - [IntelMQ Manager](https://github.com/certtools/intelmq-manager) - Web interface for managing IntelMQ security feed processing configurations.
