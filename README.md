@@ -139,6 +139,7 @@ CEF building blocks (eDelivery, eSignature, eTranslation), X-Road, EBSI, and EU 
 - [FIWARE Catalogue](https://github.com/FIWARE/catalogue) - Curated framework of open source platform components for EU smart applications using NGSI-LD.
 - [FIWARE Data Space Connector](https://github.com/FIWARE/data-space-connector) - Data Space Connector following DSBA Technical Convergence recommendations for EU data spaces.
 - [FIWARE Keyrock](https://github.com/ging/fiware-idm) - OAuth 2.0 identity management and Single Sign-On for FIWARE-based EU smart applications.
+- [FIWARE IoT Agent JSON](https://github.com/telefonicaid/iotagent-json) - IoT Agent for JSON-based protocols with HTTP, MQTT and AMQP transports in FIWARE smart applications.
 - [FIWARE NGSI-LD Tutorials](https://github.com/FIWARE/tutorials.NGSI-LD) - Step-by-step tutorials for FIWARE NGSI-LD smart applications.
 - [hale»studio](https://github.com/halestudio/hale) - Spatial data harmonisation tool for INSPIRE-compliant data transformation.
 - [Harmony eDelivery Access Point](https://github.com/nordic-institute/harmony-access-point) - Open source eDelivery AS4 Access Point for cross-border document exchange.
