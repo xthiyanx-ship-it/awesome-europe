@@ -530,6 +530,7 @@ INSPIRE directive, Copernicus programme, Sentinel data, and European geospatial 
 - [GeoDCAT-AP](https://github.com/SEMICeu/iso-19139-to-dcat-ap) - Reference XSLT implementation for converting ISO 19139 metadata to GeoDCAT-AP for EU data portals.
 - [GeoHealthCheck](https://github.com/geopython/GeoHealthCheck) - Service status and quality of service checker for OGC web services used in European SDI monitoring.
 - [GeoNetwork](https://github.com/geonetwork/core-geonetwork) - Metadata catalog application for managing spatially referenced resources, widely used in EU INSPIRE nodes.
+- [geometa](https://github.com/eblondel/geometa) - R package for reading, writing and validating ISO 19115 geographic metadata with INSPIRE validation support.
 - [Helgoland](https://github.com/52North/helgoland) - Visual exploration and analysis of sensor web data for European environmental monitoring.
 - [INSPIRE Technical Guidelines](https://github.com/INSPIRE-MIF/technical-guidelines) - Community discussion and change proposals for INSPIRE Technical Guidance documents.
 - [INSPIRE Validator](https://github.com/INSPIRE-MIF/helpdesk-validator) - Community discussion and issue tracker for the INSPIRE data and service validation tools.
@@ -680,6 +681,7 @@ ECTS, Erasmus+, Horizon Europe, CORDIS, OpenAIRE, EOSC, CERN, and European resea
 - [Zenodo RDM](https://github.com/zenodo/zenodo-rdm) - Next generation of the CERN-hosted Zenodo open research repository, powered by InvenioRDM.
 - [zenodo-upload](https://github.com/jhpoelen/zenodo-upload) - Script for uploading large files to Zenodo using cURL and bash.
 - [zenodo_get](https://github.com/dvolgyes/zenodo_get) - Downloader for Zenodo records and datasets.
+- [zen4R](https://github.com/eblondel/zen4R) - R interface to the Zenodo REST API for managing deposits in the CERN-hosted open research repository.
 
 ## European Utilities
 
