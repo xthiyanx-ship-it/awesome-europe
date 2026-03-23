@@ -88,7 +88,6 @@ Electronic Identification, Authentication and Trust Services regulation for cros
 - [EUDI Web Issuing](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py) - Python backend for issuing PID, mDL and EAA credentials via OID4VCI for the EUDI Wallet.
 - [EUDI Web Verifier](https://github.com/eu-digital-identity-wallet/eudi-web-verifier) - Web-based verifier application for the European Digital Identity Wallet.
 - [EWC EUDI Wallet RFCs](https://github.com/EWC-consortium/eudi-wallet-rfcs) - EU Digital Identity Wallet RFCs for the Large Scale Pilot use cases, co-funded by the European Union.
-- [js-undersign](https://github.com/moll/js-undersign) - JavaScript library for creating eIDAS compatible XAdES signatures with support for OCSP and timestamps.
 - [OID4VCI](https://github.com/sphereon-opensource/OID4VCI) - TypeScript modules for OpenID for Verifiable Credential Issuance used in EUDI Wallet implementations.
 - [Open Banking eIDAS Broker](https://github.com/enablebanking/open_banking_eidas_broker) - Microservice using eIDAS certificates for signing PSD2 API requests and accessing banks over mTLS.
 - [Procivis One Core](https://github.com/procivis/one-core) - Issue, hold and verify digital identities and credentials with eIDAS 2.0 compliancy.
@@ -97,6 +96,7 @@ Electronic Identification, Authentication and Trust Services regulation for cros
 - [Sphereon SSI SDK](https://github.com/Sphereon-Opensource/SSI-SDK) - Self Sovereign Identity SDK used in European digital identity wallet implementations.
 - [SSI Agent](https://github.com/impierce/ssi-agent) - Self Sovereign Identity Agent with eIDAS 2.0 compliance that connects European Identity Wallets to IT systems.
 - [tl-create](https://github.com/PeculiarVentures/tl-create) - Cross-platform CLI tool to create X.509 trust lists from various trust stores including eIDAS.
+- [Undersign.js](https://github.com/moll/js-undersign) - JavaScript library for creating eIDAS compatible XAdES signatures with support for OCSP and timestamps.
 - [walt.id Identity](https://github.com/walt-id/waltid-identity) - All-in-one open source identity and wallet toolkit with eIDAS 2.0 support.
 
 ## Digital Regulation
