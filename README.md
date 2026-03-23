@@ -716,7 +716,7 @@ Contributions are welcome. Read the [contributing guidelines](contributing.md) b
 
 **Badge:** If your project is listed here, you can add one of these badges to your README:
 
-![listed on awesome-europe](https://img.shields.io/badge/listed%20on-awesome--europe-ffcc00?style=flat&logo=europeanunion&logoColor=ffcc00&labelColor=003399) ![listed on awesome-europe](https://img.shields.io/badge/listed%20on-awesome--europe-ffcc00?style=flat-square&logo=europeanunion&logoColor=ffcc00&labelColor=003399) ![listed on awesome-europe](https://img.shields.io/badge/listed%20on-awesome--europe-ffcc00?style=for-the-badge&logo=europeanunion&logoColor=ffcc00&labelColor=003399)
+![listed on awesome-europe](https://img.shields.io/badge/listed%20on-awesome--europe-ffcc00?style=flat&logo=europeanunion&logoColor=ffcc00&labelColor=003399) ![listed on awesome-europe](https://img.shields.io/badge/listed%20on-awesome--europe-ffcc00?style=flat-square&logo=europeanunion&logoColor=ffcc00&labelColor=003399) ![listed on awesome-europe](https://img.shields.io/badge/listed%20on-awesome--europe-ffcc00?style=plastic&logo=europeanunion&logoColor=ffcc00&labelColor=003399) ![listed on awesome-europe](https://img.shields.io/badge/listed%20on-awesome--europe-ffcc00?style=for-the-badge&logo=europeanunion&logoColor=ffcc00&labelColor=003399)
 
 Flat (default):
 ```markdown
@@ -726,6 +726,11 @@ Flat (default):
 Flat square:
 ```markdown
 [![listed on awesome-europe](https://img.shields.io/badge/listed%20on-awesome--europe-ffcc00?style=flat-square&logo=europeanunion&logoColor=ffcc00&labelColor=003399)](https://github.com/GeiserX/awesome-europe#readme)
+```
+
+Plastic:
+```markdown
+[![listed on awesome-europe](https://img.shields.io/badge/listed%20on-awesome--europe-ffcc00?style=plastic&logo=europeanunion&logoColor=ffcc00&labelColor=003399)](https://github.com/GeiserX/awesome-europe#readme)
 ```
 
 For the badge (large):
