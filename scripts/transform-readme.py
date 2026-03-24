@@ -451,7 +451,8 @@ DEMO_URLS.update({
     "OpenCTI-Platform/opencti": "https://demo.opencti.io",
     "europeana/portal.js": "https://www.europeana.eu",
     "indico/indico": "https://getindico.io",
-    "echr-od/ECHR-OD_process": "https://echr-opendata.eu",
+    # "echr-od/ECHR-OD_process": demo removed (502)
+
     "HowTheyVote/howtheyvote": "https://howtheyvote.eu",
     "HowTheyVote/data": "https://howtheyvote.eu",
     "kiprotect/klaro": "https://klaro.org/demo",
@@ -462,7 +463,8 @@ DEMO_URLS.update({
     "OpenBankProject/OBP-API": "https://apisandbox.openbankproject.com",
     "geopython/pygeoapi": "https://demo.pygeoapi.io",
     "geopython/GeoHealthCheck": "https://demo.geohealthcheck.org",
-    "geonetwork/core-geonetwork": "https://demo.geonetwork-opensource.org",
+    # "geonetwork/core-geonetwork": demo removed (timeout)
+
     "cernopendata/opendata.cern.ch": "https://opendata.cern.ch",
     "cernanalysispreservation/analysispreservation.cern.ch": "https://analysispreservation.cern.ch",
     "HEPData/hepdata": "https://hepdata.net",
@@ -475,7 +477,8 @@ DEMO_URLS.update({
     # "adorsys/XS2A-Sandbox": demo removed (connection refused)
 
     "CIRCL/bgp-ranking": "https://bgpranking.circl.lu",
-    "getprobo/probo": "https://demo.getprobo.com",
+    # "getprobo/probo": demo removed (connection refused)
+
     # "CovenantSQL/CookieScanner": demo removed (connection refused)
 
     "FIWARE/catalogue": "https://www.fiware.org/catalogue",
