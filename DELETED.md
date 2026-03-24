@@ -22,4 +22,15 @@ Repos that were removed from the list because they were archived, deprecated, or
 - [Aleph](https://github.com/alephdata/aleph) - Investigative data platform. Sunsetted, replaced by [OpenAleph](https://github.com/openaleph/openaleph).
 - [Cygnus](https://github.com/telefonicaid/fiware-cygnus) - FIWARE connector for persisting context data into third-party databases. Deprecated, replaced by [Kafnus](https://github.com/telefonicaid/Kafnus).
 
+## Rejected (out of scope)
+
+- [ows4R](https://github.com/eblondel/ows4R) - R interface to OGC Web Services. Generic geospatial tool, not EU-specific.
+- [geosapi](https://github.com/eblondel/geosapi) - R interface to GeoServer API. Generic geospatial tool.
+- [geonapi](https://github.com/eblondel/geonapi) - R interface to GeoNetwork API. Generic geospatial tool.
+- [geoflow](https://github.com/r-geoflow/geoflow) - FAIR geospatial workflow tools. Used in EC projects but generic.
+- [RAAM](https://github.com/accessibility-luxembourg/ReferentielAccessibiliteMobile) - Mobile accessibility framework. Pending clarification on EU-specificity.
+- [RAPDF](https://github.com/accessibility-luxembourg/ReferentielAccessibilitePDF) - PDF accessibility framework. 0 stars, pending clarification.
+- [Apple-RHVoice](https://github.com/accessibility-luxembourg/Apple-RHVoice) - RHVoice for Apple. General-purpose text-to-speech, not EU-specific.
+- [FlowIntel](https://github.com/MISP/FlowIntel) - Generic case management tool without EU-specific functionality.
+
 ## Other
