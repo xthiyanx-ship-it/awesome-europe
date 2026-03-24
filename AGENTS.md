@@ -83,6 +83,7 @@ A curated list of open source software that provides **support specifically for 
 
 - Description **must not start with the project name**.
 - Maximum one line per entry.
+- Entries in **alphabetical order** (by display name, case-insensitive) within each section and subsection.
 - Validate with awesome-lint: `npx awesome-lint`.
 
 ## Verification before adding
@@ -112,16 +113,8 @@ Before including a repository, check:
 
 No projects related to: pornography, NSFW content, gambling, religion, partisan politics.
 
-## Promotion
+## Outreach
 
-- Notify repo owners by opening an issue titled "Listed on awesome-europe" with a brief English message offering to remove if preferred.
+- Notify repo owners by opening an issue titled "Listed on awesome-europe" with a brief English message offering to remove if preferred. Only 1 issue per organization/user — do not spam repos from the same owner.
 - Post to European dev communities (Reddit r/europe, r/programming, Hacker News) after reaching critical mass.
-- Submit to sindresorhus/awesome after 30 days from repo creation.
-
-## Git
-
-- Identity: `GeiserX` / `9169332+GeiserX@users.noreply.github.com`
-- No `Co-Authored-By` in commits.
-- No attribution to Claude/Anthropic in public text.
-- Default branch: `main`.
-- Always `unset GITHUB_TOKEN` before `gh` commands.
+- Submit PR to [sindresorhus/awesome](https://github.com/sindresorhus/awesome) after 30 days from repo creation.

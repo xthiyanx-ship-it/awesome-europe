@@ -16,7 +16,7 @@ Thanks for your interest in contributing. This list grows thanks to the communit
 
 ### Creating a new category
 
-- Only if there are at least **3 projects** to justify it.
+- Preferably with at least **3 projects** to justify it.
 - Add the new category to the **table of contents** in the appropriate order.
 
 ### Entry format
