@@ -234,7 +234,7 @@ TAG_URLS = {
     "Schengen": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa_en",
     "SDMX": "https://sdmx.org/",
     "SEPA": "https://www.europeanpaymentscouncil.eu/",
-    "VAT": "https://taxation-customs.ec.europa.eu/vat_en",
+    "VAT": "https://taxation-customs.ec.europa.eu/taxation/vat_en",
     "X-Road": "https://x-road.global/",
 }
 
