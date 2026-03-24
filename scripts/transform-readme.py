@@ -271,46 +271,48 @@ def get_demo_url(owner_repo):
 def transform_entry(line, current_section):
     """Transform a single entry line with metadata."""
     # Match entry pattern: - [Name](url) - Description.
-    m = re.match(r'^- \[([^\]]+)\]\((https://github\.com/([^)]+))\) - (.+)$', line)
+    # Also match already-transformed entries (with ![Stars] etc.)
+    m = re.match(r'^- \[([^\]]+)\]\((https://github\.com/([^)]+))\)\s+(?:!\[.*?\]\([^)]+\)\s*)*- (.+)$', line)
+    if not m:
+        # Try simpler pattern for non-transformed entries
+        m = re.match(r'^- \[([^\]]+)\]\((https://github\.com/([^)]+))\) - (.+)$', line)
     if not m:
         return line
 
     name = m.group(1)
     url = m.group(2)
     owner_repo = m.group(3)
-    description = m.group(4)
+    raw_desc = m.group(4)
 
-    # Build star badge
-    star_badge = f"![Stars](https://img.shields.io/github/stars/{owner_repo}?style=flat-square&label=)"
+    # Strip any existing backtick tags and demo links from description
+    description = re.sub(r'\s*\(\[Demo\]\([^)]+\)\)', '', raw_desc)
+    description = re.sub(r'\s*`[^`]+`', '', description).strip()
 
-    # Build tags
-    tags = []
+    # Auto-updating shields.io badges
+    star_badge = f"![Stars](https://img.shields.io/github/stars/{owner_repo}?style=flat-square&label=⭐)"
+    lang_badge = f"![Language](https://img.shields.io/github/languages/top/{owner_repo}?style=flat-square)"
+    license_badge = f"![License](https://img.shields.io/github/license/{owner_repo}?style=flat-square)"
 
-    # Language
-    lang = get_language(owner_repo)
-    if lang:
-        tags.append(f"`{lang}`")
-
-    # License
-    lic = get_license(owner_repo)
-    if lic:
-        tags.append(f"`{lic}`")
-
-    # EU regulation tags
-    eu_tags = get_eu_tags(current_section, name, description)
-    for t in eu_tags:
-        tags.append(f"`{t}`")
+    # EU regulation tags as blue badges
+    eu_tags = get_eu_tags(current_section, name, raw_desc)
+    eu_badges = " ".join(
+        f"![{t}](https://img.shields.io/badge/{t.replace(' ', '%20')}-003399?style=flat-square)"
+        for t in eu_tags
+    )
 
     # Demo link
     demo = get_demo_url(owner_repo)
     demo_str = f" ([Demo]({demo}))" if demo else ""
 
-    # Build final line
-    tags_str = " ".join(tags)
-    if tags_str:
-        tags_str = " " + tags_str
+    # Build: Name + auto-badges + EU badges + demo + description
+    parts = [f"- [{name}]({url}) {star_badge} {lang_badge} {license_badge}"]
+    if eu_badges:
+        parts[0] += f" {eu_badges}"
+    if demo_str:
+        parts[0] += demo_str
+    parts[0] += f" - {description}"
 
-    return f"- [{name}]({url}) {star_badge} - {description}{demo_str}{tags_str}"
+    return parts[0]
 
 
 def main():
