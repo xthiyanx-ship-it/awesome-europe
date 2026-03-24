@@ -36,5 +36,6 @@ Remove this section if not applicable.
 
 - [ ] I ran `npx awesome-lint` with no errors.
 - [ ] There are no **duplicates** in the list.
-- [ ] Entries follow the format: `- [Name](URL) - Description with capital letter and period.`
+- [ ] Entries follow the format: `- [Name](URL) ![Stars](...) - Description. ([Demo](...)) \`Language\` \`License\` \`EU-Tag\``
+- [ ] Entries include star badge, language, license, and EU regulation tags.
 - [ ] Entries are in **alphabetical order** within their section.

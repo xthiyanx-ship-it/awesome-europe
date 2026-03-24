@@ -22,9 +22,20 @@ Thanks for your interest in contributing. This list grows thanks to the communit
 ### Entry format
 
 ```markdown
-- [Name](https://github.com/owner/repo) - Description starting with a capital letter and ending with a period.
+- [Name](https://github.com/owner/repo) ![Stars](https://img.shields.io/github/stars/owner/repo?style=flat-square&label=) - Description starting with a capital letter and ending with a period. ([Demo](https://example.com)) `Language` `License` `EU-Tag`
 ```
 
+Each entry includes:
+- **Star badge** (required): `![Stars](https://img.shields.io/github/stars/owner/repo?style=flat-square&label=)` — auto-updating shields.io badge.
+- **Description** (required): One sentence, starts with a capital letter, ends with a period.
+- **Demo link** (optional): `([Demo](url))` — only if a live interactive instance is available (not just a marketing page).
+- **Language tag** (required if available): Backtick-wrapped primary language from GitHub, e.g. `` `Python` ``, `` `Java` ``.
+- **License tag** (required if available): SPDX identifier, e.g. `` `MIT` ``, `` `Apache-2.0` ``, `` `EUPL-1.2` ``.
+- **EU regulation tags** (required): One or more tags indicating which EU regulation, standard, or infrastructure the project supports. Common tags: `GDPR`, `eIDAS`, `EN16931`, `PSD2`, `VAT`, `AMLD`, `NIS2`, `DORA`, `CRA`, `AI Act`, `DSA`, `DMA`, `INSPIRE`, `Copernicus`, `FIWARE`, `CERN`, `Peppol`, `SEPA`, `CSIRT`, `EAA`, `ITS`, `Data Spaces`, `Open Data`, `eProcurement`, `CAP`, `EHDS`.
+
+**Tag order:** Language → License → EU regulation tags (alphabetical).
+
+Additional rules:
 - Description **must not start with the project name** (awesome-lint rejects this).
 - Maximum one line per entry.
 - Descriptions should be in **English**.

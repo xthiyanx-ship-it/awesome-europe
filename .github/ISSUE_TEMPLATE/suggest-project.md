@@ -10,6 +10,7 @@ labels: suggestion
 - **Name:**
 - **Repository URL:**
 - **EU regulation/institution/standard it supports:**
+- **Demo URL (if available):**
 
 ## Description
 
