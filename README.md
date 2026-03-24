@@ -263,7 +263,6 @@ EU VAT system (VIES, OSS/IOSS), TARIC customs tariffs, CN codes, EORI, and Intra
 
 EU Anti-Money Laundering Directives (AMLD), sanctions screening, KYC/KYB, beneficial ownership, and LEI tools.
 
-- [Aleph](https://github.com/alephdata/aleph) - Search and browse documents and data to find people and companies, used for investigative journalism and EU compliance.
 - [Beneficial Ownership Data Standard](https://github.com/openownership/data-standard) - Open standard for publishing beneficial ownership data, aligned with EU AMLD transparency requirements.
 - [Follow the Money](https://github.com/alephdata/followthemoney) - Data model and processing tools for investigative entity data used in EU AML compliance.
 - [Memorious](https://github.com/alephdata/memorious) - Lightweight web scraping toolkit for documents and structured data used in investigative compliance.

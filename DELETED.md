@@ -19,6 +19,7 @@ Repos that were removed from the list because they were archived, deprecated, or
 
 ## Deprecated
 
+- [Aleph](https://github.com/alephdata/aleph) - Investigative data platform. Sunsetted, replaced by [OpenAleph](https://github.com/openaleph/openaleph).
 - [Cygnus](https://github.com/telefonicaid/fiware-cygnus) - FIWARE connector for persisting context data into third-party databases. Deprecated, replaced by [Kafnus](https://github.com/telefonicaid/Kafnus).
 
 ## Other
