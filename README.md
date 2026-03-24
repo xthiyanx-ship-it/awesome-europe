@@ -638,7 +638,9 @@ European Accessibility Act (EAA), EN 301 549, EU Web Accessibility Directive, an
 - [ACT Rules](https://github.com/act-rules/act-rules.github.io) - Community-maintained accessibility conformance testing rules used to harmonize EU EN 301 549 compliance evaluation.
 - [Alfa](https://github.com/Siteimprove/alfa) - Standards-based accessibility conformance testing suite implementing ACT Rules for EN 301 549 and WCAG.
 - [BIK Web Test](https://github.com/BIK-BITV/BIK-Web-Test) - Test procedures for evaluating web accessibility against WCAG 2.1 and EN 301 549 criteria.
-- [simplA11yMonit](https://github.com/accessibility-luxembourg/simplA11yMonit) - Tool implementing the EU simplified accessibility monitoring method from Commission Decision 2018/1524.
+- [RAWEB](https://github.com/accessibility-luxembourg/ReferentielAccessibiliteWeb) - Web accessibility assessment framework implementing the EU Web Accessibility Directive for website evaluation.
+- [SimplA11yMonit](https://github.com/accessibility-luxembourg/simplA11yMonit) - Tool implementing the EU simplified accessibility monitoring method from Commission Decision 2018/1524.
+- [SimplA11yPDFCrawler](https://github.com/accessibility-luxembourg/simplA11yPDFCrawler) - Crawler that downloads PDFs from websites and analyses their accessibility against EU standards.
 
 ## Education and Research
 
