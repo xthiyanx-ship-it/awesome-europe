@@ -40,678 +40,680 @@
 
 <!--lint enable awesome-list-item-->
 
+**Legend:** Each entry shows: ![Stars](https://img.shields.io/badge/★-123-blue?style=flat-square) stars · ([Demo](https://example.com)) live demo · `Language` · `License` · `EU Regulation` tags.
+
 ## GDPR and Data Protection
 
 EU General Data Protection Regulation (2016/679) and related data protection frameworks.
 
-- [Anonimatron](https://github.com/realrolfje/anonimatron) - Data anonymization tool providing GDPR compliance for databases since 2010.
-- [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) - GRC platform supporting 100+ frameworks including GDPR, NIS2, DORA, and ISO 27001 with automatic control mapping.
-- [CNIL PIA](https://github.com/LINCnil/pia) - Privacy Impact Assessment tool published by the French data protection authority for GDPR compliance.
-- [Consent Management Platform](https://github.com/68publishers/consent-management-platform) - Manage user consents and the cookie widget for GDPR compliance.
-- [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences.
-- [Cookie Consent](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla JavaScript for GDPR and ePrivacy compliance.
-- [Cookie Consent Banner](https://github.com/porscheofficial/cookie-consent-banner) - Lightweight and flexible cookie consent banner for EU GDPR compliance.
-- [Cookie Scanner](https://github.com/CovenantSQL/CookieScanner) - Scan websites for cookies and generate GDPR compliance reports.
-- [Cookies EU Banner](https://github.com/Alex-D/Cookies-EU-banner) - Lightweight 1kb vanilla JavaScript EU cookie consent banner.
-- [Data Privacy Vocabulary](https://github.com/w3c/dpv) - W3C vocabulary for describing personal data processing activities aligned with GDPR concepts.
-- [Databunker](https://github.com/paranoidguy/databunker) - Secure vault for customer PII records providing a GDPR compliance API.
-- [Fides](https://github.com/ethyca/fides) - Privacy engineering and compliance framework for GDPR data mapping, consent, and subject request automation.
-- [GDPR Checklist](https://github.com/privacyradius/gdpr-checklist) - Checklist for GDPR compliance.
-- [GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide) - Best practices guide for developers to comply with GDPR, published by the CNIL.
-- [GDPR Transparency and Consent Framework](https://github.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework) - Technical specifications for IAB Europe Transparency and Consent Framework for GDPR compliance in digital advertising.
-- [gdpr_rails](https://github.com/prey/gdpr_rails) - Rails engine for GDPR compliance including data portability, consent management, and right to erasure.
-- [Haven](https://github.com/chiiya/haven) - Fully-featured GDPR-ready cookie consent manager for websites.
-- [Klaro](https://github.com/kiprotect/klaro) - Privacy-friendly and compliant consent manager for websites.
-- [laravel-gdpr](https://github.com/sander3/laravel-gdpr) - Laravel package for GDPR compliance with data portability and right to erasure.
-- [Osano Cookie Consent](https://github.com/osano/cookieconsent) - Free solution to the EU GDPR and ePrivacy cookie laws with customizable consent popups.
-- [Probo](https://github.com/getprobo/probo) - Open source compliance solutions for SOC2, GDPR, and ISO 27001.
-- [tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Compliant and accessible cookie consent banner with built-in support for hundreds of services.
+- [Anonimatron](https://github.com/realrolfje/anonimatron) ![Stars](https://img.shields.io/github/stars/realrolfje/anonimatron?style=flat-square&label=) - Data anonymization tool providing GDPR compliance for databases since 2010. `Java` `MIT` `GDPR`
+- [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) ![Stars](https://img.shields.io/github/stars/intuitem/ciso-assistant-community?style=flat-square&label=) - GRC platform supporting 100+ frameworks including GDPR, NIS2, DORA, and ISO 27001 with automatic control mapping. ([Demo](https://demo.ciso-assistant.com)) `Python` `DORA` `GDPR` `NIS2`
+- [CNIL PIA](https://github.com/LINCnil/pia) ![Stars](https://img.shields.io/github/stars/LINCnil/pia?style=flat-square&label=) - Privacy Impact Assessment tool published by the French data protection authority for GDPR compliance. `TypeScript` `GPL-3.0` `GDPR`
+- [Consent Management Platform](https://github.com/68publishers/consent-management-platform) ![Stars](https://img.shields.io/github/stars/68publishers/consent-management-platform?style=flat-square&label=) - Manage user consents and the cookie widget for GDPR compliance. `PHP` `GDPR`
+- [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) ![Stars](https://img.shields.io/github/stars/cavi-au/Consent-O-Matic?style=flat-square&label=) - Browser extension that automatically fills out cookie popups based on your preferences. `JavaScript` `GDPR`
+- [Cookie Consent](https://github.com/orestbida/cookieconsent) ![Stars](https://img.shields.io/github/stars/orestbida/cookieconsent?style=flat-square&label=) - Simple cross-browser cookie-consent plugin written in vanilla JavaScript for GDPR and ePrivacy compliance. ([Demo](https://playground.cookieconsent.orestbida.com)) `JavaScript` `MIT` `GDPR`
+- [Cookie Consent Banner](https://github.com/porscheofficial/cookie-consent-banner) ![Stars](https://img.shields.io/github/stars/porscheofficial/cookie-consent-banner?style=flat-square&label=) - Lightweight and flexible cookie consent banner for EU GDPR compliance. `TypeScript` `MIT` `GDPR`
+- [Cookie Scanner](https://github.com/CovenantSQL/CookieScanner) ![Stars](https://img.shields.io/github/stars/CovenantSQL/CookieScanner?style=flat-square&label=) - Scan websites for cookies and generate GDPR compliance reports. ([Demo](https://gdprexpert.io)) `Go` `Apache-2.0` `GDPR`
+- [Cookies EU Banner](https://github.com/Alex-D/Cookies-EU-banner) ![Stars](https://img.shields.io/github/stars/Alex-D/Cookies-EU-banner?style=flat-square&label=) - Lightweight 1kb vanilla JavaScript EU cookie consent banner. `JavaScript` `MIT` `GDPR`
+- [Data Privacy Vocabulary](https://github.com/w3c/dpv) ![Stars](https://img.shields.io/github/stars/w3c/dpv?style=flat-square&label=) - W3C vocabulary for describing personal data processing activities aligned with GDPR concepts. `HTML` `GDPR`
+- [Databunker](https://github.com/paranoidguy/databunker) ![Stars](https://img.shields.io/github/stars/paranoidguy/databunker?style=flat-square&label=) - Secure vault for customer PII records providing a GDPR compliance API. `Go` `MIT` `GDPR`
+- [Fides](https://github.com/ethyca/fides) ![Stars](https://img.shields.io/github/stars/ethyca/fides?style=flat-square&label=) - Privacy engineering and compliance framework for GDPR data mapping, consent, and subject request automation. `Python` `Apache-2.0` `GDPR`
+- [GDPR Checklist](https://github.com/privacyradius/gdpr-checklist) ![Stars](https://img.shields.io/github/stars/privacyradius/gdpr-checklist?style=flat-square&label=) - Checklist for GDPR compliance. `JavaScript` `GDPR`
+- [GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide) ![Stars](https://img.shields.io/github/stars/LINCnil/GDPR-Developer-Guide?style=flat-square&label=) - Best practices guide for developers to comply with GDPR, published by the CNIL. `HTML` `GPL-3.0` `GDPR`
+- [GDPR Transparency and Consent Framework](https://github.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework) ![Stars](https://img.shields.io/github/stars/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework?style=flat-square&label=) - Technical specifications for IAB Europe Transparency and Consent Framework for GDPR compliance in digital advertising. `GDPR`
+- [gdpr_rails](https://github.com/prey/gdpr_rails) ![Stars](https://img.shields.io/github/stars/prey/gdpr_rails?style=flat-square&label=) - Rails engine for GDPR compliance including data portability, consent management, and right to erasure. `MIT` `GDPR`
+- [Haven](https://github.com/chiiya/haven) ![Stars](https://img.shields.io/github/stars/chiiya/haven?style=flat-square&label=) - Fully-featured GDPR-ready cookie consent manager for websites. `TypeScript` `MIT` `GDPR`
+- [Klaro](https://github.com/kiprotect/klaro) ![Stars](https://img.shields.io/github/stars/kiprotect/klaro?style=flat-square&label=) - Privacy-friendly and compliant consent manager for websites. ([Demo](https://klaro.org/demo)) `JavaScript` `GDPR`
+- [laravel-gdpr](https://github.com/sander3/laravel-gdpr) ![Stars](https://img.shields.io/github/stars/sander3/laravel-gdpr?style=flat-square&label=) - Laravel package for GDPR compliance with data portability and right to erasure. `PHP` `MIT` `GDPR`
+- [Osano Cookie Consent](https://github.com/osano/cookieconsent) ![Stars](https://img.shields.io/github/stars/osano/cookieconsent?style=flat-square&label=) - Free solution to the EU GDPR and ePrivacy cookie laws with customizable consent popups. `JavaScript` `MIT` `GDPR`
+- [Probo](https://github.com/getprobo/probo) ![Stars](https://img.shields.io/github/stars/getprobo/probo?style=flat-square&label=) - Open source compliance solutions for SOC2, GDPR, and ISO 27001. ([Demo](https://demo.getprobo.com)) `Go` `MIT` `GDPR`
+- [tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) ![Stars](https://img.shields.io/github/stars/AmauriC/tarteaucitron.js?style=flat-square&label=) - Compliant and accessible cookie consent banner with built-in support for hundreds of services. ([Demo](https://tarteaucitron.io)) `JavaScript` `MIT` `GDPR`
 
 ## eIDAS and Digital Identity
 
 Electronic Identification, Authentication and Trust Services regulation for cross-border digital identity, including the EU Digital Identity Wallet.
 
-- [AltMe Wallet](https://github.com/TalaoDAO/AltMe) - Open source Self Sovereign Identity wallet with EBSI conformance and EUDI wallet ARF implementation.
-- [Apple eIDAS](https://github.com/apple/eidas) - Tools for reading and creating eIDAS certificate signing requests.
-- [eIDAS Keycloak Extension](https://github.com/grnet/eidas-keycloak-extension) - Keycloak Identity Provider extension supporting the eIDAS SAML v2.0 dialect.
-- [eIDAS Middleware](https://github.com/Governikus/eidas-middleware) - Implementation of the European eIDAS middleware provided under the EUPL 1.2 by Governikus.
-- [EUDI Architecture and Reference Framework](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework) - Architecture and reference framework for the European Digital Identity Wallet.
-- [EUDI OpenID4VCI Kotlin](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-openid4vci-kt) - Kotlin implementation of the OpenID for Verifiable Credential Issuance protocol for the EUDI Wallet.
-- [EUDI OpenID4VP Kotlin](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-siop-openid4vp-kt) - Kotlin implementation of the OpenID for Verifiable Presentations protocol for the EUDI Wallet.
-- [EUDI PID Issuer](https://github.com/eu-digital-identity-wallet/eudi-srv-pid-issuer) - Microservice for issuing Person Identification Data and mDL according to OpenID4VCI.
-- [EUDI SD-JWT Kotlin](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-sdjwt-kt) - Kotlin library for issuing and verifying SD-JWT credentials in the EUDI Wallet ecosystem.
-- [EUDI Verifier Endpoint](https://github.com/eu-digital-identity-wallet/eudi-srv-verifier-endpoint) - Web application that acts as a Verifier trusted endpoint for the EUDI Wallet.
-- [EUDI Wallet Android](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui) - EUDI Wallet prototype for Android.
-- [EUDI Wallet Core Android](https://github.com/eu-digital-identity-wallet/eudi-lib-android-wallet-core) - Core libraries for the EUDI Wallet reference implementation on Android.
-- [EUDI Wallet iOS](https://github.com/eu-digital-identity-wallet/eudi-app-ios-wallet-ui) - EUDI Wallet prototype for iOS.
-- [EUDI Wallet Kit iOS](https://github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-kit) - Core wallet kit library for the EUDI Wallet reference implementation on iOS.
-- [EUDI Web Issuing](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py) - Python backend for issuing PID, mDL and EAA credentials via OID4VCI for the EUDI Wallet.
-- [EUDI Web Verifier](https://github.com/eu-digital-identity-wallet/eudi-web-verifier) - Web-based verifier application for the European Digital Identity Wallet.
-- [EWC EUDI Wallet RFCs](https://github.com/EWC-consortium/eudi-wallet-rfcs) - EU Digital Identity Wallet RFCs for the Large Scale Pilot use cases, co-funded by the European Union.
-- [OID4VCI](https://github.com/sphereon-opensource/OID4VCI) - TypeScript modules for OpenID for Verifiable Credential Issuance used in EUDI Wallet implementations.
-- [Open Banking eIDAS Broker](https://github.com/enablebanking/open_banking_eidas_broker) - Microservice using eIDAS certificates for signing PSD2 API requests and accessing banks over mTLS.
-- [Procivis One Core](https://github.com/procivis/one-core) - Issue, hold and verify digital identities and credentials with eIDAS 2.0 compliancy.
-- [Procivis One Wallet](https://github.com/procivis/one-wallet) - Digital wallet with eIDAS 2.0 compliancy, ISO 18013-5 mdocs, and SD-JWT VC support.
-- [pyMDOC-CBOR](https://github.com/IdentityPython/pyMDOC-CBOR) - MDOC CBOR static Verifier and Issuer for EUDI Wallet PID and mDL use cases.
-- [Sphereon SSI SDK](https://github.com/Sphereon-Opensource/SSI-SDK) - Self Sovereign Identity SDK used in European digital identity wallet implementations.
-- [SSI Agent](https://github.com/impierce/ssi-agent) - Self Sovereign Identity Agent with eIDAS 2.0 compliance that connects European Identity Wallets to IT systems.
-- [tl-create](https://github.com/PeculiarVentures/tl-create) - Cross-platform CLI tool to create X.509 trust lists from various trust stores including eIDAS.
-- [Undersign.js](https://github.com/moll/js-undersign) - JavaScript library for creating eIDAS compatible XAdES signatures with support for OCSP and timestamps.
-- [walt.id Identity](https://github.com/walt-id/waltid-identity) - All-in-one open source identity and wallet toolkit with eIDAS 2.0 support.
+- [AltMe Wallet](https://github.com/TalaoDAO/AltMe) ![Stars](https://img.shields.io/github/stars/TalaoDAO/AltMe?style=flat-square&label=) - Open source Self Sovereign Identity wallet with EBSI conformance and EUDI wallet ARF implementation. `Dart` `Apache-2.0` `eIDAS`
+- [Apple eIDAS](https://github.com/apple/eidas) ![Stars](https://img.shields.io/github/stars/apple/eidas?style=flat-square&label=) - Tools for reading and creating eIDAS certificate signing requests. `Go` `MIT` `eIDAS`
+- [eIDAS Keycloak Extension](https://github.com/grnet/eidas-keycloak-extension) ![Stars](https://img.shields.io/github/stars/grnet/eidas-keycloak-extension?style=flat-square&label=) - Keycloak Identity Provider extension supporting the eIDAS SAML v2.0 dialect. `Java` `Apache-2.0` `eIDAS`
+- [eIDAS Middleware](https://github.com/Governikus/eidas-middleware) ![Stars](https://img.shields.io/github/stars/Governikus/eidas-middleware?style=flat-square&label=) - Implementation of the European eIDAS middleware provided under the EUPL 1.2 by Governikus. `Java` `EUPL-1.2` `eIDAS`
+- [EUDI Architecture and Reference Framework](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework) ![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework?style=flat-square&label=) - Architecture and reference framework for the European Digital Identity Wallet. `Python` `eIDAS`
+- [EUDI OpenID4VCI Kotlin](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-openid4vci-kt) ![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-lib-jvm-openid4vci-kt?style=flat-square&label=) - Kotlin implementation of the OpenID for Verifiable Credential Issuance protocol for the EUDI Wallet. `Kotlin` `Apache-2.0` `eIDAS`
+- [EUDI OpenID4VP Kotlin](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-siop-openid4vp-kt) ![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-lib-jvm-siop-openid4vp-kt?style=flat-square&label=) - Kotlin implementation of the OpenID for Verifiable Presentations protocol for the EUDI Wallet. `Kotlin` `Apache-2.0` `eIDAS`
+- [EUDI PID Issuer](https://github.com/eu-digital-identity-wallet/eudi-srv-pid-issuer) ![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-srv-pid-issuer?style=flat-square&label=) - Microservice for issuing Person Identification Data and mDL according to OpenID4VCI. `Kotlin` `Apache-2.0` `eIDAS`
+- [EUDI SD-JWT Kotlin](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-sdjwt-kt) ![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-lib-jvm-sdjwt-kt?style=flat-square&label=) - Kotlin library for issuing and verifying SD-JWT credentials in the EUDI Wallet ecosystem. `Kotlin` `Apache-2.0` `eIDAS`
+- [EUDI Verifier Endpoint](https://github.com/eu-digital-identity-wallet/eudi-srv-verifier-endpoint) ![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-srv-verifier-endpoint?style=flat-square&label=) - Web application that acts as a Verifier trusted endpoint for the EUDI Wallet. `Kotlin` `Apache-2.0` `eIDAS`
+- [EUDI Wallet Android](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui) ![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-app-android-wallet-ui?style=flat-square&label=) - EUDI Wallet prototype for Android. `Kotlin` `EUPL-1.2` `eIDAS`
+- [EUDI Wallet Core Android](https://github.com/eu-digital-identity-wallet/eudi-lib-android-wallet-core) ![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-lib-android-wallet-core?style=flat-square&label=) - Core libraries for the EUDI Wallet reference implementation on Android. `Kotlin` `Apache-2.0` `eIDAS`
+- [EUDI Wallet iOS](https://github.com/eu-digital-identity-wallet/eudi-app-ios-wallet-ui) ![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-app-ios-wallet-ui?style=flat-square&label=) - EUDI Wallet prototype for iOS. `Swift` `EUPL-1.2` `eIDAS`
+- [EUDI Wallet Kit iOS](https://github.com/eu-digital-identity-wallet/eudi-lib-ios-wallet-kit) ![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-lib-ios-wallet-kit?style=flat-square&label=) - Core wallet kit library for the EUDI Wallet reference implementation on iOS. `Swift` `Apache-2.0` `eIDAS`
+- [EUDI Web Issuing](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py) ![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py?style=flat-square&label=) - Python backend for issuing PID, mDL and EAA credentials via OID4VCI for the EUDI Wallet. `Python` `Apache-2.0` `EAA` `eIDAS`
+- [EUDI Web Verifier](https://github.com/eu-digital-identity-wallet/eudi-web-verifier) ![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-web-verifier?style=flat-square&label=) - Web-based verifier application for the European Digital Identity Wallet. `TypeScript` `Apache-2.0` `eIDAS`
+- [EWC EUDI Wallet RFCs](https://github.com/EWC-consortium/eudi-wallet-rfcs) ![Stars](https://img.shields.io/github/stars/EWC-consortium/eudi-wallet-rfcs?style=flat-square&label=) - EU Digital Identity Wallet RFCs for the Large Scale Pilot use cases, co-funded by the European Union. `HTML` `Apache-2.0` `eIDAS`
+- [OID4VCI](https://github.com/sphereon-opensource/OID4VCI) ![Stars](https://img.shields.io/github/stars/sphereon-opensource/OID4VCI?style=flat-square&label=) - TypeScript modules for OpenID for Verifiable Credential Issuance used in EUDI Wallet implementations. `TypeScript` `Apache-2.0` `eIDAS`
+- [Open Banking eIDAS Broker](https://github.com/enablebanking/open_banking_eidas_broker) ![Stars](https://img.shields.io/github/stars/enablebanking/open_banking_eidas_broker?style=flat-square&label=) - Microservice using eIDAS certificates for signing PSD2 API requests and accessing banks over mTLS. `Python` `Apache-2.0` `PSD2` `eIDAS`
+- [Procivis One Core](https://github.com/procivis/one-core) ![Stars](https://img.shields.io/github/stars/procivis/one-core?style=flat-square&label=) - Issue, hold and verify digital identities and credentials with eIDAS 2.0 compliancy. `Rust` `Apache-2.0` `eIDAS`
+- [Procivis One Wallet](https://github.com/procivis/one-wallet) ![Stars](https://img.shields.io/github/stars/procivis/one-wallet?style=flat-square&label=) - Digital wallet with eIDAS 2.0 compliancy, ISO 18013-5 mdocs, and SD-JWT VC support. `TypeScript` `Apache-2.0` `eIDAS`
+- [pyMDOC-CBOR](https://github.com/IdentityPython/pyMDOC-CBOR) ![Stars](https://img.shields.io/github/stars/IdentityPython/pyMDOC-CBOR?style=flat-square&label=) - MDOC CBOR static Verifier and Issuer for EUDI Wallet PID and mDL use cases. `Python` `Apache-2.0` `eIDAS`
+- [Sphereon SSI SDK](https://github.com/Sphereon-Opensource/SSI-SDK) ![Stars](https://img.shields.io/github/stars/Sphereon-Opensource/SSI-SDK?style=flat-square&label=) - Self Sovereign Identity SDK used in European digital identity wallet implementations. `TypeScript` `Apache-2.0` `eIDAS`
+- [SSI Agent](https://github.com/impierce/ssi-agent) ![Stars](https://img.shields.io/github/stars/impierce/ssi-agent?style=flat-square&label=) - Self Sovereign Identity Agent with eIDAS 2.0 compliance that connects European Identity Wallets to IT systems. `Rust` `Apache-2.0` `eIDAS`
+- [tl-create](https://github.com/PeculiarVentures/tl-create) ![Stars](https://img.shields.io/github/stars/PeculiarVentures/tl-create?style=flat-square&label=) - Cross-platform CLI tool to create X.509 trust lists from various trust stores including eIDAS. `HTML` `MIT` `eIDAS`
+- [Undersign.js](https://github.com/moll/js-undersign) ![Stars](https://img.shields.io/github/stars/moll/js-undersign?style=flat-square&label=) - JavaScript library for creating eIDAS compatible XAdES signatures with support for OCSP and timestamps. `JavaScript` `eIDAS`
+- [walt.id Identity](https://github.com/walt-id/waltid-identity) ![Stars](https://img.shields.io/github/stars/walt-id/waltid-identity?style=flat-square&label=) - All-in-one open source identity and wallet toolkit with eIDAS 2.0 support. `Kotlin` `Apache-2.0` `eIDAS`
 
 ## Digital Regulation
 
 EU AI Act, Digital Services Act (DSA), Digital Markets Act (DMA), and related digital regulation compliance tools.
 
-- [AI Act Engineering](https://github.com/visenger/aiact-engineering) - Reference list for engineering practices that ensure AI systems comply with the EU AI Act.
-- [AI-SBOM](https://github.com/aai-institute/AI-SBOM) - AI Software Bill of Materials specification addressing EU AI Act transparency obligations.
-- [AIR Blackbox](https://github.com/airblackbox/gateway) - AI governance control plane with tamper-proof audit trails for EU AI Act compliance.
-- [Awesome EU AI Act](https://github.com/morganrcu/awesome-eu-ai-act) - Curated list of tools, frameworks, and resources for EU AI Act compliance and AI assurance.
-- [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered evaluation framework for generative AI models aligned with the EU AI Act.
-- [DSA Transparency Database](https://github.com/digital-services-act/transparency-database) - Official Digital Services Act Transparency Database for content moderation reporting.
-- [EU AI Act MCP](https://github.com/SonnyLabs/EU_AI_ACT_MCP) - Model Context Protocol server connecting AI agents to EU AI Act compliance checks.
-- [EuConform](https://github.com/Hiepler/EuConform) - EU AI Act compliance tool for risk classification and bias testing.
-- [Practical AI Act](https://github.com/aai-institute/practical-ai-act) - Reference implementation of a high-risk AI system demonstrating EU AI Act Chapter III compliance.
-- [RADAR](https://github.com/CheckFirstHQ/RADAR) - Structured framework for assessing Digital Services Act compliance with standardized infringement tags.
-- [TechOps](https://github.com/aloosley/techops) - Technical documentation templates for responsible AI systems with full EU AI Act requirement mapping.
-- [VerifyWise](https://github.com/verifywise-ai/verifywise) - AI governance and evaluation platform with EU AI Act, ISO 42001, and NIST AI RMF support.
+- [AI Act Engineering](https://github.com/visenger/aiact-engineering) ![Stars](https://img.shields.io/github/stars/visenger/aiact-engineering?style=flat-square&label=) - Reference list for engineering practices that ensure AI systems comply with the EU AI Act. `CC0-1.0` `AI Act`
+- [AI-SBOM](https://github.com/aai-institute/AI-SBOM) ![Stars](https://img.shields.io/github/stars/aai-institute/AI-SBOM?style=flat-square&label=) - AI Software Bill of Materials specification addressing EU AI Act transparency obligations. `MIT` `AI Act`
+- [AIR Blackbox](https://github.com/airblackbox/gateway) ![Stars](https://img.shields.io/github/stars/airblackbox/gateway?style=flat-square&label=) - AI governance control plane with tamper-proof audit trails for EU AI Act compliance. `Python` `Apache-2.0` `AI Act`
+- [Awesome EU AI Act](https://github.com/morganrcu/awesome-eu-ai-act) ![Stars](https://img.shields.io/github/stars/morganrcu/awesome-eu-ai-act?style=flat-square&label=) - Curated list of tools, frameworks, and resources for EU AI Act compliance and AI assurance. `AI Act`
+- [Compl-AI](https://github.com/compl-ai/compl-ai) ![Stars](https://img.shields.io/github/stars/compl-ai/compl-ai?style=flat-square&label=) - Compliance-centered evaluation framework for generative AI models aligned with the EU AI Act. ([Demo](https://compl-ai.org)) `Python` `Apache-2.0` `AI Act`
+- [DSA Transparency Database](https://github.com/digital-services-act/transparency-database) ![Stars](https://img.shields.io/github/stars/digital-services-act/transparency-database?style=flat-square&label=) - Official Digital Services Act Transparency Database for content moderation reporting. `PHP` `GPL-2.0` `DSA`
+- [EU AI Act MCP](https://github.com/SonnyLabs/EU_AI_ACT_MCP) ![Stars](https://img.shields.io/github/stars/SonnyLabs/EU_AI_ACT_MCP?style=flat-square&label=) - Model Context Protocol server connecting AI agents to EU AI Act compliance checks. ([Demo](https://sonnylabs.ai)) `Python` `Apache-2.0` `AI Act`
+- [EuConform](https://github.com/Hiepler/EuConform) ![Stars](https://img.shields.io/github/stars/Hiepler/EuConform?style=flat-square&label=) - EU AI Act compliance tool for risk classification and bias testing. `TypeScript` `MIT` `AI Act`
+- [Practical AI Act](https://github.com/aai-institute/practical-ai-act) ![Stars](https://img.shields.io/github/stars/aai-institute/practical-ai-act?style=flat-square&label=) - Reference implementation of a high-risk AI system demonstrating EU AI Act Chapter III compliance. ([Demo](https://practical-ai-act.eu)) `Python` `Apache-2.0` `AI Act`
+- [RADAR](https://github.com/CheckFirstHQ/RADAR) ![Stars](https://img.shields.io/github/stars/CheckFirstHQ/RADAR?style=flat-square&label=) - Structured framework for assessing Digital Services Act compliance with standardized infringement tags. `DSA`
+- [TechOps](https://github.com/aloosley/techops) ![Stars](https://img.shields.io/github/stars/aloosley/techops?style=flat-square&label=) - Technical documentation templates for responsible AI systems with full EU AI Act requirement mapping. `MIT` `AI Act`
+- [VerifyWise](https://github.com/verifywise-ai/verifywise) ![Stars](https://img.shields.io/github/stars/verifywise-ai/verifywise?style=flat-square&label=) - AI governance and evaluation platform with EU AI Act, ISO 42001, and NIST AI RMF support. `TypeScript` `AI Act`
 
 ## Interoperability and Digital Infrastructure
 
 CEF building blocks (eDelivery, eSignature, eTranslation), X-Road, EBSI, and EU cross-border digital infrastructure.
 
-- [CCCEV](https://github.com/SEMICeu/CCCEV) - Core Criterion and Core Evidence Vocabulary for EU cross-border public services.
-- [Core Business Vocabulary](https://github.com/SEMICeu/Core-Business-Vocabulary) - EU vocabulary for exchanging basic business information across borders.
-- [Core Location Vocabulary](https://github.com/SEMICeu/Core-Location-Vocabulary) - EU vocabulary describing location information such as geometries and addresses for cross-border exchange.
-- [Core Public Organisation Vocabulary](https://github.com/SEMICeu/CPOV) - EU vocabulary for describing public organisations in cross-border data exchange.
-- [CPSV-AP](https://github.com/SEMICeu/CPSV-AP) - Core Public Service Vocabulary Application Profile for describing public services in EU cross-border exchange.
-- [Dataspace Protocol](https://github.com/International-Data-Spaces-Association/ids-specification) - Specifications for interoperable data sharing in EU data spaces based on web technologies.
-- [DSS](https://github.com/esig/dss) - EU Digital Signature Service for creation, extension and validation of advanced electronic signatures (CAdES, XAdES, PAdES, ASiC).
-- [DSS Demonstrations](https://github.com/esig/dss-demonstrations) - Sample applications demonstrating the integration of the EU Digital Signature Service library.
-- [Eclipse Dataspace Connector](https://github.com/eclipse-edc/Connector) - EDC core services including data plane and control plane for EU data spaces.
-- [Eclipse EDC IdentityHub](https://github.com/eclipse-edc/IdentityHub) - Identity management component for the Eclipse Dataspace Connector ecosystem.
-- [EDC DataDashboard](https://github.com/eclipse-edc/DataDashboard) - Dashboard UI for the Eclipse Dataspace Connector ecosystem.
-- [EDC Samples](https://github.com/eclipse-edc/Samples) - Sample implementations and tutorials for the Eclipse Dataspace Connector.
-- [efm-asic](https://github.com/felleslosninger/efm-asic) - Generic implementation of ETSI ASiC-E archive containers for EU eDelivery infrastructure.
-- [Europa Component Library](https://github.com/ec-europa/europa-component-library) - Component library used by the European Commission websites.
-- [Europeana Core Library](https://github.com/europeana/corelib) - Core library containing EDM (Europeana Data Model) used by Europeana applications.
-- [Europeana Portal](https://github.com/europeana/portal.js) - Europeana.eu website providing access to European cultural heritage collections.
-- [FIWARE Catalogue](https://github.com/FIWARE/catalogue) - Curated framework of open source platform components for EU smart applications using NGSI-LD.
-- [FIWARE Data Space Connector](https://github.com/FIWARE/data-space-connector) - Data Space Connector following DSBA Technical Convergence recommendations for EU data spaces.
-- [FIWARE Keyrock](https://github.com/ging/fiware-idm) - OAuth 2.0 identity management and Single Sign-On for FIWARE-based EU smart applications.
-- [FIWARE IoT Agent JSON](https://github.com/telefonicaid/iotagent-json) - IoT Agent for JSON-based protocols with HTTP, MQTT and AMQP transports in FIWARE smart applications.
-- [FIWARE NGSI-LD Tutorials](https://github.com/FIWARE/tutorials.NGSI-LD) - Step-by-step tutorials for FIWARE NGSI-LD smart applications.
-- [hale»studio](https://github.com/halestudio/hale) - Spatial data harmonisation tool for INSPIRE-compliant data transformation.
-- [Harmony eDelivery Access Point](https://github.com/nordic-institute/harmony-access-point) - Open source eDelivery AS4 Access Point for cross-border document exchange.
-- [Holodeck B2B](https://github.com/holodeck-b2b/Holodeck-B2B) - AS4 messaging solution implementing OASIS ebMS3 and AS4 profile for EU eDelivery.
-- [Idra](https://github.com/OPSILab/Idra) - Open Data Federation Platform for aggregating open datasets from heterogeneous EU data catalogues.
-- [Interoperability Test Bed](https://github.com/ISAITB/gitb) - Conformance testing solution supported by the European Commission for EU IT systems interoperability.
-- [ITB CSV Validator](https://github.com/ISAITB/csv-validator) - European Commission validation service for CSV data in EU interoperability testing.
-- [ITB JSON Validator](https://github.com/ISAITB/json-validator) - European Commission validation service for JSON data in EU interoperability testing.
-- [ITB SHACL Validator](https://github.com/ISAITB/shacl-validator) - European Commission validation service for RDF data using SHACL shapes.
-- [ITB XML Validator](https://github.com/ISAITB/xml-validator) - European Commission validation service for XML data in EU interoperability testing.
-- [Kafnus](https://github.com/telefonicaid/Kafnus) - Kafka-based FIWARE connector for persisting context data into third-party databases, replacing Cygnus.
-- [libdigidocpp](https://github.com/open-eid/libdigidocpp) - Library for creating and verifying XAdES digital signatures compliant with eIDAS standards.
-- [LinkedPipes ETL](https://github.com/linkedpipes/etl) - RDF-based lightweight ETL tool developed under EU research funding.
-- [Minimum Viable Dataspace](https://github.com/eclipse-edc/MinimumViableDataspace) - Documentation and scripts for deploying a minimum viable EU dataspace with Eclipse EDC.
-- [Orion Context Broker](https://github.com/telefonicaid/fiware-orion) - Reference implementation of the NGSI Context Broker providing NGSI-v2 interfaces for EU smart applications.
-- [Orion-LD](https://github.com/FIWARE/context.Orion-LD) - Context Broker and CEF building block for context data management supporting NGSI-LD and NGSI-v2.
-- [pkilint](https://github.com/digicert/pkilint) - Framework for verifying PKI structures including EU trust service certificates.
-- [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - Metadata standard for describing public software adopted across EU administrations.
-- [Scorpio Broker](https://github.com/ScorpioBroker/ScorpioBroker) - NGSI-LD compliant context broker developed by NEC for EU data spaces.
-- [SEMIC Core Vocabularies](https://github.com/SEMICeu/Core-Person-Vocabulary) - Core Person Vocabulary for cross-border data exchange in the EU, maintained by SEMIC.
-- [SiGa](https://github.com/open-eid/SiGa) - Signature Gateway for creating and validating eIDAS-compliant digital signature containers.
-- [Smart Data Models](https://github.com/smart-data-models/data-models) - Harmonized data models for EU-funded smart applications based on NGSI-LD.
-- [Smart Data Models Agrifood](https://github.com/smart-data-models/dataModel.Agrifood) - NGSI-LD data models for agriculture and food in EU-funded smart applications.
-- [Smart Data Models Transportation](https://github.com/smart-data-models/dataModel.Transportation) - NGSI-LD data models for transportation in EU-funded smart city applications.
-- [sovity Authority Portal](https://github.com/sovity/authority-portal) - Governance and collaboration portal for participants in EU Data Spaces.
-- [sovity EDC CE](https://github.com/sovity/edc-ce) - Community Edition of the Eclipse Dataspace Connector by sovity.
-- [sovity EDC Extensions](https://github.com/sovity/edc-extensions) - Extended Eclipse Dataspace Connector components for the sovity Community Edition.
-- [Stellio Context Broker](https://github.com/stellio-hub/stellio-context-broker) - NGSI-LD compatible context broker for EU smart applications.
-- [Trusted Connector](https://github.com/Fraunhofer-AISEC/trusted-connector) - IoT edge platform for the International Data Spaces with Camel message routing and remote attestation.
-- [WireCloud](https://github.com/Wirecloud/wirecloud) - FIWARE Application Mashup widget container and composition tools.
-- [X-Road](https://github.com/nordic-institute/X-Road) - Data exchange layer software used by EU member states for secure cross-border data exchange.
-- [XFSC Federated Catalogue](https://github.com/eclipse-xfsc/federated-catalogue) - Gaia-X Federation Services catalogue for self-descriptions and service offerings in European data spaces.
+- [CCCEV](https://github.com/SEMICeu/CCCEV) ![Stars](https://img.shields.io/github/stars/SEMICeu/CCCEV?style=flat-square&label=) - Core Criterion and Core Evidence Vocabulary for EU cross-border public services. `HTML`
+- [Core Business Vocabulary](https://github.com/SEMICeu/Core-Business-Vocabulary) ![Stars](https://img.shields.io/github/stars/SEMICeu/Core-Business-Vocabulary?style=flat-square&label=) - EU vocabulary for exchanging basic business information across borders. `HTML`
+- [Core Location Vocabulary](https://github.com/SEMICeu/Core-Location-Vocabulary) ![Stars](https://img.shields.io/github/stars/SEMICeu/Core-Location-Vocabulary?style=flat-square&label=) - EU vocabulary describing location information such as geometries and addresses for cross-border exchange. `HTML`
+- [Core Public Organisation Vocabulary](https://github.com/SEMICeu/CPOV) ![Stars](https://img.shields.io/github/stars/SEMICeu/CPOV?style=flat-square&label=) - EU vocabulary for describing public organisations in cross-border data exchange. `HTML`
+- [CPSV-AP](https://github.com/SEMICeu/CPSV-AP) ![Stars](https://img.shields.io/github/stars/SEMICeu/CPSV-AP?style=flat-square&label=) - Core Public Service Vocabulary Application Profile for describing public services in EU cross-border exchange. `HTML` `CPSV-AP`
+- [Dataspace Protocol](https://github.com/International-Data-Spaces-Association/ids-specification) ![Stars](https://img.shields.io/github/stars/International-Data-Spaces-Association/ids-specification?style=flat-square&label=) - Specifications for interoperable data sharing in EU data spaces based on web technologies. `Apache-2.0` `Data Spaces`
+- [DSS](https://github.com/esig/dss) ![Stars](https://img.shields.io/github/stars/esig/dss?style=flat-square&label=) - EU Digital Signature Service for creation, extension and validation of advanced electronic signatures (CAdES, XAdES, PAdES, ASiC). `Java` `LGPL-2.1` `eIDAS`
+- [DSS Demonstrations](https://github.com/esig/dss-demonstrations) ![Stars](https://img.shields.io/github/stars/esig/dss-demonstrations?style=flat-square&label=) - Sample applications demonstrating the integration of the EU Digital Signature Service library. `Java` `LGPL-2.1`
+- [Eclipse Dataspace Connector](https://github.com/eclipse-edc/Connector) ![Stars](https://img.shields.io/github/stars/eclipse-edc/Connector?style=flat-square&label=) - EDC core services including data plane and control plane for EU data spaces. `Java` `Apache-2.0` `Data Spaces`
+- [Eclipse EDC IdentityHub](https://github.com/eclipse-edc/IdentityHub) ![Stars](https://img.shields.io/github/stars/eclipse-edc/IdentityHub?style=flat-square&label=) - Identity management component for the Eclipse Dataspace Connector ecosystem. `Java` `Apache-2.0` `Data Spaces`
+- [EDC DataDashboard](https://github.com/eclipse-edc/DataDashboard) ![Stars](https://img.shields.io/github/stars/eclipse-edc/DataDashboard?style=flat-square&label=) - Dashboard UI for the Eclipse Dataspace Connector ecosystem. `TypeScript` `Apache-2.0` `Data Spaces`
+- [EDC Samples](https://github.com/eclipse-edc/Samples) ![Stars](https://img.shields.io/github/stars/eclipse-edc/Samples?style=flat-square&label=) - Sample implementations and tutorials for the Eclipse Dataspace Connector. `Java` `Apache-2.0` `Data Spaces`
+- [efm-asic](https://github.com/felleslosninger/efm-asic) ![Stars](https://img.shields.io/github/stars/felleslosninger/efm-asic?style=flat-square&label=) - Generic implementation of ETSI ASiC-E archive containers for EU eDelivery infrastructure. `Java` `MPL-2.0` `ETS` `ETSI` `eDelivery` `eIDAS`
+- [Europa Component Library](https://github.com/ec-europa/europa-component-library) ![Stars](https://img.shields.io/github/stars/ec-europa/europa-component-library?style=flat-square&label=) - Component library used by the European Commission websites. ([Demo](https://ec.europa.eu/component-library)) `JavaScript` `EUPL-1.1`
+- [Europeana Core Library](https://github.com/europeana/corelib) ![Stars](https://img.shields.io/github/stars/europeana/corelib?style=flat-square&label=) - Core library containing EDM (Europeana Data Model) used by Europeana applications. `Java` `EUPL-1.2`
+- [Europeana Portal](https://github.com/europeana/portal.js) ![Stars](https://img.shields.io/github/stars/europeana/portal.js?style=flat-square&label=) - Europeana.eu website providing access to European cultural heritage collections. ([Demo](https://www.europeana.eu)) `JavaScript` `EUPL-1.2`
+- [FIWARE Catalogue](https://github.com/FIWARE/catalogue) ![Stars](https://img.shields.io/github/stars/FIWARE/catalogue?style=flat-square&label=) - Curated framework of open source platform components for EU smart applications using NGSI-LD. ([Demo](https://www.fiware.org/catalogue)) `AGPL-3.0` `FIWARE`
+- [FIWARE Data Space Connector](https://github.com/FIWARE/data-space-connector) ![Stars](https://img.shields.io/github/stars/FIWARE/data-space-connector?style=flat-square&label=) - Data Space Connector following DSBA Technical Convergence recommendations for EU data spaces. `JavaScript` `Apache-2.0` `Data Spaces` `FIWARE`
+- [FIWARE Keyrock](https://github.com/ging/fiware-idm) ![Stars](https://img.shields.io/github/stars/ging/fiware-idm?style=flat-square&label=) - OAuth 2.0 identity management and Single Sign-On for FIWARE-based EU smart applications. `JavaScript` `MIT` `FIWARE`
+- [FIWARE IoT Agent JSON](https://github.com/telefonicaid/iotagent-json) ![Stars](https://img.shields.io/github/stars/telefonicaid/iotagent-json?style=flat-square&label=) - IoT Agent for JSON-based protocols with HTTP, MQTT and AMQP transports in FIWARE smart applications. `JavaScript` `AGPL-3.0` `FIWARE`
+- [FIWARE NGSI-LD Tutorials](https://github.com/FIWARE/tutorials.NGSI-LD) ![Stars](https://img.shields.io/github/stars/FIWARE/tutorials.NGSI-LD?style=flat-square&label=) - Step-by-step tutorials for FIWARE NGSI-LD smart applications. `JavaScript` `MIT` `FIWARE`
+- [hale»studio](https://github.com/halestudio/hale) ![Stars](https://img.shields.io/github/stars/halestudio/hale?style=flat-square&label=) - Spatial data harmonisation tool for INSPIRE-compliant data transformation. `Java` `INSPIRE`
+- [Harmony eDelivery Access Point](https://github.com/nordic-institute/harmony-access-point) ![Stars](https://img.shields.io/github/stars/nordic-institute/harmony-access-point?style=flat-square&label=) - Open source eDelivery AS4 Access Point for cross-border document exchange. `Java` `EUPL-1.2` `eDelivery`
+- [Holodeck B2B](https://github.com/holodeck-b2b/Holodeck-B2B) ![Stars](https://img.shields.io/github/stars/holodeck-b2b/Holodeck-B2B?style=flat-square&label=) - AS4 messaging solution implementing OASIS ebMS3 and AS4 profile for EU eDelivery. `Java` `GPL-3.0` `eDelivery`
+- [Idra](https://github.com/OPSILab/Idra) ![Stars](https://img.shields.io/github/stars/OPSILab/Idra?style=flat-square&label=) - Open Data Federation Platform for aggregating open datasets from heterogeneous EU data catalogues. `Java` `AGPL-3.0`
+- [Interoperability Test Bed](https://github.com/ISAITB/gitb) ![Stars](https://img.shields.io/github/stars/ISAITB/gitb?style=flat-square&label=) - Conformance testing solution supported by the European Commission for EU IT systems interoperability. `Scala` `EUPL-1.2`
+- [ITB CSV Validator](https://github.com/ISAITB/csv-validator) ![Stars](https://img.shields.io/github/stars/ISAITB/csv-validator?style=flat-square&label=) - European Commission validation service for CSV data in EU interoperability testing. ([Demo](https://www.itb.ec.europa.eu/csv/upload)) `Java` `EUPL-1.2`
+- [ITB JSON Validator](https://github.com/ISAITB/json-validator) ![Stars](https://img.shields.io/github/stars/ISAITB/json-validator?style=flat-square&label=) - European Commission validation service for JSON data in EU interoperability testing. ([Demo](https://www.itb.ec.europa.eu/json/upload)) `FreeMarker` `EUPL-1.2`
+- [ITB SHACL Validator](https://github.com/ISAITB/shacl-validator) ![Stars](https://img.shields.io/github/stars/ISAITB/shacl-validator?style=flat-square&label=) - European Commission validation service for RDF data using SHACL shapes. ([Demo](https://www.itb.ec.europa.eu/shacl/upload)) `Java` `EUPL-1.2`
+- [ITB XML Validator](https://github.com/ISAITB/xml-validator) ![Stars](https://img.shields.io/github/stars/ISAITB/xml-validator?style=flat-square&label=) - European Commission validation service for XML data in EU interoperability testing. ([Demo](https://www.itb.ec.europa.eu/xml/upload)) `Java` `EUPL-1.2`
+- [Kafnus](https://github.com/telefonicaid/Kafnus) ![Stars](https://img.shields.io/github/stars/telefonicaid/Kafnus?style=flat-square&label=) - Kafka-based FIWARE connector for persisting context data into third-party databases, replacing Cygnus. `Python` `AGPL-3.0` `FIWARE`
+- [libdigidocpp](https://github.com/open-eid/libdigidocpp) ![Stars](https://img.shields.io/github/stars/open-eid/libdigidocpp?style=flat-square&label=) - Library for creating and verifying XAdES digital signatures compliant with eIDAS standards. `C++` `eIDAS`
+- [LinkedPipes ETL](https://github.com/linkedpipes/etl) ![Stars](https://img.shields.io/github/stars/linkedpipes/etl?style=flat-square&label=) - RDF-based lightweight ETL tool developed under EU research funding. `Java`
+- [Minimum Viable Dataspace](https://github.com/eclipse-edc/MinimumViableDataspace) ![Stars](https://img.shields.io/github/stars/eclipse-edc/MinimumViableDataspace?style=flat-square&label=) - Documentation and scripts for deploying a minimum viable EU dataspace with Eclipse EDC. `Java` `Apache-2.0`
+- [Orion Context Broker](https://github.com/telefonicaid/fiware-orion) ![Stars](https://img.shields.io/github/stars/telefonicaid/fiware-orion?style=flat-square&label=) - Reference implementation of the NGSI Context Broker providing NGSI-v2 interfaces for EU smart applications. `C++` `AGPL-3.0` `FIWARE`
+- [Orion-LD](https://github.com/FIWARE/context.Orion-LD) ![Stars](https://img.shields.io/github/stars/FIWARE/context.Orion-LD?style=flat-square&label=) - Context Broker and CEF building block for context data management supporting NGSI-LD and NGSI-v2. `C++` `AGPL-3.0` `CEF` `FIWARE`
+- [pkilint](https://github.com/digicert/pkilint) ![Stars](https://img.shields.io/github/stars/digicert/pkilint?style=flat-square&label=) - Framework for verifying PKI structures including EU trust service certificates. `Python` `MIT` `eIDAS`
+- [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) ![Stars](https://img.shields.io/github/stars/publiccodeyml/publiccode.yml?style=flat-square&label=) - Metadata standard for describing public software adopted across EU administrations. `HTML` `CC0-1.0`
+- [Scorpio Broker](https://github.com/ScorpioBroker/ScorpioBroker) ![Stars](https://img.shields.io/github/stars/ScorpioBroker/ScorpioBroker?style=flat-square&label=) - NGSI-LD compliant context broker developed by NEC for EU data spaces. `SQL` `BSD-3-Clause` `Data Spaces` `FIWARE`
+- [SEMIC Core Vocabularies](https://github.com/SEMICeu/Core-Person-Vocabulary) ![Stars](https://img.shields.io/github/stars/SEMICeu/Core-Person-Vocabulary?style=flat-square&label=) - Core Person Vocabulary for cross-border data exchange in the EU, maintained by SEMIC. `HTML`
+- [SiGa](https://github.com/open-eid/SiGa) ![Stars](https://img.shields.io/github/stars/open-eid/SiGa?style=flat-square&label=) - Signature Gateway for creating and validating eIDAS-compliant digital signature containers. `Java` `EUPL-1.2` `eIDAS`
+- [Smart Data Models](https://github.com/smart-data-models/data-models) ![Stars](https://img.shields.io/github/stars/smart-data-models/data-models?style=flat-square&label=) - Harmonized data models for EU-funded smart applications based on NGSI-LD. `Python` `FIWARE`
+- [Smart Data Models Agrifood](https://github.com/smart-data-models/dataModel.Agrifood) ![Stars](https://img.shields.io/github/stars/smart-data-models/dataModel.Agrifood?style=flat-square&label=) - NGSI-LD data models for agriculture and food in EU-funded smart applications. `Python` `FIWARE`
+- [Smart Data Models Transportation](https://github.com/smart-data-models/dataModel.Transportation) ![Stars](https://img.shields.io/github/stars/smart-data-models/dataModel.Transportation?style=flat-square&label=) - NGSI-LD data models for transportation in EU-funded smart city applications. `Python` `FIWARE`
+- [sovity Authority Portal](https://github.com/sovity/authority-portal) ![Stars](https://img.shields.io/github/stars/sovity/authority-portal?style=flat-square&label=) - Governance and collaboration portal for participants in EU Data Spaces. `TypeScript` `AGPL-3.0` `Data Spaces`
+- [sovity EDC CE](https://github.com/sovity/edc-ce) ![Stars](https://img.shields.io/github/stars/sovity/edc-ce?style=flat-square&label=) - Community Edition of the Eclipse Dataspace Connector by sovity. `TypeScript` `Data Spaces`
+- [sovity EDC Extensions](https://github.com/sovity/edc-extensions) ![Stars](https://img.shields.io/github/stars/sovity/edc-extensions?style=flat-square&label=) - Extended Eclipse Dataspace Connector components for the sovity Community Edition. `TypeScript` `Data Spaces`
+- [Stellio Context Broker](https://github.com/stellio-hub/stellio-context-broker) ![Stars](https://img.shields.io/github/stars/stellio-hub/stellio-context-broker?style=flat-square&label=) - NGSI-LD compatible context broker for EU smart applications. `Kotlin` `Apache-2.0` `FIWARE`
+- [Trusted Connector](https://github.com/Fraunhofer-AISEC/trusted-connector) ![Stars](https://img.shields.io/github/stars/Fraunhofer-AISEC/trusted-connector?style=flat-square&label=) - IoT edge platform for the International Data Spaces with Camel message routing and remote attestation. `Kotlin` `Apache-2.0` `Data Spaces`
+- [WireCloud](https://github.com/Wirecloud/wirecloud) ![Stars](https://img.shields.io/github/stars/Wirecloud/wirecloud?style=flat-square&label=) - FIWARE Application Mashup widget container and composition tools. `JavaScript` `FIWARE`
+- [X-Road](https://github.com/nordic-institute/X-Road) ![Stars](https://img.shields.io/github/stars/nordic-institute/X-Road?style=flat-square&label=) - Data exchange layer software used by EU member states for secure cross-border data exchange. `Java` `X-Road`
+- [XFSC Federated Catalogue](https://github.com/eclipse-xfsc/federated-catalogue) ![Stars](https://img.shields.io/github/stars/eclipse-xfsc/federated-catalogue?style=flat-square&label=) - Gaia-X Federation Services catalogue for self-descriptions and service offerings in European data spaces. `Java` `Apache-2.0` `Data Spaces` `Gaia-X`
 
 ## Electronic Invoicing
 
 Peppol, EN 16931, and the EU e-invoicing directive (2014/55/EU) for cross-border electronic invoicing.
 
-- [drafthorse](https://github.com/pretix/python-drafthorse) - Pure Python ZUGFeRD and Factur-X implementation for creating EN 16931 e-invoices.
-- [e-invoice-eu](https://github.com/gflohr/e-invoice-eu) - Generate EN 16931 compliant e-invoices from spreadsheet data or JSON.
-- [e-invoice-eu-validator](https://github.com/gflohr/e-invoice-eu-validator) - Offline validator for EN 16931 compliant electronic invoices wrapping the Mustang validation engine.
-- [e-invoicing (PHP)](https://github.com/easybill/e-invoicing) - PHP library to generate and read EN 16931 structured XML with UBL and CII syntaxes.
-- [einvoicing (JS)](https://github.com/esvit/einvoicing) - JavaScript library for creating and parsing electronic invoices compliant with the eInvoicing Directive and EN 16931.
-- [einvoicing (PHP)](https://github.com/josemmo/einvoicing) - PHP library for reading and creating European-compliant electronic invoices (EN 16931).
-- [eInvoicing-EN16931](https://github.com/ConnectingEurope/eInvoicing-EN16931) - Official validation artefacts for the European eInvoicing standard EN 16931.
-- [en16931-cii2ubl](https://github.com/phax/en16931-cii2ubl) - Converter for EN 16931 electronic invoices from CII to UBL format.
-- [Factur-X](https://github.com/akretion/factur-x) - Python library for Factur-X, the e-invoicing standard for France and Germany based on EN 16931.
-- [Mustang](https://github.com/ZUGFeRD/mustangproject) - Java e-invoicing library, validator, and tool for Factur-X, ZUGFeRD, and XRechnung.
-- [OpenXRechnungToolbox](https://github.com/jcthiele/OpenXRechnungToolbox) - GUI for visualization and validation of XRechnung and other EN 16931-compliant e-invoices.
-- [Oxalis](https://github.com/OxalisCommunity/oxalis) - PEPPOL Access Point open source implementation.
-- [Oxalis-NG](https://github.com/OxalisCommunity/oxalis-ng) - Open source implementation of OpenPeppol AS4 profile (next generation).
-- [Peppol BIS Invoice 3](https://github.com/OpenPEPPOL/peppol-bis-invoice-3) - Official Peppol BIS 3.0 billing specifications.
-- [Peppol Commons](https://github.com/phax/peppol-commons) - Java library with shared Peppol components including identifier handling and SMP/SML clients.
-- [Peppol Reporting](https://github.com/phax/peppol-reporting) - Java library for creating and validating Peppol Reporting messages.
-- [ph-schematron](https://github.com/phax/ph-schematron) - Java Schematron validation library used extensively in EU e-invoicing and document validation.
-- [ph-ubl](https://github.com/phax/ph-ubl) - Java library for reading and writing UBL 2.0 through 2.4 documents used in EU e-invoicing.
-- [phase4](https://github.com/phax/phase4) - AS4 client and server with built-in support for Peppol and CEF eDelivery.
-- [phive](https://github.com/phax/phive) - Generic business document validation engine for EU e-invoicing standards.
-- [phive-rules](https://github.com/phax/phive-rules) - Preconfigured validation rules for Peppol, XRechnung, and other EU e-invoicing formats.
-- [phoss Directory](https://github.com/phax/phoss-directory) - Official Peppol Directory software.
-- [phoss SMP](https://github.com/phax/phoss-smp) - Peppol and OASIS BDXR SMP Server, CEF eDelivery compliant.
-- [Recommand Peppol](https://github.com/brbxai/recommand-peppol) - Open source Peppol API.
-- [UBL Invoice](https://github.com/num-num/ubl-invoice) - PHP library to read and create valid UBL and Peppol BIS files.
-- [ZUGFeRD C#](https://github.com/stephanstapel/ZUGFeRD-csharp) - C# library for creating and reading ZUGFeRD and Factur-X e-invoices.
-- [ZUGFeRD/XRechnung Library](https://github.com/horstoeko/zugferd) - PHP library for ZUGFeRD, XRechnung, and Factur-X e-invoicing formats.
+- [drafthorse](https://github.com/pretix/python-drafthorse) ![Stars](https://img.shields.io/github/stars/pretix/python-drafthorse?style=flat-square&label=) - Pure Python ZUGFeRD and Factur-X implementation for creating EN 16931 e-invoices. `Python` `Apache-2.0` `EN16931`
+- [e-invoice-eu](https://github.com/gflohr/e-invoice-eu) ![Stars](https://img.shields.io/github/stars/gflohr/e-invoice-eu?style=flat-square&label=) - Generate EN 16931 compliant e-invoices from spreadsheet data or JSON. `TypeScript` `EN16931`
+- [e-invoice-eu-validator](https://github.com/gflohr/e-invoice-eu-validator) ![Stars](https://img.shields.io/github/stars/gflohr/e-invoice-eu-validator?style=flat-square&label=) - Offline validator for EN 16931 compliant electronic invoices wrapping the Mustang validation engine. `EN16931`
+- [e-invoicing (PHP)](https://github.com/easybill/e-invoicing) ![Stars](https://img.shields.io/github/stars/easybill/e-invoicing?style=flat-square&label=) - PHP library to generate and read EN 16931 structured XML with UBL and CII syntaxes. `XSLT` `MIT` `EN16931`
+- [einvoicing (JS)](https://github.com/esvit/einvoicing) ![Stars](https://img.shields.io/github/stars/esvit/einvoicing?style=flat-square&label=) - JavaScript library for creating and parsing electronic invoices compliant with the eInvoicing Directive and EN 16931. `TypeScript` `MIT` `EN16931`
+- [einvoicing (PHP)](https://github.com/josemmo/einvoicing) ![Stars](https://img.shields.io/github/stars/josemmo/einvoicing?style=flat-square&label=) - PHP library for reading and creating European-compliant electronic invoices (EN 16931). `PHP` `MIT` `EN16931`
+- [eInvoicing-EN16931](https://github.com/ConnectingEurope/eInvoicing-EN16931) ![Stars](https://img.shields.io/github/stars/ConnectingEurope/eInvoicing-EN16931?style=flat-square&label=) - Official validation artefacts for the European eInvoicing standard EN 16931. `XSLT` `EN16931`
+- [en16931-cii2ubl](https://github.com/phax/en16931-cii2ubl) ![Stars](https://img.shields.io/github/stars/phax/en16931-cii2ubl?style=flat-square&label=) - Converter for EN 16931 electronic invoices from CII to UBL format. `Java` `Apache-2.0` `EN16931`
+- [Factur-X](https://github.com/akretion/factur-x) ![Stars](https://img.shields.io/github/stars/akretion/factur-x?style=flat-square&label=) - Python library for Factur-X, the e-invoicing standard for France and Germany based on EN 16931. `XSLT` `EN16931`
+- [Mustang](https://github.com/ZUGFeRD/mustangproject) ![Stars](https://img.shields.io/github/stars/ZUGFeRD/mustangproject?style=flat-square&label=) - Java e-invoicing library, validator, and tool for Factur-X, ZUGFeRD, and XRechnung. `XSLT` `Apache-2.0` `EN16931`
+- [OpenXRechnungToolbox](https://github.com/jcthiele/OpenXRechnungToolbox) ![Stars](https://img.shields.io/github/stars/jcthiele/OpenXRechnungToolbox?style=flat-square&label=) - GUI for visualization and validation of XRechnung and other EN 16931-compliant e-invoices. `XSLT` `GPL-3.0` `EN16931`
+- [Oxalis](https://github.com/OxalisCommunity/oxalis) ![Stars](https://img.shields.io/github/stars/OxalisCommunity/oxalis?style=flat-square&label=) - PEPPOL Access Point open source implementation. `Java` `EN16931` `Peppol`
+- [Oxalis-NG](https://github.com/OxalisCommunity/oxalis-ng) ![Stars](https://img.shields.io/github/stars/OxalisCommunity/oxalis-ng?style=flat-square&label=) - Open source implementation of OpenPeppol AS4 profile (next generation). `Java` `EN16931` `Peppol` `eDelivery`
+- [Peppol BIS Invoice 3](https://github.com/OpenPEPPOL/peppol-bis-invoice-3) ![Stars](https://img.shields.io/github/stars/OpenPEPPOL/peppol-bis-invoice-3?style=flat-square&label=) - Official Peppol BIS 3.0 billing specifications. `XSLT` `EN16931` `Peppol`
+- [Peppol Commons](https://github.com/phax/peppol-commons) ![Stars](https://img.shields.io/github/stars/phax/peppol-commons?style=flat-square&label=) - Java library with shared Peppol components including identifier handling and SMP/SML clients. `Java` `Apache-2.0` `EN16931` `Peppol`
+- [Peppol Reporting](https://github.com/phax/peppol-reporting) ![Stars](https://img.shields.io/github/stars/phax/peppol-reporting?style=flat-square&label=) - Java library for creating and validating Peppol Reporting messages. `Java` `Apache-2.0` `EN16931` `Peppol`
+- [ph-schematron](https://github.com/phax/ph-schematron) ![Stars](https://img.shields.io/github/stars/phax/ph-schematron?style=flat-square&label=) - Java Schematron validation library used extensively in EU e-invoicing and document validation. `Java` `Apache-2.0` `EN16931`
+- [ph-ubl](https://github.com/phax/ph-ubl) ![Stars](https://img.shields.io/github/stars/phax/ph-ubl?style=flat-square&label=) - Java library for reading and writing UBL 2.0 through 2.4 documents used in EU e-invoicing. `Java` `Apache-2.0` `EN16931`
+- [phase4](https://github.com/phax/phase4) ![Stars](https://img.shields.io/github/stars/phax/phase4?style=flat-square&label=) - AS4 client and server with built-in support for Peppol and CEF eDelivery. `Java` `Apache-2.0` `CEF` `EN16931` `Peppol` `eDelivery`
+- [phive](https://github.com/phax/phive) ![Stars](https://img.shields.io/github/stars/phax/phive?style=flat-square&label=) - Generic business document validation engine for EU e-invoicing standards. `Java` `Apache-2.0` `EN16931`
+- [phive-rules](https://github.com/phax/phive-rules) ![Stars](https://img.shields.io/github/stars/phax/phive-rules?style=flat-square&label=) - Preconfigured validation rules for Peppol, XRechnung, and other EU e-invoicing formats. `Java` `EN16931` `Peppol`
+- [phoss Directory](https://github.com/phax/phoss-directory) ![Stars](https://img.shields.io/github/stars/phax/phoss-directory?style=flat-square&label=) - Official Peppol Directory software. `Java` `Apache-2.0` `EN16931` `Peppol`
+- [phoss SMP](https://github.com/phax/phoss-smp) ![Stars](https://img.shields.io/github/stars/phax/phoss-smp?style=flat-square&label=) - Peppol and OASIS BDXR SMP Server, CEF eDelivery compliant. `Java` `CEF` `EN16931` `Peppol` `eDelivery`
+- [Recommand Peppol](https://github.com/brbxai/recommand-peppol) ![Stars](https://img.shields.io/github/stars/brbxai/recommand-peppol?style=flat-square&label=) - Open source Peppol API. ([Demo](https://recommand.eu)) `TypeScript` `AGPL-3.0` `EN16931` `Peppol`
+- [UBL Invoice](https://github.com/num-num/ubl-invoice) ![Stars](https://img.shields.io/github/stars/num-num/ubl-invoice?style=flat-square&label=) - PHP library to read and create valid UBL and Peppol BIS files. `PHP` `MIT` `EN16931` `Peppol`
+- [ZUGFeRD C#](https://github.com/stephanstapel/ZUGFeRD-csharp) ![Stars](https://img.shields.io/github/stars/stephanstapel/ZUGFeRD-csharp?style=flat-square&label=) - C# library for creating and reading ZUGFeRD and Factur-X e-invoices. `C#` `Apache-2.0` `EN16931`
+- [ZUGFeRD/XRechnung Library](https://github.com/horstoeko/zugferd) ![Stars](https://img.shields.io/github/stars/horstoeko/zugferd?style=flat-square&label=) - PHP library for ZUGFeRD, XRechnung, and Factur-X e-invoicing formats. `PHP` `MIT` `EN16931`
 
 ## Payments and Banking
 
 SEPA, PSD2, Open Banking, EBICS, and the Single Euro Payments Area infrastructure.
 
-- [ebics-client-php](https://github.com/ebics-api/ebics-client-php) - PHP EBICS library supporting versions 2.4, 2.5, and 3.0 for European banking communication.
-- [ebics-java-client](https://github.com/ebics-java/ebics-java-client) - Java open source EBICS client supporting French, German, and Swiss banks.
-- [epics](https://github.com/railslove/epics) - EBICS client for Ruby supporting secure European banking communication.
-- [hbci4java](https://github.com/hbci4j/hbci4java) - Java FinTS protocol implementation supporting chipTAN, pushTAN, SEPA, and PSD2 features.
-- [Ledgers](https://github.com/adorsys/ledgers) - Open source deposit account application for PSD2 XS2A core-banking operations.
-- [libfintx](https://github.com/libfintx/libfintx) - Banking client library for .NET supporting HBCI 2.2, FinTS 3.0, and EBICS H004/H005.
-- [node-ebics-client](https://github.com/node-ebics/node-ebics-client) - Node.js EBICS client compliant with ISO 20022 for European electronic banking.
-- [Nordigen Python](https://github.com/nordigen/nordigen-python) - Python library for the Nordigen open banking API.
-- [OBP-API](https://github.com/OpenBankProject/OBP-API) - Open source RESTful API platform for banks supporting PSD2, Open Banking, and XS2A.
-- [Open Banking Gateway](https://github.com/adorsys/open-banking-gateway) - RESTful API, tools, adapters, and connectors for transparent access to open banking APIs (PSD2).
-- [payme](https://github.com/jovandeginste/payme) - QR code generator for SEPA payments in ASCII and PNG formats.
-- [php-sepa-xml](https://github.com/php-sepa-xml/php-sepa-xml) - PHP library for generating SEPA XML files for credit transfer and direct debit.
-- [Prowide Core](https://github.com/prowide/prowide-core) - Java framework for managing SWIFT messages used in European interbank communication.
-- [Prowide ISO 20022](https://github.com/prowide/prowide-iso20022) - Comprehensive Java model and parser for all ISO 20022 financial messages used in SEPA and TARGET2.
-- [python-sepadd](https://github.com/raphaelm/python-sepadd) - Python library for generating SEPA Direct Debit XML files.
-- [python-sepaxml](https://github.com/raphaelm/python-sepaxml) - Python library to generate SEPA XML files for direct debit and credit transfer.
-- [sepa.js](https://github.com/kewisch/sepa.js) - JavaScript library for creating and validating SEPA XML transactions.
-- [sepa_king](https://github.com/salesking/sepa_king) - Ruby gem for creating SEPA XML files for credit transfer and direct debit.
-- [SepaUtilities](https://github.com/AbcAeffchen/SepaUtilities) - PHP methods for validating and sanitizing inputs used in SEPA files.
-- [Sephpa](https://github.com/AbcAeffchen/Sephpa) - PHP class to create SEPA XML files for credit transfer and direct debit.
-- [XS2A](https://github.com/adorsys/xs2a) - Open source NextGenPSD2 XS2A implementation for PSD2 compliance.
-- [XS2A Adapter](https://github.com/adorsys/xs2a-adapter) - Adapter layer providing a unified PSD2 XS2A interface to different European bank APIs.
-- [XS2A Sandbox](https://github.com/adorsys/XS2A-Sandbox) - Open source PSD2-compatible banking system emulator for testing XS2A integration.
+- [ebics-client-php](https://github.com/ebics-api/ebics-client-php) ![Stars](https://img.shields.io/github/stars/ebics-api/ebics-client-php?style=flat-square&label=) - PHP EBICS library supporting versions 2.4, 2.5, and 3.0 for European banking communication. `PHP` `MIT` `EBICS` `PSD2`
+- [ebics-java-client](https://github.com/ebics-java/ebics-java-client) ![Stars](https://img.shields.io/github/stars/ebics-java/ebics-java-client?style=flat-square&label=) - Java open source EBICS client supporting French, German, and Swiss banks. `Java` `LGPL-2.1` `EBICS` `PSD2`
+- [epics](https://github.com/railslove/epics) ![Stars](https://img.shields.io/github/stars/railslove/epics?style=flat-square&label=) - EBICS client for Ruby supporting secure European banking communication. `Ruby` `LGPL-3.0` `EBICS` `PSD2`
+- [hbci4java](https://github.com/hbci4j/hbci4java) ![Stars](https://img.shields.io/github/stars/hbci4j/hbci4java?style=flat-square&label=) - Java FinTS protocol implementation supporting chipTAN, pushTAN, SEPA, and PSD2 features. `Java` `LGPL-2.1` `PSD2` `SEPA`
+- [Ledgers](https://github.com/adorsys/ledgers) ![Stars](https://img.shields.io/github/stars/adorsys/ledgers?style=flat-square&label=) - Open source deposit account application for PSD2 XS2A core-banking operations. `Java` `PSD2`
+- [libfintx](https://github.com/libfintx/libfintx) ![Stars](https://img.shields.io/github/stars/libfintx/libfintx?style=flat-square&label=) - Banking client library for .NET supporting HBCI 2.2, FinTS 3.0, and EBICS H004/H005. `C#` `LGPL-3.0` `EBICS` `PSD2`
+- [node-ebics-client](https://github.com/node-ebics/node-ebics-client) ![Stars](https://img.shields.io/github/stars/node-ebics/node-ebics-client?style=flat-square&label=) - Node.js EBICS client compliant with ISO 20022 for European electronic banking. `JavaScript` `MIT` `EBICS` `ISO20022` `PSD2`
+- [Nordigen Python](https://github.com/nordigen/nordigen-python) ![Stars](https://img.shields.io/github/stars/nordigen/nordigen-python?style=flat-square&label=) - Python library for the Nordigen open banking API. `Python` `MIT` `PSD2`
+- [OBP-API](https://github.com/OpenBankProject/OBP-API) ![Stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=flat-square&label=) - Open source RESTful API platform for banks supporting PSD2, Open Banking, and XS2A. ([Demo](https://apisandbox.openbankproject.com)) `Scala` `PSD2`
+- [Open Banking Gateway](https://github.com/adorsys/open-banking-gateway) ![Stars](https://img.shields.io/github/stars/adorsys/open-banking-gateway?style=flat-square&label=) - RESTful API, tools, adapters, and connectors for transparent access to open banking APIs (PSD2). `Java` `AGPL-3.0` `PSD2`
+- [payme](https://github.com/jovandeginste/payme) ![Stars](https://img.shields.io/github/stars/jovandeginste/payme?style=flat-square&label=) - QR code generator for SEPA payments in ASCII and PNG formats. `Go` `MIT` `PSD2` `SEPA`
+- [php-sepa-xml](https://github.com/php-sepa-xml/php-sepa-xml) ![Stars](https://img.shields.io/github/stars/php-sepa-xml/php-sepa-xml?style=flat-square&label=) - PHP library for generating SEPA XML files for credit transfer and direct debit. `PHP` `LGPL-3.0` `PSD2` `SEPA`
+- [Prowide Core](https://github.com/prowide/prowide-core) ![Stars](https://img.shields.io/github/stars/prowide/prowide-core?style=flat-square&label=) - Java framework for managing SWIFT messages used in European interbank communication. `Java` `Apache-2.0` `ISO20022` `PSD2`
+- [Prowide ISO 20022](https://github.com/prowide/prowide-iso20022) ![Stars](https://img.shields.io/github/stars/prowide/prowide-iso20022?style=flat-square&label=) - Comprehensive Java model and parser for all ISO 20022 financial messages used in SEPA and TARGET2. `Java` `Apache-2.0` `ISO20022` `PSD2` `SEPA`
+- [python-sepadd](https://github.com/raphaelm/python-sepadd) ![Stars](https://img.shields.io/github/stars/raphaelm/python-sepadd?style=flat-square&label=) - Python library for generating SEPA Direct Debit XML files. `Python` `MIT` `PSD2` `SEPA`
+- [python-sepaxml](https://github.com/raphaelm/python-sepaxml) ![Stars](https://img.shields.io/github/stars/raphaelm/python-sepaxml?style=flat-square&label=) - Python library to generate SEPA XML files for direct debit and credit transfer. `Python` `MIT` `PSD2` `SEPA`
+- [sepa.js](https://github.com/kewisch/sepa.js) ![Stars](https://img.shields.io/github/stars/kewisch/sepa.js?style=flat-square&label=) - JavaScript library for creating and validating SEPA XML transactions. `JavaScript` `PSD2` `SEPA`
+- [sepa_king](https://github.com/salesking/sepa_king) ![Stars](https://img.shields.io/github/stars/salesking/sepa_king?style=flat-square&label=) - Ruby gem for creating SEPA XML files for credit transfer and direct debit. `Ruby` `MIT` `PSD2` `SEPA`
+- [SepaUtilities](https://github.com/AbcAeffchen/SepaUtilities) ![Stars](https://img.shields.io/github/stars/AbcAeffchen/SepaUtilities?style=flat-square&label=) - PHP methods for validating and sanitizing inputs used in SEPA files. `PHP` `LGPL-3.0` `PSD2` `SEPA`
+- [Sephpa](https://github.com/AbcAeffchen/Sephpa) ![Stars](https://img.shields.io/github/stars/AbcAeffchen/Sephpa?style=flat-square&label=) - PHP class to create SEPA XML files for credit transfer and direct debit. `PHP` `LGPL-3.0` `PSD2` `SEPA`
+- [XS2A](https://github.com/adorsys/xs2a) ![Stars](https://img.shields.io/github/stars/adorsys/xs2a?style=flat-square&label=) - Open source NextGenPSD2 XS2A implementation for PSD2 compliance. `Java` `AGPL-3.0` `PSD2`
+- [XS2A Adapter](https://github.com/adorsys/xs2a-adapter) ![Stars](https://img.shields.io/github/stars/adorsys/xs2a-adapter?style=flat-square&label=) - Adapter layer providing a unified PSD2 XS2A interface to different European bank APIs. `Java` `AGPL-3.0` `PSD2`
+- [XS2A Sandbox](https://github.com/adorsys/XS2A-Sandbox) ![Stars](https://img.shields.io/github/stars/adorsys/XS2A-Sandbox?style=flat-square&label=) - Open source PSD2-compatible banking system emulator for testing XS2A integration. ([Demo](https://demo-dynamicsandbox-xs2a.cloud.adorsys.de)) `TypeScript` `AGPL-3.0` `PSD2`
 
 ## Central Banking and Monetary Policy
 
 ECB APIs, TARGET2/T2S/TIPS, Euribor/ESTR, euro exchange rates, and Eurosystem tools.
 
-- [CurrencyConverter](https://github.com/alexprengere/currencyconverter) - Python currency converter using historical exchange rate data from the European Central Bank.
-- [ecb](https://github.com/expersso/ecb) - R interface to the European Central Bank Statistical Data Warehouse API.
-- [eu_central_bank](https://github.com/RubyMoney/eu_central_bank) - Ruby gem that calculates exchange rates using published rates from the European Central Bank.
-- [Euribor](https://github.com/datasets/euribor) - Open dataset of Euribor rates by year and granularity.
-- [Frankfurter](https://github.com/lineofflight/frankfurter) - Currency data API built on top of ECB exchange rates.
-- [Swap](https://github.com/florianv/swap) - Currency exchange rates library supporting ECB and other European central bank providers.
+- [CurrencyConverter](https://github.com/alexprengere/currencyconverter) ![Stars](https://img.shields.io/github/stars/alexprengere/currencyconverter?style=flat-square&label=) - Python currency converter using historical exchange rate data from the European Central Bank. `Python` `Apache-2.0`
+- [ecb](https://github.com/expersso/ecb) ![Stars](https://img.shields.io/github/stars/expersso/ecb?style=flat-square&label=) - R interface to the European Central Bank Statistical Data Warehouse API. `R`
+- [eu_central_bank](https://github.com/RubyMoney/eu_central_bank) ![Stars](https://img.shields.io/github/stars/RubyMoney/eu_central_bank?style=flat-square&label=) - Ruby gem that calculates exchange rates using published rates from the European Central Bank. `Ruby` `MIT`
+- [Euribor](https://github.com/datasets/euribor) ![Stars](https://img.shields.io/github/stars/datasets/euribor?style=flat-square&label=) - Open dataset of Euribor rates by year and granularity. `Python`
+- [Frankfurter](https://github.com/lineofflight/frankfurter) ![Stars](https://img.shields.io/github/stars/lineofflight/frankfurter?style=flat-square&label=) - Currency data API built on top of ECB exchange rates. `Ruby` `MIT`
+- [Swap](https://github.com/florianv/swap) ![Stars](https://img.shields.io/github/stars/florianv/swap?style=flat-square&label=) - Currency exchange rates library supporting ECB and other European central bank providers. `PHP` `MIT`
 
 ## VAT, Customs, and Trade
 
 EU VAT system (VIES, OSS/IOSS), TARIC customs tariffs, CN codes, EORI, and Intrastat.
 
-- [eu-vat-validator](https://github.com/pH-7/eu-vat-validator) - PHP library that validates EU VAT registration numbers against the VIES API.
-- [ibericode VAT](https://github.com/ibericode/vat) - PHP library for dealing with European VAT including rates and VIES validation.
-- [Intrastat-Extrastat](https://github.com/OCA/intrastat-extrastat) - Odoo modules for EU Intrastat and Extrastat trade reporting.
-- [node-sales-tax](https://github.com/valeriansaliou/node-sales-tax) - International sales tax calculator for Node.js with EU VAT support including VIES validation.
-- [valvat](https://github.com/yolk/valvat) - Ruby library for validating European VAT numbers with VIES lookup.
-- [vat](https://github.com/dannyvankooten/vat) - Go package for EU VAT number validation and rates retrieval.
-- [VAT Calculator](https://github.com/driesvints/vat-calculator) - PHP package to handle EU MOSS tax and VAT regulations including rate lookup and VIES validation.
-- [vat-rates](https://github.com/ibericode/vat-rates) - Community-maintained JSON dataset of VAT rates for all EU member states.
-- [VIES](https://github.com/DragonBe/vies) - PHP component for the European Commission VAT Information Exchange System (VIES).
-- [vies-dotnet](https://github.com/zapadi/vies-dotnet) - API for .NET to verify EU VAT information via the VIES exchange system.
+- [eu-vat-validator](https://github.com/pH-7/eu-vat-validator) ![Stars](https://img.shields.io/github/stars/pH-7/eu-vat-validator?style=flat-square&label=) - PHP library that validates EU VAT registration numbers against the VIES API. `PHP` `GPL-3.0` `VAT`
+- [ibericode VAT](https://github.com/ibericode/vat) ![Stars](https://img.shields.io/github/stars/ibericode/vat?style=flat-square&label=) - PHP library for dealing with European VAT including rates and VIES validation. `PHP` `MIT` `VAT`
+- [Intrastat-Extrastat](https://github.com/OCA/intrastat-extrastat) ![Stars](https://img.shields.io/github/stars/OCA/intrastat-extrastat?style=flat-square&label=) - Odoo modules for EU Intrastat and Extrastat trade reporting. `Python` `AGPL-3.0` `Customs` `VAT`
+- [node-sales-tax](https://github.com/valeriansaliou/node-sales-tax) ![Stars](https://img.shields.io/github/stars/valeriansaliou/node-sales-tax?style=flat-square&label=) - International sales tax calculator for Node.js with EU VAT support including VIES validation. `JavaScript` `MIT` `VAT`
+- [valvat](https://github.com/yolk/valvat) ![Stars](https://img.shields.io/github/stars/yolk/valvat?style=flat-square&label=) - Ruby library for validating European VAT numbers with VIES lookup. `Ruby` `MIT` `VAT`
+- [vat](https://github.com/dannyvankooten/vat) ![Stars](https://img.shields.io/github/stars/dannyvankooten/vat?style=flat-square&label=) - Go package for EU VAT number validation and rates retrieval. `Go` `MIT` `VAT`
+- [VAT Calculator](https://github.com/driesvints/vat-calculator) ![Stars](https://img.shields.io/github/stars/driesvints/vat-calculator?style=flat-square&label=) - PHP package to handle EU MOSS tax and VAT regulations including rate lookup and VIES validation. `PHP` `MIT` `VAT`
+- [vat-rates](https://github.com/ibericode/vat-rates) ![Stars](https://img.shields.io/github/stars/ibericode/vat-rates?style=flat-square&label=) - Community-maintained JSON dataset of VAT rates for all EU member states. `Python` `MIT` `VAT`
+- [VIES](https://github.com/DragonBe/vies) ![Stars](https://img.shields.io/github/stars/DragonBe/vies?style=flat-square&label=) - PHP component for the European Commission VAT Information Exchange System (VIES). `PHP` `MIT` `VAT`
+- [vies-dotnet](https://github.com/zapadi/vies-dotnet) ![Stars](https://img.shields.io/github/stars/zapadi/vies-dotnet?style=flat-square&label=) - API for .NET to verify EU VAT information via the VIES exchange system. `C#` `Apache-2.0` `VAT`
 
 ## Anti-Money Laundering and Compliance
 
 EU Anti-Money Laundering Directives (AMLD), sanctions screening, KYC/KYB, beneficial ownership, and LEI tools.
 
-- [Beneficial Ownership Data Standard](https://github.com/openownership/data-standard) - Open standard for publishing beneficial ownership data, aligned with EU AMLD transparency requirements.
-- [Follow the Money](https://github.com/alephdata/followthemoney) - Data model and processing tools for investigative entity data used in EU AML compliance.
-- [Memorious](https://github.com/alephdata/memorious) - Lightweight web scraping toolkit for documents and structured data used in investigative compliance.
-- [Nomenklatura](https://github.com/opensanctions/nomenklatura) - Framework for integrating FollowTheMoney entity data from multiple sources for EU AML compliance.
-- [OpenAleph](https://github.com/openaleph/openaleph) - Open source investigative data platform for securely cross-referencing datasets using the FollowTheMoney schema.
-- [OpenSanctions](https://github.com/opensanctions/opensanctions) - Open database of international sanctions data, persons of interest and politically exposed persons, including EU sanctions lists.
-- [pygleif](https://github.com/ggravlingen/pygleif) - Python client for the GLEIF Legal Entity Identifier API used in EU regulatory compliance.
-- [Yente](https://github.com/opensanctions/yente) - Entity matching and search API for OpenSanctions data, supporting EU sanctions screening and KYC workflows.
+- [Beneficial Ownership Data Standard](https://github.com/openownership/data-standard) ![Stars](https://img.shields.io/github/stars/openownership/data-standard?style=flat-square&label=) - Open standard for publishing beneficial ownership data, aligned with EU AMLD transparency requirements. `Python` `AMLD`
+- [Follow the Money](https://github.com/alephdata/followthemoney) ![Stars](https://img.shields.io/github/stars/alephdata/followthemoney?style=flat-square&label=) - Data model and processing tools for investigative entity data used in EU AML compliance. `Python` `MIT` `AMLD`
+- [Memorious](https://github.com/alephdata/memorious) ![Stars](https://img.shields.io/github/stars/alephdata/memorious?style=flat-square&label=) - Lightweight web scraping toolkit for documents and structured data used in investigative compliance. `Python` `MIT` `AMLD`
+- [Nomenklatura](https://github.com/opensanctions/nomenklatura) ![Stars](https://img.shields.io/github/stars/opensanctions/nomenklatura?style=flat-square&label=) - Framework for integrating FollowTheMoney entity data from multiple sources for EU AML compliance. `Python` `MIT` `AMLD`
+- [OpenAleph](https://github.com/openaleph/openaleph) ![Stars](https://img.shields.io/github/stars/openaleph/openaleph?style=flat-square&label=) - Open source investigative data platform for securely cross-referencing datasets using the FollowTheMoney schema. `JavaScript` `MIT` `AMLD`
+- [OpenSanctions](https://github.com/opensanctions/opensanctions) ![Stars](https://img.shields.io/github/stars/opensanctions/opensanctions?style=flat-square&label=) - Open database of international sanctions data, persons of interest and politically exposed persons, including EU sanctions lists. `Python` `MIT` `AMLD`
+- [pygleif](https://github.com/ggravlingen/pygleif) ![Stars](https://img.shields.io/github/stars/ggravlingen/pygleif?style=flat-square&label=) - Python client for the GLEIF Legal Entity Identifier API used in EU regulatory compliance. `Python` `MIT` `AMLD`
+- [Yente](https://github.com/opensanctions/yente) ![Stars](https://img.shields.io/github/stars/opensanctions/yente?style=flat-square&label=) - Entity matching and search API for OpenSanctions data, supporting EU sanctions screening and KYC workflows. `Python` `MIT` `AMLD`
 
 ## Finance and Capital Markets
 
 EBA, ESMA regulations, MiFID II, MiCA, DORA, EMIR, XBRL/iXBRL reporting, and European financial market infrastructure.
 
-- [Arelle](https://github.com/Arelle/Arelle) - Open source XBRL platform for European financial reporting including EBA and ESMA taxonomies.
-- [Arelle iXBRL Viewer](https://github.com/Arelle/ixbrl-viewer) - Interactive viewer for Inline XBRL reports used in EU financial filings under ESEF regulation.
-- [Brel](https://github.com/BrelLibrary/brel) - Python library for reading XBRL reports used in EU ESEF financial filings.
-- [concentrationMetrics](https://github.com/open-risk/concentrationMetrics) - Python library for computing concentration, inequality and diversity indices used in EU banking regulation.
-- [esma_data_py](https://github.com/European-Securities-Markets-Authority/esma_data_py) - Official ESMA Python package for searching and downloading data from the ESMA register.
-- [Insurance Python](https://github.com/open-source-modelling/insurance_python) - Python algorithms for Solvency II insurance modelling including Smith-Wilson and actuarial risk models.
-- [ixbrl-parse](https://github.com/kanedata/ixbrl-parse) - Python library for extracting structured data from iXBRL files used in EU regulatory filings.
-- [ixbrl-reporter](https://github.com/cybermaggedon/ixbrl-reporter) - Automated creation of iXBRL financial report files from template configuration and account data.
-- [Open Source Economic Model](https://github.com/open-source-modelling/Open_Source_Economic_Model) - Open source asset-liability model for Solvency II regulatory compliance.
-- [openNPL](https://github.com/open-risk/openNPL) - Open source platform for managing Non-Performing Loan data aligned with EBA templates.
-- [portfolioAnalytics](https://github.com/open-risk/portfolioAnalytics) - Python library for generating analytic tests on credit portfolio loss distributions for EU regulatory compliance.
-- [py-xbrl](https://github.com/manusimidt/py-xbrl) - Python parser for XBRL and iXBRL files used in EU ESEF financial reporting.
-- [python-lei](https://github.com/jdvala/python-lei) - Python wrapper for the Legal Entity Identifier API with ISIN-LEI conversion for EU regulatory compliance.
-- [smith-wilson-py](https://github.com/simicd/smith-wilson-py) - Python implementation of the Smith-Wilson yield curve fitting algorithm used by EIOPA for risk-free rate extrapolation.
-- [transitionMatrix](https://github.com/open-risk/transitionMatrix) - Python library for statistical analysis of credit rating transitions used in EU banking regulation.
-- [vLEI](https://github.com/WebOfTrust/vLEI) - Public open specifications for GLEIF verifiable Legal Entity Identifiers used in EU financial regulations.
-- [Xoxo](https://github.com/dgm9704/Xoxo) - Library for .NET to read, write, compare, and convert XBRL reports including ESEF and EBA taxonomies.
+- [Arelle](https://github.com/Arelle/Arelle) ![Stars](https://img.shields.io/github/stars/Arelle/Arelle?style=flat-square&label=) - Open source XBRL platform for European financial reporting including EBA and ESMA taxonomies. `HTML`
+- [Arelle iXBRL Viewer](https://github.com/Arelle/ixbrl-viewer) ![Stars](https://img.shields.io/github/stars/Arelle/ixbrl-viewer?style=flat-square&label=) - Interactive viewer for Inline XBRL reports used in EU financial filings under ESEF regulation. `JavaScript`
+- [Brel](https://github.com/BrelLibrary/brel) ![Stars](https://img.shields.io/github/stars/BrelLibrary/brel?style=flat-square&label=) - Python library for reading XBRL reports used in EU ESEF financial filings. `Python`
+- [concentrationMetrics](https://github.com/open-risk/concentrationMetrics) ![Stars](https://img.shields.io/github/stars/open-risk/concentrationMetrics?style=flat-square&label=) - Python library for computing concentration, inequality and diversity indices used in EU banking regulation. `Python` `MIT`
+- [esma_data_py](https://github.com/European-Securities-Markets-Authority/esma_data_py) ![Stars](https://img.shields.io/github/stars/European-Securities-Markets-Authority/esma_data_py?style=flat-square&label=) - Official ESMA Python package for searching and downloading data from the ESMA register. `Python` `EUPL-1.2`
+- [Insurance Python](https://github.com/open-source-modelling/insurance_python) ![Stars](https://img.shields.io/github/stars/open-source-modelling/insurance_python?style=flat-square&label=) - Python algorithms for Solvency II insurance modelling including Smith-Wilson and actuarial risk models. `Python` `MIT`
+- [ixbrl-parse](https://github.com/kanedata/ixbrl-parse) ![Stars](https://img.shields.io/github/stars/kanedata/ixbrl-parse?style=flat-square&label=) - Python library for extracting structured data from iXBRL files used in EU regulatory filings. `HTML` `MIT`
+- [ixbrl-reporter](https://github.com/cybermaggedon/ixbrl-reporter) ![Stars](https://img.shields.io/github/stars/cybermaggedon/ixbrl-reporter?style=flat-square&label=) - Automated creation of iXBRL financial report files from template configuration and account data. `Python` `GPL-3.0`
+- [Open Source Economic Model](https://github.com/open-source-modelling/Open_Source_Economic_Model) ![Stars](https://img.shields.io/github/stars/open-source-modelling/Open_Source_Economic_Model?style=flat-square&label=) - Open source asset-liability model for Solvency II regulatory compliance. `Python` `MPL-2.0`
+- [openNPL](https://github.com/open-risk/openNPL) ![Stars](https://img.shields.io/github/stars/open-risk/openNPL?style=flat-square&label=) - Open source platform for managing Non-Performing Loan data aligned with EBA templates. `JavaScript` `MIT`
+- [portfolioAnalytics](https://github.com/open-risk/portfolioAnalytics) ![Stars](https://img.shields.io/github/stars/open-risk/portfolioAnalytics?style=flat-square&label=) - Python library for generating analytic tests on credit portfolio loss distributions for EU regulatory compliance. `Python` `GPL-2.0`
+- [py-xbrl](https://github.com/manusimidt/py-xbrl) ![Stars](https://img.shields.io/github/stars/manusimidt/py-xbrl?style=flat-square&label=) - Python parser for XBRL and iXBRL files used in EU ESEF financial reporting. `Python` `GPL-3.0`
+- [python-lei](https://github.com/jdvala/python-lei) ![Stars](https://img.shields.io/github/stars/jdvala/python-lei?style=flat-square&label=) - Python wrapper for the Legal Entity Identifier API with ISIN-LEI conversion for EU regulatory compliance. `Python` `MIT`
+- [smith-wilson-py](https://github.com/simicd/smith-wilson-py) ![Stars](https://img.shields.io/github/stars/simicd/smith-wilson-py?style=flat-square&label=) - Python implementation of the Smith-Wilson yield curve fitting algorithm used by EIOPA for risk-free rate extrapolation. `Python` `MIT`
+- [transitionMatrix](https://github.com/open-risk/transitionMatrix) ![Stars](https://img.shields.io/github/stars/open-risk/transitionMatrix?style=flat-square&label=) - Python library for statistical analysis of credit rating transitions used in EU banking regulation. `Python` `Apache-2.0`
+- [vLEI](https://github.com/WebOfTrust/vLEI) ![Stars](https://img.shields.io/github/stars/WebOfTrust/vLEI?style=flat-square&label=) - Public open specifications for GLEIF verifiable Legal Entity Identifiers used in EU financial regulations. `HTML` `Apache-2.0`
+- [Xoxo](https://github.com/dgm9704/Xoxo) ![Stars](https://img.shields.io/github/stars/dgm9704/Xoxo?style=flat-square&label=) - Library for .NET to read, write, compare, and convert XBRL reports including ESEF and EBA taxonomies. `C#` `LGPL-3.0`
 
 ## Open Data and Statistics
 
 Eurostat, EU Open Data Portal, SDMX, NUTS regions, and pan-European statistical infrastructure.
 
-- [CKAN](https://github.com/ckan/ckan) - Open source data management system powering many European government open data portals.
-- [ckanext-dcat](https://github.com/ckan/ckanext-dcat) - CKAN extension implementing DCAT and DCAT-AP for EU open data portal interoperability.
-- [ckanext-harvest](https://github.com/ckan/ckanext-harvest) - Remote harvesting extension for CKAN used by European government data portals.
-- [ckanext-spatial](https://github.com/ckan/ckanext-spatial) - Geospatial extension for CKAN enabling INSPIRE metadata support in European data portals.
-- [DCAT-AP](https://github.com/SEMICeu/DCAT-AP) - Application profile of DCAT for describing public sector datasets in European data portals.
-- [eurostat (R)](https://github.com/rOpenGov/eurostat) - R tools for Eurostat open data access and analysis.
-- [Eurostat Statistics Coded](https://github.com/eurostat/statistics-coded) - Catalogue of code resources to reproduce results from Eurostat Statistics Explained articles.
-- [eurostat-map.js](https://github.com/eurostat/eurostat-map.js) - JavaScript library for creating thematic web maps of European NUTS regions based on D3.
-- [giscoR](https://github.com/rOpenGov/giscoR) - R package for downloading geospatial data from the Eurostat GISCO API.
-- [gridviz](https://github.com/eurostat/gridviz) - JavaScript library for visualising European gridded statistical data.
-- [happyGISCO](https://github.com/eurostat/happyGISCO) - Python client for Eurostat GISCO geospatial web services.
-- [java4eurostat](https://github.com/eurostat/java4eurostat) - Java library for multi-dimensional data manipulation and easy access to Eurostat data.
-- [JDemetra+](https://github.com/jdemetra/jdplus-main) - Seasonal adjustment toolkit officially recommended by Eurostat for European statistical offices.
-- [Metis Framework](https://github.com/europeana/metis-framework) - Data publication framework for ingesting and processing European cultural heritage metadata.
-- [Morph-KGC](https://github.com/oeg-upm/morph-kgc) - Powerful RDF knowledge graph generation engine with RML mappings used in European data integration.
-- [Nuts2json](https://github.com/eurostat/Nuts2json) - Eurostat NUTS regions dataset as JSON for web mapping.
-- [Open Data Handbook](https://github.com/okfn/opendatahandbook) - Guide to legal, social and technical aspects of open data, widely used in EU open data initiatives.
-- [pandaSDMX](https://github.com/dr-leo/pandaSDMX) - Python interface to SDMX for accessing data from ECB, Eurostat, and other European statistical providers.
-- [pxweb](https://github.com/rOpenGov/pxweb) - R package for accessing PX-WEB API used by European statistical agencies.
-- [restatapi](https://github.com/eurostat/restatapi) - R package for searching and retrieving data from the Eurostat database using SDMX.
-- [RMLMapper](https://github.com/RMLio/rmlmapper-java) - RML rules executor for generating linked data from semi-structured sources used in EU data integration.
-- [rsdmx](https://github.com/eblondel/rsdmx) - R package for reading SDMX data and metadata from ECB, Eurostat, and other EU data providers.
-- [SDMX Connectors](https://github.com/amattioc/SDMX) - Multi-platform connectors for accessing SDMX data sources including ECB and Eurostat.
-- [SDMX REST](https://github.com/sdmx-twg/sdmx-rest) - RESTful web services specification for statistical data exchange used by ECB, Eurostat, and EU agencies.
-- [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json) - JSON format specification for SDMX statistical data and metadata exchange.
-- [SDMX-ML](https://github.com/sdmx-twg/sdmx-ml) - Format specification for statistical data exchange used by Eurostat and ECB.
-- [Searoute](https://github.com/eurostat/searoute) - Compute shortest maritime routes between ports, developed by Eurostat.
-- [udata](https://github.com/opendatateam/udata) - Customizable social platform for open data publication, powering data.gouv.fr and other EU portals.
-- [YARRRML Parser](https://github.com/RMLio/yarrrml-parser) - Parser for the human-readable YARRRML serialization of RML rules used in EU linked data integration.
+- [CKAN](https://github.com/ckan/ckan) ![Stars](https://img.shields.io/github/stars/ckan/ckan?style=flat-square&label=) - Open source data management system powering many European government open data portals. ([Demo](https://demo.ckan.org)) `Python` `Open Data`
+- [ckanext-dcat](https://github.com/ckan/ckanext-dcat) ![Stars](https://img.shields.io/github/stars/ckan/ckanext-dcat?style=flat-square&label=) - CKAN extension implementing DCAT and DCAT-AP for EU open data portal interoperability. `Python` `DCAT-AP` `Open Data`
+- [ckanext-harvest](https://github.com/ckan/ckanext-harvest) ![Stars](https://img.shields.io/github/stars/ckan/ckanext-harvest?style=flat-square&label=) - Remote harvesting extension for CKAN used by European government data portals. `Python` `Open Data`
+- [ckanext-spatial](https://github.com/ckan/ckanext-spatial) ![Stars](https://img.shields.io/github/stars/ckan/ckanext-spatial?style=flat-square&label=) - Geospatial extension for CKAN enabling INSPIRE metadata support in European data portals. `XSLT` `INSPIRE` `Open Data`
+- [DCAT-AP](https://github.com/SEMICeu/DCAT-AP) ![Stars](https://img.shields.io/github/stars/SEMICeu/DCAT-AP?style=flat-square&label=) - Application profile of DCAT for describing public sector datasets in European data portals. `HTML` `CC-BY-4.0` `DCAT-AP` `Open Data`
+- [eurostat (R)](https://github.com/rOpenGov/eurostat) ![Stars](https://img.shields.io/github/stars/rOpenGov/eurostat?style=flat-square&label=) - R tools for Eurostat open data access and analysis. `R` `Eurostat` `Open Data`
+- [Eurostat Statistics Coded](https://github.com/eurostat/statistics-coded) ![Stars](https://img.shields.io/github/stars/eurostat/statistics-coded?style=flat-square&label=) - Catalogue of code resources to reproduce results from Eurostat Statistics Explained articles. `Python` `Eurostat` `Open Data`
+- [eurostat-map.js](https://github.com/eurostat/eurostat-map.js) ![Stars](https://img.shields.io/github/stars/eurostat/eurostat-map.js?style=flat-square&label=) - JavaScript library for creating thematic web maps of European NUTS regions based on D3. `JavaScript` `EUPL-1.2` `NUTS` `Open Data`
+- [giscoR](https://github.com/rOpenGov/giscoR) ![Stars](https://img.shields.io/github/stars/rOpenGov/giscoR?style=flat-square&label=) - R package for downloading geospatial data from the Eurostat GISCO API. `R` `GPL-3.0` `Eurostat` `Open Data`
+- [gridviz](https://github.com/eurostat/gridviz) ![Stars](https://img.shields.io/github/stars/eurostat/gridviz?style=flat-square&label=) - JavaScript library for visualising European gridded statistical data. `JavaScript` `EUPL-1.2` `Open Data`
+- [happyGISCO](https://github.com/eurostat/happyGISCO) ![Stars](https://img.shields.io/github/stars/eurostat/happyGISCO?style=flat-square&label=) - Python client for Eurostat GISCO geospatial web services. `Python` `EUPL-1.1` `Eurostat` `Open Data`
+- [java4eurostat](https://github.com/eurostat/java4eurostat) ![Stars](https://img.shields.io/github/stars/eurostat/java4eurostat?style=flat-square&label=) - Java library for multi-dimensional data manipulation and easy access to Eurostat data. `HTML` `EUPL-1.2` `Eurostat` `Open Data`
+- [JDemetra+](https://github.com/jdemetra/jdplus-main) ![Stars](https://img.shields.io/github/stars/jdemetra/jdplus-main?style=flat-square&label=) - Seasonal adjustment toolkit officially recommended by Eurostat for European statistical offices. `Java` `EUPL-1.2` `Eurostat` `Open Data`
+- [Metis Framework](https://github.com/europeana/metis-framework) ![Stars](https://img.shields.io/github/stars/europeana/metis-framework?style=flat-square&label=) - Data publication framework for ingesting and processing European cultural heritage metadata. `Java` `EUPL-1.2` `Open Data`
+- [Morph-KGC](https://github.com/oeg-upm/morph-kgc) ![Stars](https://img.shields.io/github/stars/oeg-upm/morph-kgc?style=flat-square&label=) - Powerful RDF knowledge graph generation engine with RML mappings used in European data integration. `Python` `Apache-2.0` `Open Data`
+- [Nuts2json](https://github.com/eurostat/Nuts2json) ![Stars](https://img.shields.io/github/stars/eurostat/Nuts2json?style=flat-square&label=) - Eurostat NUTS regions dataset as JSON for web mapping. `Python` `EUPL-1.2` `Eurostat` `NUTS` `Open Data`
+- [Open Data Handbook](https://github.com/okfn/opendatahandbook) ![Stars](https://img.shields.io/github/stars/okfn/opendatahandbook?style=flat-square&label=) - Guide to legal, social and technical aspects of open data, widely used in EU open data initiatives. `Open Data`
+- [pandaSDMX](https://github.com/dr-leo/pandaSDMX) ![Stars](https://img.shields.io/github/stars/dr-leo/pandaSDMX?style=flat-square&label=) - Python interface to SDMX for accessing data from ECB, Eurostat, and other European statistical providers. `Python` `Apache-2.0` `Eurostat` `Open Data` `SDMX`
+- [pxweb](https://github.com/rOpenGov/pxweb) ![Stars](https://img.shields.io/github/stars/rOpenGov/pxweb?style=flat-square&label=) - R package for accessing PX-WEB API used by European statistical agencies. `R` `Open Data`
+- [restatapi](https://github.com/eurostat/restatapi) ![Stars](https://img.shields.io/github/stars/eurostat/restatapi?style=flat-square&label=) - R package for searching and retrieving data from the Eurostat database using SDMX. `R` `Eurostat` `Open Data` `SDMX`
+- [RMLMapper](https://github.com/RMLio/rmlmapper-java) ![Stars](https://img.shields.io/github/stars/RMLio/rmlmapper-java?style=flat-square&label=) - RML rules executor for generating linked data from semi-structured sources used in EU data integration. `Java` `MIT` `Open Data`
+- [rsdmx](https://github.com/eblondel/rsdmx) ![Stars](https://img.shields.io/github/stars/eblondel/rsdmx?style=flat-square&label=) - R package for reading SDMX data and metadata from ECB, Eurostat, and other EU data providers. `R` `Eurostat` `Open Data` `SDMX`
+- [SDMX Connectors](https://github.com/amattioc/SDMX) ![Stars](https://img.shields.io/github/stars/amattioc/SDMX?style=flat-square&label=) - Multi-platform connectors for accessing SDMX data sources including ECB and Eurostat. `Java` `EUPL-1.2` `Eurostat` `Open Data` `SDMX`
+- [SDMX REST](https://github.com/sdmx-twg/sdmx-rest) ![Stars](https://img.shields.io/github/stars/sdmx-twg/sdmx-rest?style=flat-square&label=) - RESTful web services specification for statistical data exchange used by ECB, Eurostat, and EU agencies. `Eurostat` `Open Data` `SDMX`
+- [SDMX-JSON](https://github.com/sdmx-twg/sdmx-json) ![Stars](https://img.shields.io/github/stars/sdmx-twg/sdmx-json?style=flat-square&label=) - JSON format specification for SDMX statistical data and metadata exchange. `Open Data` `SDMX`
+- [SDMX-ML](https://github.com/sdmx-twg/sdmx-ml) ![Stars](https://img.shields.io/github/stars/sdmx-twg/sdmx-ml?style=flat-square&label=) - Format specification for statistical data exchange used by Eurostat and ECB. `Eurostat` `Open Data` `SDMX`
+- [Searoute](https://github.com/eurostat/searoute) ![Stars](https://img.shields.io/github/stars/eurostat/searoute?style=flat-square&label=) - Compute shortest maritime routes between ports, developed by Eurostat. `HTML` `EUPL-1.2` `Eurostat` `Open Data`
+- [udata](https://github.com/opendatateam/udata) ![Stars](https://img.shields.io/github/stars/opendatateam/udata?style=flat-square&label=) - Customizable social platform for open data publication, powering data.gouv.fr and other EU portals. `Python` `AGPL-3.0` `Open Data`
+- [YARRRML Parser](https://github.com/RMLio/yarrrml-parser) ![Stars](https://img.shields.io/github/stars/RMLio/yarrrml-parser?style=flat-square&label=) - Parser for the human-readable YARRRML serialization of RML rules used in EU linked data integration. `JavaScript` `MIT` `Open Data`
 
 ## Legal and Legislation
 
 EUR-Lex, ECLI, CELEX, ELI, Akoma Ntoso, and tools for accessing and processing European legislation.
 
-- [bluebell](https://github.com/laws-africa/bluebell) - Generic parser for Akoma Ntoso 3 legislative documents in Python.
-- [Case Law Explorer](https://github.com/maastrichtlawtech/case-law-explorer) - Network analysis platform for analysing Dutch and European court decisions.
-- [cobalt](https://github.com/laws-africa/cobalt) - Lightweight Python library for working with Akoma Ntoso legislative documents.
-- [ECHR Open Data](https://github.com/echr-od/ECHR-OD_process) - Process to rebuild the European Court of Human Rights database and datasets from scratch.
-- [eForms Notice Viewer](https://github.com/OP-TED/eforms-notice-viewer) - Sample application that can visualise an eForms notice using the eForms SDK.
-- [eForms SDK](https://github.com/OP-TED/eForms-SDK) - EU eForms notification standard for public procurement procedures, published by the EU Publications Office.
-- [eurlex](https://github.com/step21/eurlex) - Python package for querying the EU Cellar repository and downloading EUR-Lex legislative data.
-- [eurlex (Python)](https://github.com/kevin91nl/eurlex) - Python parser for extracting and processing EUR-Lex legislative documents.
-- [eurlex (R)](https://github.com/michalovadek/eurlex) - R package for retrieving data on European Union laws and policies from EUR-Lex and CELLAR.
-- [Legal Reference Extraction](https://github.com/openlegaldata/legal-reference-extraction) - Extract and parse legal references from European legal documents.
-- [Open Legal Data Platform](https://github.com/openlegaldata/oldp) - Open source platform for publishing and accessing European legal data.
-- [pyEuroVoc](https://github.com/racai-ai/pyeurovoc) - Legal document classification with EuroVoc descriptors across 22 EU languages.
+- [bluebell](https://github.com/laws-africa/bluebell) ![Stars](https://img.shields.io/github/stars/laws-africa/bluebell?style=flat-square&label=) - Generic parser for Akoma Ntoso 3 legislative documents in Python. `Python` `GPL-3.0`
+- [Case Law Explorer](https://github.com/maastrichtlawtech/case-law-explorer) ![Stars](https://img.shields.io/github/stars/maastrichtlawtech/case-law-explorer?style=flat-square&label=) - Network analysis platform for analysing Dutch and European court decisions. `Python` `MIT`
+- [cobalt](https://github.com/laws-africa/cobalt) ![Stars](https://img.shields.io/github/stars/laws-africa/cobalt?style=flat-square&label=) - Lightweight Python library for working with Akoma Ntoso legislative documents. `Python`
+- [ECHR Open Data](https://github.com/echr-od/ECHR-OD_process) ![Stars](https://img.shields.io/github/stars/echr-od/ECHR-OD_process?style=flat-square&label=) - Process to rebuild the European Court of Human Rights database and datasets from scratch. ([Demo](https://echr-opendata.eu)) `Python` `MIT`
+- [eForms Notice Viewer](https://github.com/OP-TED/eforms-notice-viewer) ![Stars](https://img.shields.io/github/stars/OP-TED/eforms-notice-viewer?style=flat-square&label=) - Sample application that can visualise an eForms notice using the eForms SDK. `Java` `EUPL-1.2` `eProcurement`
+- [eForms SDK](https://github.com/OP-TED/eForms-SDK) ![Stars](https://img.shields.io/github/stars/OP-TED/eForms-SDK?style=flat-square&label=) - EU eForms notification standard for public procurement procedures, published by the EU Publications Office. `ANTLR` `CC-BY-4.0` `eProcurement`
+- [eurlex](https://github.com/step21/eurlex) ![Stars](https://img.shields.io/github/stars/step21/eurlex?style=flat-square&label=) - Python package for querying the EU Cellar repository and downloading EUR-Lex legislative data. `Python` `AGPL-3.0`
+- [eurlex (Python)](https://github.com/kevin91nl/eurlex) ![Stars](https://img.shields.io/github/stars/kevin91nl/eurlex?style=flat-square&label=) - Python parser for extracting and processing EUR-Lex legislative documents. `Python`
+- [eurlex (R)](https://github.com/michalovadek/eurlex) ![Stars](https://img.shields.io/github/stars/michalovadek/eurlex?style=flat-square&label=) - R package for retrieving data on European Union laws and policies from EUR-Lex and CELLAR. `R`
+- [Legal Reference Extraction](https://github.com/openlegaldata/legal-reference-extraction) ![Stars](https://img.shields.io/github/stars/openlegaldata/legal-reference-extraction?style=flat-square&label=) - Extract and parse legal references from European legal documents. `Python` `MIT`
+- [Open Legal Data Platform](https://github.com/openlegaldata/oldp) ![Stars](https://img.shields.io/github/stars/openlegaldata/oldp?style=flat-square&label=) - Open source platform for publishing and accessing European legal data. `Python` `MIT`
+- [pyEuroVoc](https://github.com/racai-ai/pyeurovoc) ![Stars](https://img.shields.io/github/stars/racai-ai/pyeurovoc?style=flat-square&label=) - Legal document classification with EuroVoc descriptors across 22 EU languages. `Python` `MIT`
 
 ## Intellectual Property
 
 European Patent Office (EPO), EUIPO, Unitary Patent, and EU trademark tools.
 
-- [PatZilla](https://github.com/ip-tools/patzilla) - Modular patent information research platform with access to EPO data sources.
-- [python-epo-ops-client](https://github.com/ip-tools/python-epo-ops-client) - Python client for the European Patent Office Open Patent Services API.
-- [REUSE Tool](https://github.com/fsfe/reuse-tool) - FSFE helper tool for managing copyright and licensing information compliant with the REUSE specification.
+- [PatZilla](https://github.com/ip-tools/patzilla) ![Stars](https://img.shields.io/github/stars/ip-tools/patzilla?style=flat-square&label=) - Modular patent information research platform with access to EPO data sources. `Python` `AGPL-3.0`
+- [python-epo-ops-client](https://github.com/ip-tools/python-epo-ops-client) ![Stars](https://img.shields.io/github/stars/ip-tools/python-epo-ops-client?style=flat-square&label=) - Python client for the European Patent Office Open Patent Services API. `Python` `Apache-2.0`
+- [REUSE Tool](https://github.com/fsfe/reuse-tool) ![Stars](https://img.shields.io/github/stars/fsfe/reuse-tool?style=flat-square&label=) - FSFE helper tool for managing copyright and licensing information compliant with the REUSE specification. ([Demo](https://reuse.software)) `Python`
 
 ## Democracy and Governance
 
 European Parliament, EU elections, Transparency Register, European Citizens' Initiative, and EU legislative tracking.
 
-- [Alaveteli](https://github.com/mysociety/alaveteli) - Freedom of Information request platform deployed in multiple European countries.
-- [Citizen OS](https://github.com/citizenos/citizenos-api) - Open source participatory democracy API used by European civic organizations.
-- [Consul Democracy](https://github.com/consul/consul) - Open government and e-participation web platform used across European municipalities.
-- [Dear MEP](https://github.com/AKVorrat/dearmep) - Tool empowering citizens to contact Members of the European Parliament about legislative debates.
-- [Decidim](https://github.com/decidim/decidim) - Participatory democracy framework deployed by hundreds of European cities and institutions.
-- [europarl](https://github.com/rOpenGov/europarl) - R tools for accessing and analyzing European Parliament data.
-- [EUSurvey](https://github.com/EUSurvey/EUSURVEY) - Official European Commission open source survey tool used across EU institutions.
-- [EveryPolitician Data](https://github.com/everypolitician/everypolitician-data) - Data for national legislatures worldwide including all EU member states.
-- [FixMyStreet](https://github.com/mysociety/fixmystreet) - Map-based civic issue reporting platform deployed across European countries and regions.
-- [FragDenStaat](https://github.com/okfde/fragdenstaat_de) - Freedom of information portal for government transparency requests.
-- [Froide](https://github.com/okfde/froide) - Freedom of Information portal framework deployed across European countries for government transparency requests.
-- [HowTheyVote](https://github.com/HowTheyVote/howtheyvote) - Tracks how Members of the European Parliament vote in plenary sessions.
-- [HowTheyVote Data](https://github.com/HowTheyVote/data) - Weekly updated roll-call-vote data from the European Parliament.
-- [Parltrack](https://github.com/parltrack/parltrack) - Parliamentary tracker application for monitoring the European Parliament.
+- [Alaveteli](https://github.com/mysociety/alaveteli) ![Stars](https://img.shields.io/github/stars/mysociety/alaveteli?style=flat-square&label=) - Freedom of Information request platform deployed in multiple European countries. `Ruby`
+- [Citizen OS](https://github.com/citizenos/citizenos-api) ![Stars](https://img.shields.io/github/stars/citizenos/citizenos-api?style=flat-square&label=) - Open source participatory democracy API used by European civic organizations. `JavaScript`
+- [Consul Democracy](https://github.com/consul/consul) ![Stars](https://img.shields.io/github/stars/consul/consul?style=flat-square&label=) - Open government and e-participation web platform used across European municipalities. ([Demo](https://consuldemocracy.org/en)) `Ruby` `AGPL-3.0`
+- [Dear MEP](https://github.com/AKVorrat/dearmep) ![Stars](https://img.shields.io/github/stars/AKVorrat/dearmep?style=flat-square&label=) - Tool empowering citizens to contact Members of the European Parliament about legislative debates. ([Demo](https://dearmep.eu)) `Python`
+- [Decidim](https://github.com/decidim/decidim) ![Stars](https://img.shields.io/github/stars/decidim/decidim?style=flat-square&label=) - Participatory democracy framework deployed by hundreds of European cities and institutions. ([Demo](https://decidim.org)) `Ruby` `AGPL-3.0`
+- [europarl](https://github.com/rOpenGov/europarl) ![Stars](https://img.shields.io/github/stars/rOpenGov/europarl?style=flat-square&label=) - R tools for accessing and analyzing European Parliament data. `R`
+- [EUSurvey](https://github.com/EUSurvey/EUSURVEY) ![Stars](https://img.shields.io/github/stars/EUSurvey/EUSURVEY?style=flat-square&label=) - Official European Commission open source survey tool used across EU institutions. ([Demo](https://ec.europa.eu/eusurvey)) `Java` `EUPL-1.2`
+- [EveryPolitician Data](https://github.com/everypolitician/everypolitician-data) ![Stars](https://img.shields.io/github/stars/everypolitician/everypolitician-data?style=flat-square&label=) - Data for national legislatures worldwide including all EU member states. `Ruby`
+- [FixMyStreet](https://github.com/mysociety/fixmystreet) ![Stars](https://img.shields.io/github/stars/mysociety/fixmystreet?style=flat-square&label=) - Map-based civic issue reporting platform deployed across European countries and regions. `Perl`
+- [FragDenStaat](https://github.com/okfde/fragdenstaat_de) ![Stars](https://img.shields.io/github/stars/okfde/fragdenstaat_de?style=flat-square&label=) - Freedom of information portal for government transparency requests. `Python`
+- [Froide](https://github.com/okfde/froide) ![Stars](https://img.shields.io/github/stars/okfde/froide?style=flat-square&label=) - Freedom of Information portal framework deployed across European countries for government transparency requests. `Python` `MIT`
+- [HowTheyVote](https://github.com/HowTheyVote/howtheyvote) ![Stars](https://img.shields.io/github/stars/HowTheyVote/howtheyvote?style=flat-square&label=) - Tracks how Members of the European Parliament vote in plenary sessions. ([Demo](https://howtheyvote.eu)) `HTML` `AGPL-3.0`
+- [HowTheyVote Data](https://github.com/HowTheyVote/data) ![Stars](https://img.shields.io/github/stars/HowTheyVote/data?style=flat-square&label=) - Weekly updated roll-call-vote data from the European Parliament. ([Demo](https://howtheyvote.eu))
+- [Parltrack](https://github.com/parltrack/parltrack) ![Stars](https://img.shields.io/github/stars/parltrack/parltrack?style=flat-square&label=) - Parliamentary tracker application for monitoring the European Parliament. `Python`
 
 ## Public Procurement
 
 TED (Tenders Electronic Daily), eForms, ESPD, CPV codes, and EU public procurement infrastructure.
 
-- [eForms Notice Editor](https://github.com/OP-TED/eforms-notice-editor) - Sample application demonstrating how to create eForms notices using the SDK.
-- [eProcurement Ontology](https://github.com/OP-TED/ePO) - Formal semantic foundation for linked open data in the domain of EU public procurement.
-- [ESPD-EDM](https://github.com/OP-TED/ESPD-EDM) - European Single Procurement Document Exchange Data Model for integration with national ESPD service providers.
-- [model2owl](https://github.com/OP-TED/model2owl) - Tool to transform UML models into OWL ontologies and SHACL shapes for EU procurement data.
-- [OCDS EU Extension](https://github.com/open-contracting-extensions/european-union) - Extension adapting the Open Contracting Data Standard to European Union procurement.
-- [OCDS Standard](https://github.com/open-contracting/standard) - Open Contracting Data Standard used in EU public procurement transparency.
-- [TED Open Data](https://github.com/OP-TED/ted-open-data) - SPARQL query editor for the Tenders Electronic Daily Open Data Service.
-- [TED RDF Conversion Pipeline](https://github.com/OP-TED/ted-rdf-conversion-pipeline) - Pipeline for converting Tenders Electronic Daily notices to linked open data.
-- [ted-rdf-mapping](https://github.com/OP-TED/ted-rdf-mapping) - Transformation rules for the TED Semantic Web Services RDF conversion.
+- [eForms Notice Editor](https://github.com/OP-TED/eforms-notice-editor) ![Stars](https://img.shields.io/github/stars/OP-TED/eforms-notice-editor?style=flat-square&label=) - Sample application demonstrating how to create eForms notices using the SDK. `Java` `eProcurement`
+- [eProcurement Ontology](https://github.com/OP-TED/ePO) ![Stars](https://img.shields.io/github/stars/OP-TED/ePO?style=flat-square&label=) - Formal semantic foundation for linked open data in the domain of EU public procurement. `EUPL-1.2` `eProcurement`
+- [ESPD-EDM](https://github.com/OP-TED/ESPD-EDM) ![Stars](https://img.shields.io/github/stars/OP-TED/ESPD-EDM?style=flat-square&label=) - European Single Procurement Document Exchange Data Model for integration with national ESPD service providers. `EUPL-1.2` `eProcurement`
+- [model2owl](https://github.com/OP-TED/model2owl) ![Stars](https://img.shields.io/github/stars/OP-TED/model2owl?style=flat-square&label=) - Tool to transform UML models into OWL ontologies and SHACL shapes for EU procurement data. `HTML` `EUPL-1.2` `eProcurement`
+- [OCDS EU Extension](https://github.com/open-contracting-extensions/european-union) ![Stars](https://img.shields.io/github/stars/open-contracting-extensions/european-union?style=flat-square&label=) - Extension adapting the Open Contracting Data Standard to European Union procurement. `Apache-2.0` `eProcurement`
+- [OCDS Standard](https://github.com/open-contracting/standard) ![Stars](https://img.shields.io/github/stars/open-contracting/standard?style=flat-square&label=) - Open Contracting Data Standard used in EU public procurement transparency. `Python` `eProcurement`
+- [TED Open Data](https://github.com/OP-TED/ted-open-data) ![Stars](https://img.shields.io/github/stars/OP-TED/ted-open-data?style=flat-square&label=) - SPARQL query editor for the Tenders Electronic Daily Open Data Service. ([Demo](https://data.ted.europa.eu)) `JavaScript` `EUPL-1.2` `eProcurement`
+- [TED RDF Conversion Pipeline](https://github.com/OP-TED/ted-rdf-conversion-pipeline) ![Stars](https://img.shields.io/github/stars/OP-TED/ted-rdf-conversion-pipeline?style=flat-square&label=) - Pipeline for converting Tenders Electronic Daily notices to linked open data. `HTML` `Apache-2.0` `eProcurement`
+- [ted-rdf-mapping](https://github.com/OP-TED/ted-rdf-mapping) ![Stars](https://img.shields.io/github/stars/OP-TED/ted-rdf-mapping?style=flat-square&label=) - Transformation rules for the TED Semantic Web Services RDF conversion. `HTML` `EUPL-1.2` `eProcurement`
 
 ## Energy and Electricity
 
 ENTSO-E Transparency Platform, ACER, REMIT, and the European energy market.
 
-- [atlite](https://github.com/PyPSA/atlite) - Python package for calculating renewable power potentials and time series for the European energy system.
-- [Calliope](https://github.com/calliope-project/calliope) - Multi-scale energy systems modelling framework used in European energy research.
-- [Dispa-SET](https://github.com/energy-modelling-toolkit/Dispa-SET) - Unit commitment and optimal dispatch model for the European power system, developed at the JRC.
-- [Electricity Maps](https://github.com/electricitymaps/electricitymap-contrib) - Open source data parsers powering real-time electricity generation and carbon intensity maps across Europe.
-- [Energy Web Origin](https://github.com/energywebfoundation/origin) - Toolkit for issuance and management of Energy Attribute Certificates in European energy markets.
-- [ENTSO-E Home Assistant](https://github.com/JaccoR/hass-entso-e) - Home Assistant integration for fetching day-ahead energy prices from the ENTSO-E Transparency Platform.
-- [entsoe-py](https://github.com/EnergieID/entsoe-py) - Python client for the ENTSO-E API (European Network of Transmission System Operators for Electricity).
-- [ESMValTool](https://github.com/ESMValGroup/ESMValTool) - Community diagnostic and performance metrics tool for evaluating Earth system models in European climate research.
-- [FARAO](https://github.com/farao-community/farao-core) - Toolbox for coordinated capacity calculation and security analysis in European power systems.
-- [FlexMeasures](https://github.com/FlexMeasures/flexmeasures) - Intelligent energy management system supporting real-time flexibility applications in European energy markets.
-- [Linopy](https://github.com/PyPSA/linopy) - Linear optimization with N-D labeled arrays in Python, powering European energy system models.
-- [Nord Pool](https://github.com/custom-components/nordpool) - Home Assistant integration for fetching day-ahead energy prices from the Nord Pool European energy exchange.
-- [oemof-solph](https://github.com/oemof/oemof-solph) - Energy system modelling and optimisation framework widely used in European energy research.
-- [Open Energy Ontology](https://github.com/OpenEnergyPlatform/ontology) - Ontology for energy system modelling and analysis in the European research context.
-- [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - Web platform providing an interface to open energy data and the Open Energy Ontology for European research.
-- [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - Open source platform for smart grid management in European energy networks.
-- [powerplantmatching](https://github.com/PyPSA/powerplantmatching) - Tools to combine multiple European power plant databases.
-- [PowSyBl](https://github.com/powsybl/powsybl-core) - Java framework for power system analysis used by European transmission system operators.
-- [PowSyBl Diagram](https://github.com/powsybl/powsybl-diagram) - SVG diagram generation for single-line substation and network graphs in European power systems.
-- [PowSyBl Open Load Flow](https://github.com/powsybl/powsybl-open-loadflow) - Open source power load flow implementation for European transmission system analysis.
-- [PyPSA](https://github.com/PyPSA/PyPSA) - Python framework for simulating and optimising power systems, widely used in European energy research.
-- [PyPSA-Eur](https://github.com/PyPSA/pypsa-eur) - Open optimisation model of the European energy system covering electricity, heating, and transport sectors.
-- [Spine Toolbox](https://github.com/spine-tools/Spine-Toolbox) - EU-funded data and workflow management tool for energy system modelling and simulation.
-- [SpineOpt](https://github.com/spine-tools/SpineOpt.jl) - EU-funded adaptable modelling framework for multi-energy systems in Julia.
-- [technology-data](https://github.com/PyPSA/technology-data) - Compiled assumptions on European energy system technologies including costs and efficiencies.
+- [atlite](https://github.com/PyPSA/atlite) ![Stars](https://img.shields.io/github/stars/PyPSA/atlite?style=flat-square&label=) - Python package for calculating renewable power potentials and time series for the European energy system. `Python` `MIT`
+- [Calliope](https://github.com/calliope-project/calliope) ![Stars](https://img.shields.io/github/stars/calliope-project/calliope?style=flat-square&label=) - Multi-scale energy systems modelling framework used in European energy research. ([Demo](https://www.callio.pe)) `Python` `Apache-2.0`
+- [Dispa-SET](https://github.com/energy-modelling-toolkit/Dispa-SET) ![Stars](https://img.shields.io/github/stars/energy-modelling-toolkit/Dispa-SET?style=flat-square&label=) - Unit commitment and optimal dispatch model for the European power system, developed at the JRC. `Python` `EUPL-1.2`
+- [Electricity Maps](https://github.com/electricitymaps/electricitymap-contrib) ![Stars](https://img.shields.io/github/stars/electricitymaps/electricitymap-contrib?style=flat-square&label=) - Open source data parsers powering real-time electricity generation and carbon intensity maps across Europe. ([Demo](https://app.electricitymaps.com)) `Python` `AGPL-3.0`
+- [Energy Web Origin](https://github.com/energywebfoundation/origin) ![Stars](https://img.shields.io/github/stars/energywebfoundation/origin?style=flat-square&label=) - Toolkit for issuance and management of Energy Attribute Certificates in European energy markets. `TypeScript` `MIT`
+- [ENTSO-E Home Assistant](https://github.com/JaccoR/hass-entso-e) ![Stars](https://img.shields.io/github/stars/JaccoR/hass-entso-e?style=flat-square&label=) - Home Assistant integration for fetching day-ahead energy prices from the ENTSO-E Transparency Platform. `Python` `Apache-2.0`
+- [entsoe-py](https://github.com/EnergieID/entsoe-py) ![Stars](https://img.shields.io/github/stars/EnergieID/entsoe-py?style=flat-square&label=) - Python client for the ENTSO-E API (European Network of Transmission System Operators for Electricity). `Python` `MIT`
+- [ESMValTool](https://github.com/ESMValGroup/ESMValTool) ![Stars](https://img.shields.io/github/stars/ESMValGroup/ESMValTool?style=flat-square&label=) - Community diagnostic and performance metrics tool for evaluating Earth system models in European climate research. `Python` `Apache-2.0`
+- [FARAO](https://github.com/farao-community/farao-core) ![Stars](https://img.shields.io/github/stars/farao-community/farao-core?style=flat-square&label=) - Toolbox for coordinated capacity calculation and security analysis in European power systems. `Java` `MPL-2.0`
+- [FlexMeasures](https://github.com/FlexMeasures/flexmeasures) ![Stars](https://img.shields.io/github/stars/FlexMeasures/flexmeasures?style=flat-square&label=) - Intelligent energy management system supporting real-time flexibility applications in European energy markets. ([Demo](https://flexmeasures.io)) `Python` `Apache-2.0`
+- [Linopy](https://github.com/PyPSA/linopy) ![Stars](https://img.shields.io/github/stars/PyPSA/linopy?style=flat-square&label=) - Linear optimization with N-D labeled arrays in Python, powering European energy system models. `Python` `MIT`
+- [Nord Pool](https://github.com/custom-components/nordpool) ![Stars](https://img.shields.io/github/stars/custom-components/nordpool?style=flat-square&label=) - Home Assistant integration for fetching day-ahead energy prices from the Nord Pool European energy exchange. `Python`
+- [oemof-solph](https://github.com/oemof/oemof-solph) ![Stars](https://img.shields.io/github/stars/oemof/oemof-solph?style=flat-square&label=) - Energy system modelling and optimisation framework widely used in European energy research. `Python` `MIT`
+- [Open Energy Ontology](https://github.com/OpenEnergyPlatform/ontology) ![Stars](https://img.shields.io/github/stars/OpenEnergyPlatform/ontology?style=flat-square&label=) - Ontology for energy system modelling and analysis in the European research context. `Python` `CC0-1.0`
+- [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) ![Stars](https://img.shields.io/github/stars/OpenEnergyPlatform/oeplatform?style=flat-square&label=) - Web platform providing an interface to open energy data and the Open Energy Ontology for European research. ([Demo](https://openenergyplatform.org)) `Python` `AGPL-3.0`
+- [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) ![Stars](https://img.shields.io/github/stars/OSGP/open-smart-grid-platform?style=flat-square&label=) - Open source platform for smart grid management in European energy networks. `Java` `Apache-2.0`
+- [powerplantmatching](https://github.com/PyPSA/powerplantmatching) ![Stars](https://img.shields.io/github/stars/PyPSA/powerplantmatching?style=flat-square&label=) - Tools to combine multiple European power plant databases. `Python`
+- [PowSyBl](https://github.com/powsybl/powsybl-core) ![Stars](https://img.shields.io/github/stars/powsybl/powsybl-core?style=flat-square&label=) - Java framework for power system analysis used by European transmission system operators. `Java` `MPL-2.0`
+- [PowSyBl Diagram](https://github.com/powsybl/powsybl-diagram) ![Stars](https://img.shields.io/github/stars/powsybl/powsybl-diagram?style=flat-square&label=) - SVG diagram generation for single-line substation and network graphs in European power systems. `Java` `MPL-2.0`
+- [PowSyBl Open Load Flow](https://github.com/powsybl/powsybl-open-loadflow) ![Stars](https://img.shields.io/github/stars/powsybl/powsybl-open-loadflow?style=flat-square&label=) - Open source power load flow implementation for European transmission system analysis. `Java` `MPL-2.0`
+- [PyPSA](https://github.com/PyPSA/PyPSA) ![Stars](https://img.shields.io/github/stars/PyPSA/PyPSA?style=flat-square&label=) - Python framework for simulating and optimising power systems, widely used in European energy research. `Python` `MIT`
+- [PyPSA-Eur](https://github.com/PyPSA/pypsa-eur) ![Stars](https://img.shields.io/github/stars/PyPSA/pypsa-eur?style=flat-square&label=) - Open optimisation model of the European energy system covering electricity, heating, and transport sectors. `Python`
+- [Spine Toolbox](https://github.com/spine-tools/Spine-Toolbox) ![Stars](https://img.shields.io/github/stars/spine-tools/Spine-Toolbox?style=flat-square&label=) - EU-funded data and workflow management tool for energy system modelling and simulation. `Python` `LGPL-3.0`
+- [SpineOpt](https://github.com/spine-tools/SpineOpt.jl) ![Stars](https://img.shields.io/github/stars/spine-tools/SpineOpt.jl?style=flat-square&label=) - EU-funded adaptable modelling framework for multi-energy systems in Julia. `Julia` `GPL-3.0`
+- [technology-data](https://github.com/PyPSA/technology-data) ![Stars](https://img.shields.io/github/stars/PyPSA/technology-data?style=flat-square&label=) - Compiled assumptions on European energy system technologies including costs and efficiencies. `Python` `GPL-3.0`
 
 ## Sustainability and ESG
 
 EU Taxonomy, CSRD, SFDR, CBAM, Digital Product Passport, EU Deforestation Regulation, and sustainable finance.
 
-- [Battery Pass Data Model](https://github.com/batterypass/BatteryPassDataModel) - Data model for the EU Battery Passport under the Digital Product Passport framework.
-- [DPP Validator](https://github.com/artiso-ai/dppvalidator) - Compliance validation engine for EU Digital Product Passports against ESPR regulations.
-- [Eclipse Tractus-X](https://github.com/eclipse-tractusx/tractus-x-release) - EU-funded Catena-X automotive data ecosystem for supply chain transparency and sustainability.
-- [Equinox](https://github.com/open-risk/equinox) - Open source platform for sustainable portfolio management adhering to European Banking Authority frameworks.
-- [ESRS XBRL Parser](https://github.com/aimabel-ai/esrs-xbrl-parser) - Tools for parsing European Sustainability Reporting Standards taxonomies in XBRL format.
-- [EU Emissions Trading System Data](https://github.com/datasets/eu-emissions-trading-system) - Open dataset of the EU Emissions Trading System.
-- [EUDR API Client](https://github.com/mfrntic/eudr-api-client) - Node.js library for the EU Deforestation Regulation TRACES system API.
-- [EUDR PHP Client](https://github.com/4bdullatif/eudr-php-client) - PHP client for the EU Deforestation Regulation TRACES system API with WS-Security authentication.
-- [Open DPP](https://github.com/open-dpp/open-dpp) - Open source platform for managing Digital Product Passports in compliance with EU regulations.
-- [OS-Climate ITR](https://github.com/os-climate/ITR) - Python implementation of the Implied Temperature Rise methodology for EU sustainable finance.
-- [SustainableQA](https://github.com/DataScienceUIBK/SustainableQA) - Question answering dataset for corporate sustainability reporting and EU Taxonomy compliance.
-- [Tractus-X BPDM](https://github.com/eclipse-tractusx/bpdm) - Business Partner Data Management for the Catena-X EU automotive data ecosystem.
-- [Tractus-X Digital Twin Registry](https://github.com/eclipse-tractusx/sldt-digital-twin-registry) - Digital Twin Registry for the Catena-X EU automotive data ecosystem.
-- [Tractus-X PURIS](https://github.com/eclipse-tractusx/puris) - Predictive Unit Real-Time Information Service for short-term demand and capacity management in Catena-X.
-- [Tractus-X Traceability](https://github.com/eclipse-tractusx/traceability-foss) - Supply chain traceability application for the Catena-X EU Digital Product Passport ecosystem.
+- [Battery Pass Data Model](https://github.com/batterypass/BatteryPassDataModel) ![Stars](https://img.shields.io/github/stars/batterypass/BatteryPassDataModel?style=flat-square&label=) - Data model for the EU Battery Passport under the Digital Product Passport framework. `HTML` `ESPR`
+- [DPP Validator](https://github.com/artiso-ai/dppvalidator) ![Stars](https://img.shields.io/github/stars/artiso-ai/dppvalidator?style=flat-square&label=) - Compliance validation engine for EU Digital Product Passports against ESPR regulations. `Python` `MIT` `ESPR`
+- [Eclipse Tractus-X](https://github.com/eclipse-tractusx/tractus-x-release) ![Stars](https://img.shields.io/github/stars/eclipse-tractusx/tractus-x-release?style=flat-square&label=) - EU-funded Catena-X automotive data ecosystem for supply chain transparency and sustainability. `Python` `Apache-2.0`
+- [Equinox](https://github.com/open-risk/equinox) ![Stars](https://img.shields.io/github/stars/open-risk/equinox?style=flat-square&label=) - Open source platform for sustainable portfolio management adhering to European Banking Authority frameworks. `JavaScript` `Apache-2.0`
+- [ESRS XBRL Parser](https://github.com/aimabel-ai/esrs-xbrl-parser) ![Stars](https://img.shields.io/github/stars/aimabel-ai/esrs-xbrl-parser?style=flat-square&label=) - Tools for parsing European Sustainability Reporting Standards taxonomies in XBRL format. `TypeScript` `ISC`
+- [EU Emissions Trading System Data](https://github.com/datasets/eu-emissions-trading-system) ![Stars](https://img.shields.io/github/stars/datasets/eu-emissions-trading-system?style=flat-square&label=) - Open dataset of the EU Emissions Trading System. ([Demo](https://datahub.io/core/eu-emissions-trading-system)) `Python` `Unlicense`
+- [EUDR API Client](https://github.com/mfrntic/eudr-api-client) ![Stars](https://img.shields.io/github/stars/mfrntic/eudr-api-client?style=flat-square&label=) - Node.js library for the EU Deforestation Regulation TRACES system API. `JavaScript`
+- [EUDR PHP Client](https://github.com/4bdullatif/eudr-php-client) ![Stars](https://img.shields.io/github/stars/4bdullatif/eudr-php-client?style=flat-square&label=) - PHP client for the EU Deforestation Regulation TRACES system API with WS-Security authentication. `PHP` `MIT`
+- [Open DPP](https://github.com/open-dpp/open-dpp) ![Stars](https://img.shields.io/github/stars/open-dpp/open-dpp?style=flat-square&label=) - Open source platform for managing Digital Product Passports in compliance with EU regulations. `TypeScript` `AGPL-3.0` `ESPR`
+- [OS-Climate ITR](https://github.com/os-climate/ITR) ![Stars](https://img.shields.io/github/stars/os-climate/ITR?style=flat-square&label=) - Python implementation of the Implied Temperature Rise methodology for EU sustainable finance. `Python` `Apache-2.0`
+- [SustainableQA](https://github.com/DataScienceUIBK/SustainableQA) ![Stars](https://img.shields.io/github/stars/DataScienceUIBK/SustainableQA?style=flat-square&label=) - Question answering dataset for corporate sustainability reporting and EU Taxonomy compliance. `Python` `CSRD` `EU Taxonomy`
+- [Tractus-X BPDM](https://github.com/eclipse-tractusx/bpdm) ![Stars](https://img.shields.io/github/stars/eclipse-tractusx/bpdm?style=flat-square&label=) - Business Partner Data Management for the Catena-X EU automotive data ecosystem. `Kotlin` `Apache-2.0`
+- [Tractus-X Digital Twin Registry](https://github.com/eclipse-tractusx/sldt-digital-twin-registry) ![Stars](https://img.shields.io/github/stars/eclipse-tractusx/sldt-digital-twin-registry?style=flat-square&label=) - Digital Twin Registry for the Catena-X EU automotive data ecosystem. `Java` `Apache-2.0`
+- [Tractus-X PURIS](https://github.com/eclipse-tractusx/puris) ![Stars](https://img.shields.io/github/stars/eclipse-tractusx/puris?style=flat-square&label=) - Predictive Unit Real-Time Information Service for short-term demand and capacity management in Catena-X. `Java` `Apache-2.0`
+- [Tractus-X Traceability](https://github.com/eclipse-tractusx/traceability-foss) ![Stars](https://img.shields.io/github/stars/eclipse-tractusx/traceability-foss?style=flat-square&label=) - Supply chain traceability application for the Catena-X EU Digital Product Passport ecosystem. `Java` `Apache-2.0` `ESPR`
 
 ## Agriculture and Food Safety
 
 EFSA, Common Agricultural Policy (CAP), RASFF, EU food labeling, and pan-European agricultural data.
 
-- [EFSA Catalogue Browser](https://github.com/openefsa/catalogue-browser) - Java application for browsing EFSA food safety catalogues and FoodEx2 classifications.
-- [JRC Checks by Monitoring](https://github.com/ec-jrc/cbm) - JRC toolkit for CAP area-based checks by monitoring using Copernicus Sentinel data.
-- [Nutri-Score Calculator](https://github.com/food-nutrients/nutri-score) - Library for calculating EU Nutri-Score food nutrition labels.
-- [Open Food Facts Folksonomy](https://github.com/openfoodfacts/folksonomy_api) - REST API for the Open Food Facts folksonomy engine for tagging food products.
-- [Open Food Facts Mobile](https://github.com/openfoodfacts/smooth-app) - Mobile application for scanning and contributing to the food products database with EU Nutri-Score support.
-- [Open Food Facts Python](https://github.com/openfoodfacts/openfoodfacts-python) - Python package for accessing the Open Food Facts database including EU Nutri-Score and food labeling data.
-- [Open Food Facts Server](https://github.com/openfoodfacts/openfoodfacts-server) - Database, API and web interface for the collaborative food products database with EU nutrition labeling support.
-- [Robotoff](https://github.com/openfoodfacts/robotoff) - Machine learning prediction service for Open Food Facts product categorization and quality checks.
-- [Sen4CAP](https://github.com/Sen4CAP/Sen4CAP) - ESA-funded Sentinels for Common Agricultural Policy monitoring system.
+- [EFSA Catalogue Browser](https://github.com/openefsa/catalogue-browser) ![Stars](https://img.shields.io/github/stars/openefsa/catalogue-browser?style=flat-square&label=) - Java application for browsing EFSA food safety catalogues and FoodEx2 classifications. `Java`
+- [JRC Checks by Monitoring](https://github.com/ec-jrc/cbm) ![Stars](https://img.shields.io/github/stars/ec-jrc/cbm?style=flat-square&label=) - JRC toolkit for CAP area-based checks by monitoring using Copernicus Sentinel data. `Python` `BSD-3-Clause` `CAP` `Copernicus`
+- [Nutri-Score Calculator](https://github.com/food-nutrients/nutri-score) ![Stars](https://img.shields.io/github/stars/food-nutrients/nutri-score?style=flat-square&label=) - Library for calculating EU Nutri-Score food nutrition labels. `JavaScript` `FIC`
+- [Open Food Facts Folksonomy](https://github.com/openfoodfacts/folksonomy_api) ![Stars](https://img.shields.io/github/stars/openfoodfacts/folksonomy_api?style=flat-square&label=) - REST API for the Open Food Facts folksonomy engine for tagging food products. `Python` `AGPL-3.0`
+- [Open Food Facts Mobile](https://github.com/openfoodfacts/smooth-app) ![Stars](https://img.shields.io/github/stars/openfoodfacts/smooth-app?style=flat-square&label=) - Mobile application for scanning and contributing to the food products database with EU Nutri-Score support. `Dart` `Apache-2.0` `FIC`
+- [Open Food Facts Python](https://github.com/openfoodfacts/openfoodfacts-python) ![Stars](https://img.shields.io/github/stars/openfoodfacts/openfoodfacts-python?style=flat-square&label=) - Python package for accessing the Open Food Facts database including EU Nutri-Score and food labeling data. `Python` `FIC`
+- [Open Food Facts Server](https://github.com/openfoodfacts/openfoodfacts-server) ![Stars](https://img.shields.io/github/stars/openfoodfacts/openfoodfacts-server?style=flat-square&label=) - Database, API and web interface for the collaborative food products database with EU nutrition labeling support. `HTML` `AGPL-3.0`
+- [Robotoff](https://github.com/openfoodfacts/robotoff) ![Stars](https://img.shields.io/github/stars/openfoodfacts/robotoff?style=flat-square&label=) - Machine learning prediction service for Open Food Facts product categorization and quality checks. `Python` `AGPL-3.0`
+- [Sen4CAP](https://github.com/Sen4CAP/Sen4CAP) ![Stars](https://img.shields.io/github/stars/Sen4CAP/Sen4CAP?style=flat-square&label=) - ESA-funded Sentinels for Common Agricultural Policy monitoring system. `C++` `CAP` `Copernicus`
 
 ## Transport and Mobility
 
 European railway interoperability (ERA, ETCS), cross-border transport, eCall, EETS, and EU mobility frameworks.
 
-- [Artery](https://github.com/riebl/artery) - OMNeT++ V2X simulation framework for ETSI ITS-G5 cooperative intelligent transport systems.
-- [Digitransit UI](https://github.com/HSLdevcom/digitransit-ui) - Open source multi-modal journey planner UI used in European public transport.
-- [direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) - Map of all direct long-distance railway connections for cities across central Europe.
-- [Eclipse SUMO](https://github.com/eclipse-sumo/sumo) - Open source, highly portable microscopic traffic simulation package used in EU transport research.
-- [ETCS](https://github.com/cesarBLG/ETCS) - Open source implementation of the European Train Control System.
-- [ETSI ITS Messages](https://github.com/ika-rwth-aachen/etsi_its_messages) - ROS 2 support for ETSI ITS messages enabling V2X communication.
-- [European Transport Feeds](https://github.com/public-transport/european-transport-feeds) - Directory of European public transport data feeds.
-- [FPTF](https://github.com/public-transport/friendly-public-transport-format) - Standardized data format for public transport APIs, libraries, and datasets across Europe.
-- [GeoNetworking](https://github.com/alexvoronov/geonetworking) - Java implementation of the ETSI ITS-G5 GeoNetworking stack with CAM and DENM support.
-- [hafas-client](https://github.com/derhuerst/hafas-client) - JavaScript client for HAFAS public transport APIs used across European transit systems.
-- [mobilityDCAT-AP](https://github.com/mobilityDCAT-AP/mobilityDCAT-AP) - Metadata specification for describing European transport datasets and services.
-- [MOTIS](https://github.com/motis-project/motis) - Multimodal travel information system providing routing, geocoding, and map tiles across European transit networks.
-- [Navitia](https://github.com/hove-io/navitia) - Open source multimodal journey planning engine powering European public transport services.
-- [NeTEx](https://github.com/NeTEx-CEN/NeTEx) - CEN technical standard for exchanging public transport schedules and related data across Europe.
-- [NeTEx Java Model](https://github.com/entur/netex-java-model) - Java JAXB binding classes for the NeTEx XSD schema.
-- [Netzgrafik Editor](https://github.com/OpenRailAssociation/netzgrafik-editor-frontend) - Regular-interval timetable creation, modification, and analysis for European rail networks.
-- [OpenSky API](https://github.com/openskynetwork/opensky-api) - Python and Java bindings for the OpenSky Network REST API for European air traffic data.
-- [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - Open source multi-modal trip planner widely deployed across European public transport networks.
-- [OSDM](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Open Sales and Distribution Model API for European public transport ticketing and distribution.
-- [OSRD](https://github.com/OpenRailAssociation/osrd) - Open source web application for railway infrastructure design, capacity analysis, and timetabling across European networks.
-- [Pumperly](https://github.com/GeiserX/pumperly) - Open source fuel and EV route planner with real-time prices across European countries.
-- [pyhafas](https://github.com/FahrplanDatenGarten/pyhafas) - Python client for HAFAS public transport APIs covering European transit operators.
-- [SIMROUTE](https://github.com/ManelGrifoll/SIMROUTE) - Weather ship routing software using Copernicus Marine Service wave predictions.
-- [SIRI](https://github.com/SIRI-CEN/SIRI) - Service Interface for Real-Time Information, the CEN standard for European public transport data exchange.
-- [subset36](https://github.com/FokkeB/subset36) - Encode and decode Eurobalise contents for the European Train Control System.
-- [Time-Space Train Planner](https://github.com/traines-source/time-space-train-planner) - Browser-based tool to visualize public transport journeys across European networks.
-- [traffic](https://github.com/xoolive/traffic) - Python toolbox for processing and analysing air traffic data from Eurocontrol and OpenSky.
-- [Trainline EU Stations](https://github.com/trainline-eu/stations) - List of European railway stations with associated metadata and identifiers.
-- [transit_model](https://github.com/hove-io/transit_model) - Rust library for managing transit data with NeTEx and GTFS support.
-- [Transitous](https://github.com/public-transport/transitous) - Free and open public transport routing engine for pan-European journey planning.
-- [transport-apis](https://github.com/public-transport/transport-apis) - Machine-readable list of European public transport API endpoints.
-- [UIC Barcode](https://github.com/UnionInternationalCheminsdeFer/UIC-barcode) - Implementation of the FCB barcode standard (IRS 90918-9) for European railway ticketing.
-- [VaN3Twin](https://github.com/DriveX-devs/VaN3Twin) - Multi-stack ETSI-compliant V2X simulation framework for ns-3.
-- [Vanetza](https://github.com/riebl/vanetza) - Open source implementation of the ETSI C-ITS protocol stack for vehicular networking.
+- [Artery](https://github.com/riebl/artery) ![Stars](https://img.shields.io/github/stars/riebl/artery?style=flat-square&label=) - OMNeT++ V2X simulation framework for ETSI ITS-G5 cooperative intelligent transport systems. `C++` `GPL-2.0` `ETS` `ETSI` `ITS`
+- [Digitransit UI](https://github.com/HSLdevcom/digitransit-ui) ![Stars](https://img.shields.io/github/stars/HSLdevcom/digitransit-ui?style=flat-square&label=) - Open source multi-modal journey planner UI used in European public transport. ([Demo](https://www.reittiopas.fi)) `JavaScript` `ITS`
+- [direkt.bahn.guru](https://github.com/juliuste/direkt.bahn.guru) ![Stars](https://img.shields.io/github/stars/juliuste/direkt.bahn.guru?style=flat-square&label=) - Map of all direct long-distance railway connections for cities across central Europe. ([Demo](https://direkt.bahn.guru)) `JavaScript` `GPL-3.0` `ITS`
+- [Eclipse SUMO](https://github.com/eclipse-sumo/sumo) ![Stars](https://img.shields.io/github/stars/eclipse-sumo/sumo?style=flat-square&label=) - Open source, highly portable microscopic traffic simulation package used in EU transport research. ([Demo](https://eclipse.dev/sumo)) `C++` `EPL-2.0` `ITS`
+- [ETCS](https://github.com/cesarBLG/ETCS) ![Stars](https://img.shields.io/github/stars/cesarBLG/ETCS?style=flat-square&label=) - Open source implementation of the European Train Control System. `C++` `MPL-2.0` `ITS`
+- [ETSI ITS Messages](https://github.com/ika-rwth-aachen/etsi_its_messages) ![Stars](https://img.shields.io/github/stars/ika-rwth-aachen/etsi_its_messages?style=flat-square&label=) - ROS 2 support for ETSI ITS messages enabling V2X communication. `C` `MIT` `ETS` `ETSI` `ITS`
+- [European Transport Feeds](https://github.com/public-transport/european-transport-feeds) ![Stars](https://img.shields.io/github/stars/public-transport/european-transport-feeds?style=flat-square&label=) - Directory of European public transport data feeds. `JavaScript` `ITS`
+- [FPTF](https://github.com/public-transport/friendly-public-transport-format) ![Stars](https://img.shields.io/github/stars/public-transport/friendly-public-transport-format?style=flat-square&label=) - Standardized data format for public transport APIs, libraries, and datasets across Europe. `CC-BY-SA-4.0` `ITS`
+- [GeoNetworking](https://github.com/alexvoronov/geonetworking) ![Stars](https://img.shields.io/github/stars/alexvoronov/geonetworking?style=flat-square&label=) - Java implementation of the ETSI ITS-G5 GeoNetworking stack with CAM and DENM support. `Java` `Apache-2.0` `ETS` `ETSI` `ITS`
+- [hafas-client](https://github.com/derhuerst/hafas-client) ![Stars](https://img.shields.io/github/stars/derhuerst/hafas-client?style=flat-square&label=) - JavaScript client for HAFAS public transport APIs used across European transit systems. `JavaScript` `ISC` `ITS`
+- [mobilityDCAT-AP](https://github.com/mobilityDCAT-AP/mobilityDCAT-AP) ![Stars](https://img.shields.io/github/stars/mobilityDCAT-AP/mobilityDCAT-AP?style=flat-square&label=) - Metadata specification for describing European transport datasets and services. `HTML` `CC-BY-4.0` `DCAT-AP` `ITS`
+- [MOTIS](https://github.com/motis-project/motis) ![Stars](https://img.shields.io/github/stars/motis-project/motis?style=flat-square&label=) - Multimodal travel information system providing routing, geocoding, and map tiles across European transit networks. `C++` `MIT` `ITS`
+- [Navitia](https://github.com/hove-io/navitia) ![Stars](https://img.shields.io/github/stars/hove-io/navitia?style=flat-square&label=) - Open source multimodal journey planning engine powering European public transport services. ([Demo](https://playground.navitia.io)) `Python` `AGPL-3.0` `ITS`
+- [NeTEx](https://github.com/NeTEx-CEN/NeTEx) ![Stars](https://img.shields.io/github/stars/NeTEx-CEN/NeTEx?style=flat-square&label=) - CEN technical standard for exchanging public transport schedules and related data across Europe. `Python` `GPL-3.0` `ITS`
+- [NeTEx Java Model](https://github.com/entur/netex-java-model) ![Stars](https://img.shields.io/github/stars/entur/netex-java-model?style=flat-square&label=) - Java JAXB binding classes for the NeTEx XSD schema. `Java` `EUPL-1.2` `ITS`
+- [Netzgrafik Editor](https://github.com/OpenRailAssociation/netzgrafik-editor-frontend) ![Stars](https://img.shields.io/github/stars/OpenRailAssociation/netzgrafik-editor-frontend?style=flat-square&label=) - Regular-interval timetable creation, modification, and analysis for European rail networks. `TypeScript` `Apache-2.0` `ITS`
+- [OpenSky API](https://github.com/openskynetwork/opensky-api) ![Stars](https://img.shields.io/github/stars/openskynetwork/opensky-api?style=flat-square&label=) - Python and Java bindings for the OpenSky Network REST API for European air traffic data. `Python` `GPL-3.0` `ITS`
+- [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) ![Stars](https://img.shields.io/github/stars/opentripplanner/OpenTripPlanner?style=flat-square&label=) - Open source multi-modal trip planner widely deployed across European public transport networks. `Java` `ITS`
+- [OSDM](https://github.com/UnionInternationalCheminsdeFer/OSDM) ![Stars](https://img.shields.io/github/stars/UnionInternationalCheminsdeFer/OSDM?style=flat-square&label=) - Open Sales and Distribution Model API for European public transport ticketing and distribution. `Apache-2.0` `ITS`
+- [OSRD](https://github.com/OpenRailAssociation/osrd) ![Stars](https://img.shields.io/github/stars/OpenRailAssociation/osrd?style=flat-square&label=) - Open source web application for railway infrastructure design, capacity analysis, and timetabling across European networks. ([Demo](https://osrd.fr)) `TypeScript` `ITS`
+- [Pumperly](https://github.com/GeiserX/pumperly) ![Stars](https://img.shields.io/github/stars/GeiserX/pumperly?style=flat-square&label=) - Open source fuel and EV route planner with real-time prices across European countries. `TypeScript` `GPL-3.0` `ITS`
+- [pyhafas](https://github.com/FahrplanDatenGarten/pyhafas) ![Stars](https://img.shields.io/github/stars/FahrplanDatenGarten/pyhafas?style=flat-square&label=) - Python client for HAFAS public transport APIs covering European transit operators. `Python` `MIT` `ITS`
+- [SIMROUTE](https://github.com/ManelGrifoll/SIMROUTE) ![Stars](https://img.shields.io/github/stars/ManelGrifoll/SIMROUTE?style=flat-square&label=) - Weather ship routing software using Copernicus Marine Service wave predictions. `Python` `Copernicus` `ITS`
+- [SIRI](https://github.com/SIRI-CEN/SIRI) ![Stars](https://img.shields.io/github/stars/SIRI-CEN/SIRI?style=flat-square&label=) - Service Interface for Real-Time Information, the CEN standard for European public transport data exchange. `XSLT` `ITS`
+- [subset36](https://github.com/FokkeB/subset36) ![Stars](https://img.shields.io/github/stars/FokkeB/subset36?style=flat-square&label=) - Encode and decode Eurobalise contents for the European Train Control System. `C++` `LGPL-2.1` `ITS`
+- [Time-Space Train Planner](https://github.com/traines-source/time-space-train-planner) ![Stars](https://img.shields.io/github/stars/traines-source/time-space-train-planner?style=flat-square&label=) - Browser-based tool to visualize public transport journeys across European networks. `Go` `GPL-3.0` `ITS`
+- [traffic](https://github.com/xoolive/traffic) ![Stars](https://img.shields.io/github/stars/xoolive/traffic?style=flat-square&label=) - Python toolbox for processing and analysing air traffic data from Eurocontrol and OpenSky. `Python` `MIT` `ITS`
+- [Trainline EU Stations](https://github.com/trainline-eu/stations) ![Stars](https://img.shields.io/github/stars/trainline-eu/stations?style=flat-square&label=) - List of European railway stations with associated metadata and identifiers. `Ruby` `ODbL-1.0` `ITS`
+- [transit_model](https://github.com/hove-io/transit_model) ![Stars](https://img.shields.io/github/stars/hove-io/transit_model?style=flat-square&label=) - Rust library for managing transit data with NeTEx and GTFS support. `Rust` `AGPL-3.0` `ITS`
+- [Transitous](https://github.com/public-transport/transitous) ![Stars](https://img.shields.io/github/stars/public-transport/transitous?style=flat-square&label=) - Free and open public transport routing engine for pan-European journey planning. `Lua` `ITS`
+- [transport-apis](https://github.com/public-transport/transport-apis) ![Stars](https://img.shields.io/github/stars/public-transport/transport-apis?style=flat-square&label=) - Machine-readable list of European public transport API endpoints. `Python` `CC0-1.0` `ITS`
+- [UIC Barcode](https://github.com/UnionInternationalCheminsdeFer/UIC-barcode) ![Stars](https://img.shields.io/github/stars/UnionInternationalCheminsdeFer/UIC-barcode?style=flat-square&label=) - Implementation of the FCB barcode standard (IRS 90918-9) for European railway ticketing. `Java` `ITS`
+- [VaN3Twin](https://github.com/DriveX-devs/VaN3Twin) ![Stars](https://img.shields.io/github/stars/DriveX-devs/VaN3Twin?style=flat-square&label=) - Multi-stack ETSI-compliant V2X simulation framework for ns-3. `C++` `GPL-2.0` `ETS` `ETSI` `ITS`
+- [Vanetza](https://github.com/riebl/vanetza) ![Stars](https://img.shields.io/github/stars/riebl/vanetza?style=flat-square&label=) - Open source implementation of the ETSI C-ITS protocol stack for vehicular networking. `C` `ETS` `ETSI` `ITS`
 
 ## Space and Aviation
 
 ESA, Eurocontrol, Galileo, EGNOS, and European space and aviation infrastructure.
 
-- [galmon](https://github.com/berthubert/galmon) - Open source monitoring system for the Galileo satellite navigation constellation.
-- [GNSS-SDR](https://github.com/gnss-sdr/gnss-sdr) - Open source software-defined GNSS receiver with Galileo signal support.
-- [InterUSS DSS](https://github.com/interuss/dss) - Discovery and synchronization service implementing ASTM standards for U-space unmanned traffic management.
-- [NanoSat MO Framework](https://github.com/esa/nanosat-mo-framework) - ESA software framework for small satellites based on CCSDS Mission Operations services.
-- [Orekit](https://github.com/CS-SI/Orekit) - Java library for space dynamics and orbital mechanics developed with ESA support.
-- [PyKEP](https://github.com/esa/pykep) - ESA scientific library providing basic tools for research in interplanetary trajectory design.
+- [galmon](https://github.com/berthubert/galmon) ![Stars](https://img.shields.io/github/stars/berthubert/galmon?style=flat-square&label=) - Open source monitoring system for the Galileo satellite navigation constellation. `C++` `GPL-3.0`
+- [GNSS-SDR](https://github.com/gnss-sdr/gnss-sdr) ![Stars](https://img.shields.io/github/stars/gnss-sdr/gnss-sdr?style=flat-square&label=) - Open source software-defined GNSS receiver with Galileo signal support. ([Demo](https://gnss-sdr.org)) `C++` `GPL-3.0`
+- [InterUSS DSS](https://github.com/interuss/dss) ![Stars](https://img.shields.io/github/stars/interuss/dss?style=flat-square&label=) - Discovery and synchronization service implementing ASTM standards for U-space unmanned traffic management. `Go` `Apache-2.0`
+- [NanoSat MO Framework](https://github.com/esa/nanosat-mo-framework) ![Stars](https://img.shields.io/github/stars/esa/nanosat-mo-framework?style=flat-square&label=) - ESA software framework for small satellites based on CCSDS Mission Operations services. `Java`
+- [Orekit](https://github.com/CS-SI/Orekit) ![Stars](https://img.shields.io/github/stars/CS-SI/Orekit?style=flat-square&label=) - Java library for space dynamics and orbital mechanics developed with ESA support. `Java` `Apache-2.0`
+- [PyKEP](https://github.com/esa/pykep) ![Stars](https://img.shields.io/github/stars/esa/pykep?style=flat-square&label=) - ESA scientific library providing basic tools for research in interplanetary trajectory design. `C++` `GPL-3.0`
 
 ## Geospatial and Earth Observation
 
 INSPIRE directive, Copernicus programme, Sentinel data, and European geospatial infrastructure.
 
-- [52North SOS](https://github.com/52North/sos) - OGC Sensor Observation Service implementation for European environmental monitoring networks.
-- [actinia](https://github.com/mundialis/actinia_core) - Open source REST API for scalable geospatial data processing used in European environmental monitoring.
-- [Anemoi Core](https://github.com/ecmwf/anemoi-core) - Core packages for ECMWF Anemoi machine learning weather forecasting framework.
-- [Anemoi Datasets](https://github.com/ecmwf/anemoi-datasets) - Dataset tools for ECMWF Anemoi machine learning weather forecasting models.
-- [Atlas](https://github.com/ecmwf/atlas) - ECMWF library for numerical weather prediction and climate modelling.
-- [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal) - Geoportal application framework used in European INSPIRE-compliant geospatial portals.
-- [CDS API](https://github.com/ecmwf/cdsapi) - Python API to access the Copernicus Climate Data Store.
-- [CDSETool](https://github.com/CDSETool/CDSETool) - Python tool for downloading data from the Copernicus Data Space Ecosystem.
-- [cfgrib](https://github.com/ecmwf/cfgrib) - Python interface to map GRIB files to NetCDF, widely used with Copernicus weather data.
-- [CliMetLab](https://github.com/ecmwf/climetlab) - Python package for easy access to Copernicus weather and climate data.
-- [Copernicus Marine Toolbox](https://github.com/mercator-ocean/copernicus-marine-toolbox) - Python toolbox for accessing and processing Copernicus Marine Environment Monitoring Service data.
-- [CopernicusMarine](https://github.com/pepijn-devries/CopernicusMarine) - R package to subset and download marine data from the EU Copernicus Marine Service.
-- [creodias-finder](https://github.com/DHI-GRAS/creodias-finder) - Python API for data discovery on the Copernicus Data Space Ecosystem.
-- [deegree](https://github.com/deegree/deegree3) - Java framework for OGC web service implementations used in European geospatial data infrastructure.
-- [earthkit](https://github.com/ecmwf/earthkit) - ECMWF Python tools for working with European weather and climate data.
-- [earthkit-data](https://github.com/ecmwf/earthkit-data) - Format-agnostic Python interface for accessing and processing geospatial data from ECMWF and Copernicus.
-- [eccodes](https://github.com/ecmwf/eccodes) - ECMWF library for GRIB and BUFR decoding and encoding used in European weather and climate services.
-- [eccodes-python](https://github.com/ecmwf/eccodes-python) - Python interface to the ECMWF ecCodes library for GRIB and BUFR data.
-- [ecFlow](https://github.com/ecmwf/ecflow) - ECMWF workflow manager for scheduling and monitoring computational tasks in weather forecasting.
-- [ECMWF Open Data](https://github.com/ecmwf/ecmwf-opendata) - Python package to download ECMWF open weather and climate data.
-- [eo-grow](https://github.com/sentinel-hub/eo-grow) - Earth observation framework for scaled-up processing of Copernicus Sentinel data in Python.
-- [eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning using Copernicus Sentinel data.
-- [eodag](https://github.com/CS-SI/eodag) - Python framework for searching and downloading Earth observation data from Copernicus and other providers.
-- [era5cli](https://github.com/eWaterCycle/era5cli) - Command line interface to download ERA5 data from the Copernicus Climate Data Store.
-- [GeoDCAT-AP](https://github.com/SEMICeu/iso-19139-to-dcat-ap) - Reference XSLT implementation for converting ISO 19139 metadata to GeoDCAT-AP for EU data portals.
-- [GeoHealthCheck](https://github.com/geopython/GeoHealthCheck) - Service status and quality of service checker for OGC web services used in European SDI monitoring.
-- [GeoNetwork](https://github.com/geonetwork/core-geonetwork) - Metadata catalog application for managing spatially referenced resources, widely used in EU INSPIRE nodes.
-- [geometa](https://github.com/eblondel/geometa) - R package for reading, writing and validating ISO 19115 geographic metadata with INSPIRE validation support.
-- [Helgoland](https://github.com/52North/helgoland) - Visual exploration and analysis of sensor web data for European environmental monitoring.
-- [INSPIRE Technical Guidelines](https://github.com/INSPIRE-MIF/technical-guidelines) - Community discussion and change proposals for INSPIRE Technical Guidance documents.
-- [INSPIRE Validator](https://github.com/INSPIRE-MIF/helpdesk-validator) - Community discussion and issue tracker for the INSPIRE data and service validation tools.
-- [JRC NRT](https://github.com/ec-jrc/nrt) - JRC near real-time monitoring of satellite image time-series for European environmental surveillance.
-- [ldproxy](https://github.com/interactive-instruments/ldproxy) - Server for sharing geospatial data via modern OGC API web services, used in INSPIRE infrastructure.
-- [LISFLOOD](https://github.com/ec-jrc/lisflood-code) - JRC spatially distributed water resources model used for European flood forecasting.
-- [LISFLOOD Utilities](https://github.com/ec-jrc/lisflood-utilities) - Utility tools for the JRC LISFLOOD European flood forecasting system.
-- [Magics](https://github.com/ecmwf/magics) - ECMWF meteorological plotting package for visualising data in GRIB, NetCDF, and BUFR formats.
-- [Metview Python](https://github.com/ecmwf/metview-python) - Python interface to the ECMWF Metview meteorological workstation and batch system.
-- [NoiseModelling](https://github.com/Universite-Gustave-Eiffel/NoiseModelling) - Open source model for computing noise maps implementing EU Environmental Noise Directive methods.
-- [openEO API](https://github.com/Open-EO/openeo-api) - Specification for the openEO API providing standardised access to European Earth observation cloud processing.
-- [openEO Processes](https://github.com/Open-EO/openeo-processes) - Interoperable process definitions for openEO big Earth observation cloud processing.
-- [openEO Python Client](https://github.com/Open-EO/openeo-python-client) - Python client for the openEO API, providing access to Copernicus and other European Earth observation data.
-- [openEO R Client](https://github.com/Open-EO/openeo-r-client) - R client for working with openEO backends to access Copernicus and other European EO data.
-- [openEO Web Editor](https://github.com/Open-EO/openeo-web-editor) - Interactive web-based editor for building and executing openEO processing workflows.
-- [OpenSarToolkit](https://github.com/ESA-PhiLab/OpenSarToolkit) - ESA toolkit for inventory, download and pre-processing of Sentinel-1 SAR data.
-- [OWSLib](https://github.com/geopython/OWSLib) - Python package for client programming with OGC web services used in European geospatial infrastructure.
-- [pdbufr](https://github.com/ecmwf/pdbufr) - High-level BUFR interface for the ECMWF ecCodes library with Pandas DataFrame support.
-- [Polytope](https://github.com/ecmwf/polytope) - ECMWF library for extracting polytope features from meteorological datacubes.
-- [pycsw](https://github.com/geopython/pycsw) - OGC CSW server implementation widely used as a catalogue component of European spatial data infrastructures.
-- [pygeoapi](https://github.com/geopython/pygeoapi) - Python server implementation of the OGC API suite of standards used in INSPIRE infrastructure.
-- [pygeometa](https://github.com/geopython/pygeometa) - Python package for generating geospatial metadata in ISO 19115 and other standards used in INSPIRE infrastructure.
-- [Pyorbital](https://github.com/pytroll/pyorbital) - Orbital and astronomy computation library from the European PyTroll meteorological community.
-- [pyPoseidon](https://github.com/ec-jrc/pyPoseidon) - JRC Python framework for hydrodynamic simulations in European coastal and marine environments.
-- [Pyresample](https://github.com/pytroll/pyresample) - Geospatial image resampling library developed by the European PyTroll meteorological community.
-- [PyWPS](https://github.com/geopython/pywps) - Python implementation of the OGC Web Processing Service standard used in European spatial data infrastructures.
-- [sarsen](https://github.com/bopen/sarsen) - Algorithms and utilities for Synthetic Aperture Radar sensors processing Copernicus Sentinel-1 data.
-- [Satpy](https://github.com/pytroll/satpy) - Python package for processing earth-observing satellite data including Copernicus Sentinel imagery.
-- [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Cloud detector for Copernicus Sentinel-2 satellite images in Python.
-- [sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) - Python library to download and process satellite imagery using Sentinel Hub services.
-- [skinnywms](https://github.com/ecmwf/skinnywms) - Lightweight WMS server for serving maps of NetCDF and GRIB data from ECMWF and Copernicus.
-- [SNAP Engine](https://github.com/senbox-org/snap-engine) - ESA Sentinel Application Platform engine for processing Earth observation data.
-- [Thermofeel](https://github.com/ecmwf/thermofeel) - ECMWF library for calculating human thermal comfort indexes from climate data.
-- [xarray-sentinel](https://github.com/bopen/xarray-sentinel) - Xarray backend for accessing Copernicus Sentinel-1 satellite data products.
+- [52North SOS](https://github.com/52North/sos) ![Stars](https://img.shields.io/github/stars/52North/sos?style=flat-square&label=) - OGC Sensor Observation Service implementation for European environmental monitoring networks. `Java` `GPL-2.0` `OGC`
+- [actinia](https://github.com/mundialis/actinia_core) ![Stars](https://img.shields.io/github/stars/mundialis/actinia_core?style=flat-square&label=) - Open source REST API for scalable geospatial data processing used in European environmental monitoring. `Python` `GPL-3.0`
+- [Anemoi Core](https://github.com/ecmwf/anemoi-core) ![Stars](https://img.shields.io/github/stars/ecmwf/anemoi-core?style=flat-square&label=) - Core packages for ECMWF Anemoi machine learning weather forecasting framework. `Python` `Apache-2.0` `ECMWF`
+- [Anemoi Datasets](https://github.com/ecmwf/anemoi-datasets) ![Stars](https://img.shields.io/github/stars/ecmwf/anemoi-datasets?style=flat-square&label=) - Dataset tools for ECMWF Anemoi machine learning weather forecasting models. `Python` `Apache-2.0` `ECMWF`
+- [Atlas](https://github.com/ecmwf/atlas) ![Stars](https://img.shields.io/github/stars/ecmwf/atlas?style=flat-square&label=) - ECMWF library for numerical weather prediction and climate modelling. `C++` `Apache-2.0` `ECMWF`
+- [c2cgeoportal](https://github.com/camptocamp/c2cgeoportal) ![Stars](https://img.shields.io/github/stars/camptocamp/c2cgeoportal?style=flat-square&label=) - Geoportal application framework used in European INSPIRE-compliant geospatial portals. `Python` `INSPIRE`
+- [CDS API](https://github.com/ecmwf/cdsapi) ![Stars](https://img.shields.io/github/stars/ecmwf/cdsapi?style=flat-square&label=) - Python API to access the Copernicus Climate Data Store. `Python` `Apache-2.0` `Copernicus`
+- [CDSETool](https://github.com/CDSETool/CDSETool) ![Stars](https://img.shields.io/github/stars/CDSETool/CDSETool?style=flat-square&label=) - Python tool for downloading data from the Copernicus Data Space Ecosystem. `Python` `MIT` `Copernicus` `Data Spaces`
+- [cfgrib](https://github.com/ecmwf/cfgrib) ![Stars](https://img.shields.io/github/stars/ecmwf/cfgrib?style=flat-square&label=) - Python interface to map GRIB files to NetCDF, widely used with Copernicus weather data. `Python` `Apache-2.0` `Copernicus`
+- [CliMetLab](https://github.com/ecmwf/climetlab) ![Stars](https://img.shields.io/github/stars/ecmwf/climetlab?style=flat-square&label=) - Python package for easy access to Copernicus weather and climate data. `Python` `Apache-2.0` `Copernicus`
+- [Copernicus Marine Toolbox](https://github.com/mercator-ocean/copernicus-marine-toolbox) ![Stars](https://img.shields.io/github/stars/mercator-ocean/copernicus-marine-toolbox?style=flat-square&label=) - Python toolbox for accessing and processing Copernicus Marine Environment Monitoring Service data. `Python` `EUPL-1.2` `Copernicus`
+- [CopernicusMarine](https://github.com/pepijn-devries/CopernicusMarine) ![Stars](https://img.shields.io/github/stars/pepijn-devries/CopernicusMarine?style=flat-square&label=) - R package to subset and download marine data from the EU Copernicus Marine Service. `R` `GPL-3.0` `Copernicus`
+- [creodias-finder](https://github.com/DHI-GRAS/creodias-finder) ![Stars](https://img.shields.io/github/stars/DHI-GRAS/creodias-finder?style=flat-square&label=) - Python API for data discovery on the Copernicus Data Space Ecosystem. `Python` `MIT` `Copernicus` `Data Spaces`
+- [deegree](https://github.com/deegree/deegree3) ![Stars](https://img.shields.io/github/stars/deegree/deegree3?style=flat-square&label=) - Java framework for OGC web service implementations used in European geospatial data infrastructure. ([Demo](https://demo.deegree.org)) `Java` `LGPL-2.1` `OGC`
+- [earthkit](https://github.com/ecmwf/earthkit) ![Stars](https://img.shields.io/github/stars/ecmwf/earthkit?style=flat-square&label=) - ECMWF Python tools for working with European weather and climate data. `Python` `Apache-2.0` `ECMWF`
+- [earthkit-data](https://github.com/ecmwf/earthkit-data) ![Stars](https://img.shields.io/github/stars/ecmwf/earthkit-data?style=flat-square&label=) - Format-agnostic Python interface for accessing and processing geospatial data from ECMWF and Copernicus. `Python` `Apache-2.0` `Copernicus` `ECMWF`
+- [eccodes](https://github.com/ecmwf/eccodes) ![Stars](https://img.shields.io/github/stars/ecmwf/eccodes?style=flat-square&label=) - ECMWF library for GRIB and BUFR decoding and encoding used in European weather and climate services. `C++` `Apache-2.0` `ECMWF`
+- [eccodes-python](https://github.com/ecmwf/eccodes-python) ![Stars](https://img.shields.io/github/stars/ecmwf/eccodes-python?style=flat-square&label=) - Python interface to the ECMWF ecCodes library for GRIB and BUFR data. `Python` `Apache-2.0` `ECMWF`
+- [ecFlow](https://github.com/ecmwf/ecflow) ![Stars](https://img.shields.io/github/stars/ecmwf/ecflow?style=flat-square&label=) - ECMWF workflow manager for scheduling and monitoring computational tasks in weather forecasting. `C++` `Apache-2.0` `ECMWF`
+- [ECMWF Open Data](https://github.com/ecmwf/ecmwf-opendata) ![Stars](https://img.shields.io/github/stars/ecmwf/ecmwf-opendata?style=flat-square&label=) - Python package to download ECMWF open weather and climate data. `Python` `Apache-2.0` `ECMWF`
+- [eo-grow](https://github.com/sentinel-hub/eo-grow) ![Stars](https://img.shields.io/github/stars/sentinel-hub/eo-grow?style=flat-square&label=) - Earth observation framework for scaled-up processing of Copernicus Sentinel data in Python. `Python` `MIT` `Copernicus`
+- [eo-learn](https://github.com/sentinel-hub/eo-learn) ![Stars](https://img.shields.io/github/stars/sentinel-hub/eo-learn?style=flat-square&label=) - Earth observation processing framework for machine learning using Copernicus Sentinel data. `Python` `MIT` `Copernicus`
+- [eodag](https://github.com/CS-SI/eodag) ![Stars](https://img.shields.io/github/stars/CS-SI/eodag?style=flat-square&label=) - Python framework for searching and downloading Earth observation data from Copernicus and other providers. `Python` `Apache-2.0` `Copernicus`
+- [era5cli](https://github.com/eWaterCycle/era5cli) ![Stars](https://img.shields.io/github/stars/eWaterCycle/era5cli?style=flat-square&label=) - Command line interface to download ERA5 data from the Copernicus Climate Data Store. `Python` `Apache-2.0` `Copernicus`
+- [GeoDCAT-AP](https://github.com/SEMICeu/iso-19139-to-dcat-ap) ![Stars](https://img.shields.io/github/stars/SEMICeu/iso-19139-to-dcat-ap?style=flat-square&label=) - Reference XSLT implementation for converting ISO 19139 metadata to GeoDCAT-AP for EU data portals. `XSLT` `EUPL-1.2` `DCAT-AP`
+- [GeoHealthCheck](https://github.com/geopython/GeoHealthCheck) ![Stars](https://img.shields.io/github/stars/geopython/GeoHealthCheck?style=flat-square&label=) - Service status and quality of service checker for OGC web services used in European SDI monitoring. ([Demo](https://demo.geohealthcheck.org)) `Python` `MIT` `OGC`
+- [GeoNetwork](https://github.com/geonetwork/core-geonetwork) ![Stars](https://img.shields.io/github/stars/geonetwork/core-geonetwork?style=flat-square&label=) - Metadata catalog application for managing spatially referenced resources, widely used in EU INSPIRE nodes. ([Demo](https://demo.geonetwork-opensource.org)) `Java` `GPL-2.0` `INSPIRE`
+- [geometa](https://github.com/eblondel/geometa) ![Stars](https://img.shields.io/github/stars/eblondel/geometa?style=flat-square&label=) - R package for reading, writing and validating ISO 19115 geographic metadata with INSPIRE validation support. `R` `INSPIRE`
+- [Helgoland](https://github.com/52North/helgoland) ![Stars](https://img.shields.io/github/stars/52North/helgoland?style=flat-square&label=) - Visual exploration and analysis of sensor web data for European environmental monitoring. `TypeScript` `Apache-2.0`
+- [INSPIRE Technical Guidelines](https://github.com/INSPIRE-MIF/technical-guidelines) ![Stars](https://img.shields.io/github/stars/INSPIRE-MIF/technical-guidelines?style=flat-square&label=) - Community discussion and change proposals for INSPIRE Technical Guidance documents. `HTML` `INSPIRE`
+- [INSPIRE Validator](https://github.com/INSPIRE-MIF/helpdesk-validator) ![Stars](https://img.shields.io/github/stars/INSPIRE-MIF/helpdesk-validator?style=flat-square&label=) - Community discussion and issue tracker for the INSPIRE data and service validation tools. `INSPIRE`
+- [JRC NRT](https://github.com/ec-jrc/nrt) ![Stars](https://img.shields.io/github/stars/ec-jrc/nrt?style=flat-square&label=) - JRC near real-time monitoring of satellite image time-series for European environmental surveillance. `Python` `EUPL-1.2`
+- [ldproxy](https://github.com/interactive-instruments/ldproxy) ![Stars](https://img.shields.io/github/stars/interactive-instruments/ldproxy?style=flat-square&label=) - Server for sharing geospatial data via modern OGC API web services, used in INSPIRE infrastructure. `Java` `MPL-2.0` `INSPIRE` `OGC`
+- [LISFLOOD](https://github.com/ec-jrc/lisflood-code) ![Stars](https://img.shields.io/github/stars/ec-jrc/lisflood-code?style=flat-square&label=) - JRC spatially distributed water resources model used for European flood forecasting. `Python` `EUPL-1.2` `Floods Directive`
+- [LISFLOOD Utilities](https://github.com/ec-jrc/lisflood-utilities) ![Stars](https://img.shields.io/github/stars/ec-jrc/lisflood-utilities?style=flat-square&label=) - Utility tools for the JRC LISFLOOD European flood forecasting system. `Python` `EUPL-1.2` `Floods Directive`
+- [Magics](https://github.com/ecmwf/magics) ![Stars](https://img.shields.io/github/stars/ecmwf/magics?style=flat-square&label=) - ECMWF meteorological plotting package for visualising data in GRIB, NetCDF, and BUFR formats. `Python` `Apache-2.0` `ECMWF`
+- [Metview Python](https://github.com/ecmwf/metview-python) ![Stars](https://img.shields.io/github/stars/ecmwf/metview-python?style=flat-square&label=) - Python interface to the ECMWF Metview meteorological workstation and batch system. `Python` `Apache-2.0` `ECMWF`
+- [NoiseModelling](https://github.com/Universite-Gustave-Eiffel/NoiseModelling) ![Stars](https://img.shields.io/github/stars/Universite-Gustave-Eiffel/NoiseModelling?style=flat-square&label=) - Open source model for computing noise maps implementing EU Environmental Noise Directive methods. `Java` `GPL-3.0` `END`
+- [openEO API](https://github.com/Open-EO/openeo-api) ![Stars](https://img.shields.io/github/stars/Open-EO/openeo-api?style=flat-square&label=) - Specification for the openEO API providing standardised access to European Earth observation cloud processing. `Apache-2.0`
+- [openEO Processes](https://github.com/Open-EO/openeo-processes) ![Stars](https://img.shields.io/github/stars/Open-EO/openeo-processes?style=flat-square&label=) - Interoperable process definitions for openEO big Earth observation cloud processing. `JavaScript` `Apache-2.0`
+- [openEO Python Client](https://github.com/Open-EO/openeo-python-client) ![Stars](https://img.shields.io/github/stars/Open-EO/openeo-python-client?style=flat-square&label=) - Python client for the openEO API, providing access to Copernicus and other European Earth observation data. `Python` `Apache-2.0` `Copernicus`
+- [openEO R Client](https://github.com/Open-EO/openeo-r-client) ![Stars](https://img.shields.io/github/stars/Open-EO/openeo-r-client?style=flat-square&label=) - R client for working with openEO backends to access Copernicus and other European EO data. `R` `Apache-2.0` `Copernicus`
+- [openEO Web Editor](https://github.com/Open-EO/openeo-web-editor) ![Stars](https://img.shields.io/github/stars/Open-EO/openeo-web-editor?style=flat-square&label=) - Interactive web-based editor for building and executing openEO processing workflows. ([Demo](https://editor.openeo.org)) `JavaScript` `Apache-2.0`
+- [OpenSarToolkit](https://github.com/ESA-PhiLab/OpenSarToolkit) ![Stars](https://img.shields.io/github/stars/ESA-PhiLab/OpenSarToolkit?style=flat-square&label=) - ESA toolkit for inventory, download and pre-processing of Sentinel-1 SAR data. `Python` `MIT` `Copernicus`
+- [OWSLib](https://github.com/geopython/OWSLib) ![Stars](https://img.shields.io/github/stars/geopython/OWSLib?style=flat-square&label=) - Python package for client programming with OGC web services used in European geospatial infrastructure. `Python` `BSD-3-Clause` `OGC`
+- [pdbufr](https://github.com/ecmwf/pdbufr) ![Stars](https://img.shields.io/github/stars/ecmwf/pdbufr?style=flat-square&label=) - High-level BUFR interface for the ECMWF ecCodes library with Pandas DataFrame support. `Python` `Apache-2.0` `ECMWF`
+- [Polytope](https://github.com/ecmwf/polytope) ![Stars](https://img.shields.io/github/stars/ecmwf/polytope?style=flat-square&label=) - ECMWF library for extracting polytope features from meteorological datacubes. `Python` `Apache-2.0` `ECMWF`
+- [pycsw](https://github.com/geopython/pycsw) ![Stars](https://img.shields.io/github/stars/geopython/pycsw?style=flat-square&label=) - OGC CSW server implementation widely used as a catalogue component of European spatial data infrastructures. `Python` `MIT` `OGC`
+- [pygeoapi](https://github.com/geopython/pygeoapi) ![Stars](https://img.shields.io/github/stars/geopython/pygeoapi?style=flat-square&label=) - Python server implementation of the OGC API suite of standards used in INSPIRE infrastructure. ([Demo](https://demo.pygeoapi.io)) `Python` `MIT` `INSPIRE` `OGC`
+- [pygeometa](https://github.com/geopython/pygeometa) ![Stars](https://img.shields.io/github/stars/geopython/pygeometa?style=flat-square&label=) - Python package for generating geospatial metadata in ISO 19115 and other standards used in INSPIRE infrastructure. `Python` `INSPIRE`
+- [Pyorbital](https://github.com/pytroll/pyorbital) ![Stars](https://img.shields.io/github/stars/pytroll/pyorbital?style=flat-square&label=) - Orbital and astronomy computation library from the European PyTroll meteorological community. `Python` `Apache-2.0`
+- [pyPoseidon](https://github.com/ec-jrc/pyPoseidon) ![Stars](https://img.shields.io/github/stars/ec-jrc/pyPoseidon?style=flat-square&label=) - JRC Python framework for hydrodynamic simulations in European coastal and marine environments. `Python` `EUPL-1.2`
+- [Pyresample](https://github.com/pytroll/pyresample) ![Stars](https://img.shields.io/github/stars/pytroll/pyresample?style=flat-square&label=) - Geospatial image resampling library developed by the European PyTroll meteorological community. `Python` `LGPL-3.0`
+- [PyWPS](https://github.com/geopython/pywps) ![Stars](https://img.shields.io/github/stars/geopython/pywps?style=flat-square&label=) - Python implementation of the OGC Web Processing Service standard used in European spatial data infrastructures. `Python` `MIT` `OGC`
+- [sarsen](https://github.com/bopen/sarsen) ![Stars](https://img.shields.io/github/stars/bopen/sarsen?style=flat-square&label=) - Algorithms and utilities for Synthetic Aperture Radar sensors processing Copernicus Sentinel-1 data. `Python` `Apache-2.0` `Copernicus`
+- [Satpy](https://github.com/pytroll/satpy) ![Stars](https://img.shields.io/github/stars/pytroll/satpy?style=flat-square&label=) - Python package for processing earth-observing satellite data including Copernicus Sentinel imagery. `Python` `GPL-3.0` `Copernicus`
+- [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) ![Stars](https://img.shields.io/github/stars/sentinel-hub/sentinel2-cloud-detector?style=flat-square&label=) - Cloud detector for Copernicus Sentinel-2 satellite images in Python. `Python` `CC-BY-SA-4.0` `Copernicus`
+- [sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) ![Stars](https://img.shields.io/github/stars/sentinel-hub/sentinelhub-py?style=flat-square&label=) - Python library to download and process satellite imagery using Sentinel Hub services. `Python` `MIT` `Copernicus`
+- [skinnywms](https://github.com/ecmwf/skinnywms) ![Stars](https://img.shields.io/github/stars/ecmwf/skinnywms?style=flat-square&label=) - Lightweight WMS server for serving maps of NetCDF and GRIB data from ECMWF and Copernicus. `Python` `Apache-2.0` `Copernicus` `ECMWF` `OGC`
+- [SNAP Engine](https://github.com/senbox-org/snap-engine) ![Stars](https://img.shields.io/github/stars/senbox-org/snap-engine?style=flat-square&label=) - ESA Sentinel Application Platform engine for processing Earth observation data. `Java` `GPL-3.0` `Copernicus`
+- [Thermofeel](https://github.com/ecmwf/thermofeel) ![Stars](https://img.shields.io/github/stars/ecmwf/thermofeel?style=flat-square&label=) - ECMWF library for calculating human thermal comfort indexes from climate data. `Python` `Apache-2.0` `ECMWF`
+- [xarray-sentinel](https://github.com/bopen/xarray-sentinel) ![Stars](https://img.shields.io/github/stars/bopen/xarray-sentinel?style=flat-square&label=) - Xarray backend for accessing Copernicus Sentinel-1 satellite data products. `Python` `Apache-2.0` `Copernicus`
 
 ## Health and Pharmaceuticals
 
 European Health Data Space (EHDS), EMA, EudraVigilance, EHIC, EU MDR/IVDR, and cross-border healthcare.
 
-- [BBMRI-ERIC Negotiator](https://github.com/BBMRI-ERIC/negotiator) - Open source access negotiation system for European biobank research infrastructures.
-- [Blaze](https://github.com/samply/blaze) - FHIR server with built-in CQL evaluation engine used in European health data spaces.
-- [DGC Gateway](https://github.com/eu-digital-green-certificates/dgc-gateway) - Backend gateway service for the EU Digital COVID Certificate system.
-- [DGC Overview](https://github.com/eu-digital-green-certificates/dgc-overview) - Overview and specifications of the EU Digital COVID Certificate infrastructure.
-- [DGC Verifier Android](https://github.com/eu-digital-green-certificates/dgca-verifier-app-android) - Android application for verifying EU Digital COVID Certificates.
-- [EGA Download Client](https://github.com/EGA-archive/ega-download-client) - Python client for the European Genome-phenome Archive.
-- [EHDS Explorer](https://github.com/stefanbuttigieg/ehdsexplorer) - Digital platform for navigating and searching the European Health Data Space Regulation.
-- [EUDAMED API](https://github.com/openregulatory/eudamed-api) - Unofficial API reference for EUDAMED, the EU medical device database under MDR/IVDR.
-- [FHIR IPS](https://github.com/HL7/fhir-ips) - HL7 FHIR International Patient Summary standard for cross-border healthcare data exchange.
-- [HL7 EU Base](https://github.com/hl7-eu/base) - Base profiles and common artefacts for HL7 FHIR in Europe.
-- [HL7 EU Imaging](https://github.com/hl7-eu/imaging) - HL7 Europe FHIR Implementation Guide for imaging study reports.
-- [HL7 EU Laboratory](https://github.com/hl7-eu/laboratory) - HL7 Europe Laboratory Report FHIR Implementation Guide.
-- [HL7 EU Patient Summary](https://github.com/hl7-eu/eps) - HL7 Europe Patient Summary FHIR Implementation Guide for cross-border health data exchange.
-- [HL7 Gravitate Health](https://github.com/hl7-eu/gravitate-health) - EU-funded FHIR Implementation Guide for patient-centric health information.
-- [openEHR Archie](https://github.com/openEHR/archie) - Java library implementing openEHR specifications used across European eHealth systems.
-- [OpenRegulatory Templates](https://github.com/openregulatory/templates) - Templates for ISO 13485, IEC 62304, ISO 14971 and IEC 62366 compliance with EU medical device regulations.
-- [Samply Bridgehead](https://github.com/samply/bridgehead) - Turnkey solution for joining federated European biobank and health data research networks.
-- [UNICOM IDMP Implementation Guide](https://github.com/hl7-eu/unicom-ig) - FHIR Implementation Guide for the UNICOM project implementing ISO IDMP standards for EU medicinal product identification.
+- [BBMRI-ERIC Negotiator](https://github.com/BBMRI-ERIC/negotiator) ![Stars](https://img.shields.io/github/stars/BBMRI-ERIC/negotiator?style=flat-square&label=) - Open source access negotiation system for European biobank research infrastructures. `Java` `AGPL-3.0`
+- [Blaze](https://github.com/samply/blaze) ![Stars](https://img.shields.io/github/stars/samply/blaze?style=flat-square&label=) - FHIR server with built-in CQL evaluation engine used in European health data spaces. `Clojure` `Apache-2.0` `Data Spaces` `EHDS`
+- [DGC Gateway](https://github.com/eu-digital-green-certificates/dgc-gateway) ![Stars](https://img.shields.io/github/stars/eu-digital-green-certificates/dgc-gateway?style=flat-square&label=) - Backend gateway service for the EU Digital COVID Certificate system. `Java` `Apache-2.0`
+- [DGC Overview](https://github.com/eu-digital-green-certificates/dgc-overview) ![Stars](https://img.shields.io/github/stars/eu-digital-green-certificates/dgc-overview?style=flat-square&label=) - Overview and specifications of the EU Digital COVID Certificate infrastructure. `Python` `Apache-2.0`
+- [DGC Verifier Android](https://github.com/eu-digital-green-certificates/dgca-verifier-app-android) ![Stars](https://img.shields.io/github/stars/eu-digital-green-certificates/dgca-verifier-app-android?style=flat-square&label=) - Android application for verifying EU Digital COVID Certificates. `Kotlin` `Apache-2.0`
+- [EGA Download Client](https://github.com/EGA-archive/ega-download-client) ![Stars](https://img.shields.io/github/stars/EGA-archive/ega-download-client?style=flat-square&label=) - Python client for the European Genome-phenome Archive. `Python` `Apache-2.0`
+- [EHDS Explorer](https://github.com/stefanbuttigieg/ehdsexplorer) ![Stars](https://img.shields.io/github/stars/stefanbuttigieg/ehdsexplorer?style=flat-square&label=) - Digital platform for navigating and searching the European Health Data Space Regulation. `TypeScript` `Data Spaces` `EHDS`
+- [EUDAMED API](https://github.com/openregulatory/eudamed-api) ![Stars](https://img.shields.io/github/stars/openregulatory/eudamed-api?style=flat-square&label=) - Unofficial API reference for EUDAMED, the EU medical device database under MDR/IVDR.
+- [FHIR IPS](https://github.com/HL7/fhir-ips) ![Stars](https://img.shields.io/github/stars/HL7/fhir-ips?style=flat-square&label=) - HL7 FHIR International Patient Summary standard for cross-border healthcare data exchange. `EHDS`
+- [HL7 EU Base](https://github.com/hl7-eu/base) ![Stars](https://img.shields.io/github/stars/hl7-eu/base?style=flat-square&label=) - Base profiles and common artefacts for HL7 FHIR in Europe. `EHDS`
+- [HL7 EU Imaging](https://github.com/hl7-eu/imaging) ![Stars](https://img.shields.io/github/stars/hl7-eu/imaging?style=flat-square&label=) - HL7 Europe FHIR Implementation Guide for imaging study reports. `CC0-1.0` `EHDS`
+- [HL7 EU Laboratory](https://github.com/hl7-eu/laboratory) ![Stars](https://img.shields.io/github/stars/hl7-eu/laboratory?style=flat-square&label=) - HL7 Europe Laboratory Report FHIR Implementation Guide. `CC0-1.0` `EHDS`
+- [HL7 EU Patient Summary](https://github.com/hl7-eu/eps) ![Stars](https://img.shields.io/github/stars/hl7-eu/eps?style=flat-square&label=) - HL7 Europe Patient Summary FHIR Implementation Guide for cross-border health data exchange. `CC0-1.0` `EHDS`
+- [HL7 Gravitate Health](https://github.com/hl7-eu/gravitate-health) ![Stars](https://img.shields.io/github/stars/hl7-eu/gravitate-health?style=flat-square&label=) - EU-funded FHIR Implementation Guide for patient-centric health information. `EHDS`
+- [openEHR Archie](https://github.com/openEHR/archie) ![Stars](https://img.shields.io/github/stars/openEHR/archie?style=flat-square&label=) - Java library implementing openEHR specifications used across European eHealth systems. `Java` `Apache-2.0`
+- [OpenRegulatory Templates](https://github.com/openregulatory/templates) ![Stars](https://img.shields.io/github/stars/openregulatory/templates?style=flat-square&label=) - Templates for ISO 13485, IEC 62304, ISO 14971 and IEC 62366 compliance with EU medical device regulations.
+- [Samply Bridgehead](https://github.com/samply/bridgehead) ![Stars](https://img.shields.io/github/stars/samply/bridgehead?style=flat-square&label=) - Turnkey solution for joining federated European biobank and health data research networks. `Apache-2.0`
+- [UNICOM IDMP Implementation Guide](https://github.com/hl7-eu/unicom-ig) ![Stars](https://img.shields.io/github/stars/hl7-eu/unicom-ig?style=flat-square&label=) - FHIR Implementation Guide for the UNICOM project implementing ISO IDMP standards for EU medicinal product identification. `CC0-1.0` `EHDS` `EMA`
 
 ## Cybersecurity
 
 NIS2 directive, ENISA, EU Cybersecurity Act, Cyber Resilience Act, and European cyber frameworks.
 
-- [AIL Framework](https://github.com/ail-project/ail-framework) - Analysis of Information Leaks framework developed by CIRCL Luxembourg for threat intelligence.
-- [AIL Typo-Squatting](https://github.com/ail-project/ail-typo-squatting) - Domain name permutation engine for detecting typo-squatting, developed by CIRCL Luxembourg.
-- [ALTCHA](https://github.com/altcha-org/altcha) - GDPR and EAA compliant, self-hosted CAPTCHA alternative with proof-of-work mechanism.
-- [Artemis](https://github.com/CERT-Polska/Artemis) - Modular vulnerability scanner with automatic report generation developed by CERT Polska.
-- [Awesome NIS2 Directive](https://github.com/CyberAlbSecOP/Awesome_NIS2_Directive) - Curated resources, information, and tools for the EU NIS2 Directive on network and information security.
-- [BGP Ranking](https://github.com/CIRCL/bgp-ranking) - Security ranking tool for Internet Service Providers developed by CIRCL Luxembourg.
-- [Cortex](https://github.com/TheHive-Project/Cortex) - Observable analysis and active response engine used by European CERTs for automated threat analysis.
-- [Cortex Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers) - Repository of analyzers and responders for the Cortex observable analysis engine used by European CERTs.
-- [CSAF Distribution](https://github.com/csaf-poc/csaf_distribution) - Tools for downloading and providing Common Security Advisory Framework documents.
-- [Cyberismo EU CRA](https://github.com/CyberismoCom/module-eu-cra) - Content module helping product manufacturers comply with the EU Cyber Resilience Act.
-- [DRAKVUF Sandbox](https://github.com/CERT-Polska/drakvuf-sandbox) - Automated hypervisor-level malware analysis system developed by CERT Polska.
-- [GCVE](https://github.com/gcve-eu/gcve) - Python client for the Global CVE allocation system, a decentralized vulnerability numbering alternative developed by CIRCL Luxembourg.
-- [GCVE.eu](https://github.com/gcve-eu/gcve.eu) - Standards and website for the Global CVE allocation system, a European-led decentralized vulnerability identification framework.
-- [Hfinger](https://github.com/CERT-Polska/hfinger) - HTTP request fingerprinting tool developed by CERT Polska for malware traffic analysis.
-- [IntelMQ](https://github.com/certtools/intelmq) - Security feed processing framework for CERTs, developed by Austrian CERT for European cybersecurity operations.
-- [IntelMQ Manager](https://github.com/certtools/intelmq-manager) - Web interface for managing IntelMQ security feed processing configurations.
-- [Karton](https://github.com/CERT-Polska/karton) - Distributed malware processing framework developed by CERT Polska.
-- [Lacus](https://github.com/ail-project/lacus) - Web capture service using Playwright, developed by CIRCL Luxembourg for threat intelligence.
-- [Lookyloo](https://github.com/Lookyloo/lookyloo) - Web interface for capturing and analysing website page request trees, developed by CIRCL.
-- [Malduck](https://github.com/CERT-Polska/malduck) - Malware analysis companion library developed by CERT Polska.
-- [MISP](https://github.com/MISP/MISP) - Open source threat intelligence and sharing platform used by EU-CERTs and endorsed by ENISA.
-- [MISP Galaxy](https://github.com/MISP/misp-galaxy) - Galaxy clusters of threat actors, tools and campaigns for the MISP threat intelligence ecosystem.
-- [MISP Modules](https://github.com/MISP/misp-modules) - Expansion, enrichment, import and export modules for the MISP threat intelligence platform.
-- [MISP Objects](https://github.com/MISP/misp-objects) - Object templates for structured threat intelligence in the MISP platform.
-- [MISP Taxonomies](https://github.com/MISP/misp-taxonomies) - Machine-readable taxonomies for classifying threat intelligence in MISP.
-- [MISP Warninglists](https://github.com/MISP/misp-warninglists) - Warning lists for false-positive prevention in MISP threat intelligence sharing.
-- [MISP-STIX](https://github.com/MISP/misp-stix) - Python library for converting between MISP and STIX threat intelligence formats.
-- [MWDB Core](https://github.com/CERT-Polska/mwdb-core) - Malware repository component for samples and static configuration developed by CERT Polska.
-- [n6](https://github.com/CERT-Polska/n6) - Automated handling of data feeds for security teams, developed by CERT Polska.
-- [OpenCTI](https://github.com/OpenCTI-Platform/opencti) - Open cyber threat intelligence platform used by European CERTs and security agencies.
-- [OpenCTI Connectors](https://github.com/OpenCTI-Platform/connectors) - Data connectors for ingesting and enriching threat intelligence in the OpenCTI platform.
-- [Pandora](https://github.com/pandora-analysis/pandora) - File analysis framework for discovering suspicious content, developed by CIRCL Luxembourg.
-- [PyMISP](https://github.com/MISP/PyMISP) - Python library for the MISP threat intelligence platform REST API.
-- [TARA Tool](https://github.com/SCHUNK-SE-Co-KG/TARATool) - Browser-based threat analysis and risk assessment tool for EU Cyber Resilience Act compliance.
-- [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup) - Vulnerability correlation and CVD management platform developed by CIRCL Luxembourg.
+- [AIL Framework](https://github.com/ail-project/ail-framework) ![Stars](https://img.shields.io/github/stars/ail-project/ail-framework?style=flat-square&label=) - Analysis of Information Leaks framework developed by CIRCL Luxembourg for threat intelligence. `Python` `AGPL-3.0`
+- [AIL Typo-Squatting](https://github.com/ail-project/ail-typo-squatting) ![Stars](https://img.shields.io/github/stars/ail-project/ail-typo-squatting?style=flat-square&label=) - Domain name permutation engine for detecting typo-squatting, developed by CIRCL Luxembourg. `Python` `BSD-2-Clause`
+- [ALTCHA](https://github.com/altcha-org/altcha) ![Stars](https://img.shields.io/github/stars/altcha-org/altcha?style=flat-square&label=) - GDPR and EAA compliant, self-hosted CAPTCHA alternative with proof-of-work mechanism. ([Demo](https://altcha.org/demo)) `JavaScript` `MIT` `EAA` `GDPR`
+- [Artemis](https://github.com/CERT-Polska/Artemis) ![Stars](https://img.shields.io/github/stars/CERT-Polska/Artemis?style=flat-square&label=) - Modular vulnerability scanner with automatic report generation developed by CERT Polska. `Python` `BSD-3-Clause` `CSIRT`
+- [Awesome NIS2 Directive](https://github.com/CyberAlbSecOP/Awesome_NIS2_Directive) ![Stars](https://img.shields.io/github/stars/CyberAlbSecOP/Awesome_NIS2_Directive?style=flat-square&label=) - Curated resources, information, and tools for the EU NIS2 Directive on network and information security. `NIS2`
+- [BGP Ranking](https://github.com/CIRCL/bgp-ranking) ![Stars](https://img.shields.io/github/stars/CIRCL/bgp-ranking?style=flat-square&label=) - Security ranking tool for Internet Service Providers developed by CIRCL Luxembourg. ([Demo](https://bgpranking.circl.lu)) `Python`
+- [Cortex](https://github.com/TheHive-Project/Cortex) ![Stars](https://img.shields.io/github/stars/TheHive-Project/Cortex?style=flat-square&label=) - Observable analysis and active response engine used by European CERTs for automated threat analysis. `Scala` `AGPL-3.0` `CSIRT`
+- [Cortex Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers) ![Stars](https://img.shields.io/github/stars/TheHive-Project/Cortex-Analyzers?style=flat-square&label=) - Repository of analyzers and responders for the Cortex observable analysis engine used by European CERTs. `Python` `AGPL-3.0` `CSIRT`
+- [CSAF Distribution](https://github.com/csaf-poc/csaf_distribution) ![Stars](https://img.shields.io/github/stars/csaf-poc/csaf_distribution?style=flat-square&label=) - Tools for downloading and providing Common Security Advisory Framework documents. `Go`
+- [Cyberismo EU CRA](https://github.com/CyberismoCom/module-eu-cra) ![Stars](https://img.shields.io/github/stars/CyberismoCom/module-eu-cra?style=flat-square&label=) - Content module helping product manufacturers comply with the EU Cyber Resilience Act. `Answer Set Programming` `CRA`
+- [DRAKVUF Sandbox](https://github.com/CERT-Polska/drakvuf-sandbox) ![Stars](https://img.shields.io/github/stars/CERT-Polska/drakvuf-sandbox?style=flat-square&label=) - Automated hypervisor-level malware analysis system developed by CERT Polska. `Python` `CSIRT`
+- [GCVE](https://github.com/gcve-eu/gcve) ![Stars](https://img.shields.io/github/stars/gcve-eu/gcve?style=flat-square&label=) - Python client for the Global CVE allocation system, a decentralized vulnerability numbering alternative developed by CIRCL Luxembourg. `Python` `GPL-3.0` `CSIRT` `GCVE`
+- [GCVE.eu](https://github.com/gcve-eu/gcve.eu) ![Stars](https://img.shields.io/github/stars/gcve-eu/gcve.eu?style=flat-square&label=) - Standards and website for the Global CVE allocation system, a European-led decentralized vulnerability identification framework. ([Demo](https://gcve.eu)) `CC-BY-4.0` `CSIRT` `GCVE`
+- [Hfinger](https://github.com/CERT-Polska/hfinger) ![Stars](https://img.shields.io/github/stars/CERT-Polska/hfinger?style=flat-square&label=) - HTTP request fingerprinting tool developed by CERT Polska for malware traffic analysis. `Python` `GPL-3.0` `CSIRT`
+- [IntelMQ](https://github.com/certtools/intelmq) ![Stars](https://img.shields.io/github/stars/certtools/intelmq?style=flat-square&label=) - Security feed processing framework for CERTs, developed by Austrian CERT for European cybersecurity operations. `Python` `AGPL-3.0` `CSIRT`
+- [IntelMQ Manager](https://github.com/certtools/intelmq-manager) ![Stars](https://img.shields.io/github/stars/certtools/intelmq-manager?style=flat-square&label=) - Web interface for managing IntelMQ security feed processing configurations. `JavaScript`
+- [Karton](https://github.com/CERT-Polska/karton) ![Stars](https://img.shields.io/github/stars/CERT-Polska/karton?style=flat-square&label=) - Distributed malware processing framework developed by CERT Polska. `Python` `BSD-3-Clause` `CSIRT`
+- [Lacus](https://github.com/ail-project/lacus) ![Stars](https://img.shields.io/github/stars/ail-project/lacus?style=flat-square&label=) - Web capture service using Playwright, developed by CIRCL Luxembourg for threat intelligence. `Python` `BSD-3-Clause`
+- [Lookyloo](https://github.com/Lookyloo/lookyloo) ![Stars](https://img.shields.io/github/stars/Lookyloo/lookyloo?style=flat-square&label=) - Web interface for capturing and analysing website page request trees, developed by CIRCL. ([Demo](https://www.lookyloo.eu)) `Python`
+- [Malduck](https://github.com/CERT-Polska/malduck) ![Stars](https://img.shields.io/github/stars/CERT-Polska/malduck?style=flat-square&label=) - Malware analysis companion library developed by CERT Polska. `Python` `GPL-3.0` `CSIRT`
+- [MISP](https://github.com/MISP/MISP) ![Stars](https://img.shields.io/github/stars/MISP/MISP?style=flat-square&label=) - Open source threat intelligence and sharing platform used by EU-CERTs and endorsed by ENISA. ([Demo](https://www.misp-project.org)) `PHP` `AGPL-3.0` `CSIRT`
+- [MISP Galaxy](https://github.com/MISP/misp-galaxy) ![Stars](https://img.shields.io/github/stars/MISP/misp-galaxy?style=flat-square&label=) - Galaxy clusters of threat actors, tools and campaigns for the MISP threat intelligence ecosystem. ([Demo](https://misp-galaxy.org)) `Python` `CSIRT`
+- [MISP Modules](https://github.com/MISP/misp-modules) ![Stars](https://img.shields.io/github/stars/MISP/misp-modules?style=flat-square&label=) - Expansion, enrichment, import and export modules for the MISP threat intelligence platform. `Python` `AGPL-3.0` `CSIRT`
+- [MISP Objects](https://github.com/MISP/misp-objects) ![Stars](https://img.shields.io/github/stars/MISP/misp-objects?style=flat-square&label=) - Object templates for structured threat intelligence in the MISP platform. `Python` `CSIRT`
+- [MISP Taxonomies](https://github.com/MISP/misp-taxonomies) ![Stars](https://img.shields.io/github/stars/MISP/misp-taxonomies?style=flat-square&label=) - Machine-readable taxonomies for classifying threat intelligence in MISP. `Python` `CSIRT`
+- [MISP Warninglists](https://github.com/MISP/misp-warninglists) ![Stars](https://img.shields.io/github/stars/MISP/misp-warninglists?style=flat-square&label=) - Warning lists for false-positive prevention in MISP threat intelligence sharing. `Python` `CSIRT`
+- [MISP-STIX](https://github.com/MISP/misp-stix) ![Stars](https://img.shields.io/github/stars/MISP/misp-stix?style=flat-square&label=) - Python library for converting between MISP and STIX threat intelligence formats. `Python` `BSD-2-Clause` `CSIRT`
+- [MWDB Core](https://github.com/CERT-Polska/mwdb-core) ![Stars](https://img.shields.io/github/stars/CERT-Polska/mwdb-core?style=flat-square&label=) - Malware repository component for samples and static configuration developed by CERT Polska. `Python` `CSIRT`
+- [n6](https://github.com/CERT-Polska/n6) ![Stars](https://img.shields.io/github/stars/CERT-Polska/n6?style=flat-square&label=) - Automated handling of data feeds for security teams, developed by CERT Polska. `Python` `AGPL-3.0` `CSIRT`
+- [OpenCTI](https://github.com/OpenCTI-Platform/opencti) ![Stars](https://img.shields.io/github/stars/OpenCTI-Platform/opencti?style=flat-square&label=) - Open cyber threat intelligence platform used by European CERTs and security agencies. ([Demo](https://demo.opencti.io)) `TypeScript` `CSIRT`
+- [OpenCTI Connectors](https://github.com/OpenCTI-Platform/connectors) ![Stars](https://img.shields.io/github/stars/OpenCTI-Platform/connectors?style=flat-square&label=) - Data connectors for ingesting and enriching threat intelligence in the OpenCTI platform. `Python` `Apache-2.0`
+- [Pandora](https://github.com/pandora-analysis/pandora) ![Stars](https://img.shields.io/github/stars/pandora-analysis/pandora?style=flat-square&label=) - File analysis framework for discovering suspicious content, developed by CIRCL Luxembourg. `Python` `AGPL-3.0`
+- [PyMISP](https://github.com/MISP/PyMISP) ![Stars](https://img.shields.io/github/stars/MISP/PyMISP?style=flat-square&label=) - Python library for the MISP threat intelligence platform REST API. `Python` `CSIRT`
+- [TARA Tool](https://github.com/SCHUNK-SE-Co-KG/TARATool) ![Stars](https://img.shields.io/github/stars/SCHUNK-SE-Co-KG/TARATool?style=flat-square&label=) - Browser-based threat analysis and risk assessment tool for EU Cyber Resilience Act compliance. `JavaScript` `CRA`
+- [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup) ![Stars](https://img.shields.io/github/stars/vulnerability-lookup/vulnerability-lookup?style=flat-square&label=) - Vulnerability correlation and CVD management platform developed by CIRCL Luxembourg. `Python` `AGPL-3.0`
 
 ## Accessibility
 
 European Accessibility Act (EAA), EN 301 549, EU Web Accessibility Directive, and accessibility conformance testing.
 
-- [ACT Rules](https://github.com/act-rules/act-rules.github.io) - Community-maintained accessibility conformance testing rules used to harmonize EU EN 301 549 compliance evaluation.
-- [Alfa](https://github.com/Siteimprove/alfa) - Standards-based accessibility conformance testing suite implementing ACT Rules for EN 301 549 and WCAG.
-- [BIK Web Test](https://github.com/BIK-BITV/BIK-Web-Test) - Test procedures for evaluating web accessibility against WCAG 2.1 and EN 301 549 criteria.
-- [RAWEB](https://github.com/accessibility-luxembourg/ReferentielAccessibiliteWeb) - Web accessibility assessment framework implementing the EU Web Accessibility Directive for website evaluation.
-- [SimplA11yMonit](https://github.com/accessibility-luxembourg/simplA11yMonit) - Tool implementing the EU simplified accessibility monitoring method from Commission Decision 2018/1524.
-- [SimplA11yPDFCrawler](https://github.com/accessibility-luxembourg/simplA11yPDFCrawler) - Crawler that downloads PDFs from websites and analyses their accessibility against EU standards.
+- [ACT Rules](https://github.com/act-rules/act-rules.github.io) ![Stars](https://img.shields.io/github/stars/act-rules/act-rules.github.io?style=flat-square&label=) - Community-maintained accessibility conformance testing rules used to harmonize EU EN 301 549 compliance evaluation. `JavaScript` `EAA` `EN301549`
+- [Alfa](https://github.com/Siteimprove/alfa) ![Stars](https://img.shields.io/github/stars/Siteimprove/alfa?style=flat-square&label=) - Standards-based accessibility conformance testing suite implementing ACT Rules for EN 301 549 and WCAG. `HTML` `MIT` `EAA` `EN301549`
+- [BIK Web Test](https://github.com/BIK-BITV/BIK-Web-Test) ![Stars](https://img.shields.io/github/stars/BIK-BITV/BIK-Web-Test?style=flat-square&label=) - Test procedures for evaluating web accessibility against WCAG 2.1 and EN 301 549 criteria. `Python` `EAA` `EN301549`
+- [RAWEB](https://github.com/accessibility-luxembourg/ReferentielAccessibiliteWeb) ![Stars](https://img.shields.io/github/stars/accessibility-luxembourg/ReferentielAccessibiliteWeb?style=flat-square&label=) - Web accessibility assessment framework implementing the EU Web Accessibility Directive for website evaluation. `JavaScript` `EAA`
+- [SimplA11yMonit](https://github.com/accessibility-luxembourg/simplA11yMonit) ![Stars](https://img.shields.io/github/stars/accessibility-luxembourg/simplA11yMonit?style=flat-square&label=) - Tool implementing the EU simplified accessibility monitoring method from Commission Decision 2018/1524. `JavaScript` `MIT` `EAA`
+- [SimplA11yPDFCrawler](https://github.com/accessibility-luxembourg/simplA11yPDFCrawler) ![Stars](https://img.shields.io/github/stars/accessibility-luxembourg/simplA11yPDFCrawler?style=flat-square&label=) - Crawler that downloads PDFs from websites and analyses their accessibility against EU standards. `Python` `MIT` `EAA`
 
 ## Education and Research
 
 ECTS, Erasmus+, Horizon Europe, CORDIS, OpenAIRE, EOSC, CERN, and European research infrastructure.
 
-- [Awesome CERN](https://github.com/CERN/awesome-cern) - Curated list of open source frameworks, libraries and software developed by CERN.
-- [B2SHARE](https://github.com/EUDAT-B2SHARE/b2share) - EUDAT collaborative data infrastructure service for storing and sharing European research data.
-- [CDS Videos](https://github.com/CERNDocumentServer/cds-videos) - CERN Document Server for accessing articles, reports and multimedia content in high-energy physics.
-- [CERN Analysis Preservation](https://github.com/cernanalysispreservation/analysispreservation.cern.ch) - Portal for capturing, preserving and reusing physics analyses at CERN.
-- [CERN C++ Course](https://github.com/hsf-training/cpluspluscourse) - C++ course taught at CERN by the HEP Software Foundation.
-- [CERN Open Data Portal](https://github.com/cernopendata/opendata.cern.ch) - Source code for the CERN Open Data portal providing access to particle physics research data.
-- [CSV Validator](https://github.com/digital-preservation/csv-validator) - CSV Validation Tool and API used in European digital preservation projects.
-- [DBPTK](https://github.com/keeps/dbptk-developer) - Database Preservation Toolkit for migrating databases to archival formats used in European digital preservation.
-- [DSpace](https://github.com/DSpace/DSpace) - Digital asset management system powering institutional repositories across European universities.
-- [EBRAINS Drive](https://github.com/HumanBrainProject/ebrains-drive) - Python client for EBRAINS Collaboratory storage in the EU Human Brain Project.
-- [eduroam CAT](https://github.com/GEANT/CAT) - Configuration Assistant Tool for eduroam enterprise Wi-Fi networks used across European universities.
-- [ELIXIR RDMkit](https://github.com/elixir-europe/rdmkit) - ELIXIR European Research Data Management Toolkit.
-- [EMMO](https://github.com/emmo-repo/EMMO) - Elementary Multiperspective Material Ontology developed by the European Materials Modelling Council.
-- [ERC Starting Grant Template](https://github.com/alexfikl/erc-stg) - LaTeX class and template for European Research Council Starting Grant proposals.
-- [Europass CV](https://github.com/gmazzamuto/europasscv) - Unofficial LaTeX class for the Europass curriculum vitae format.
-- [Europass CV Parser](https://github.com/europass/europasscv-parser-js) - JavaScript library for parsing Europass CV documents from PDF and XML formats.
-- [EWP Interinstitutional Agreements API](https://github.com/erasmus-without-paper/ewp-specs-api-iias) - Specifications of the Erasmus Without Paper Interinstitutional Agreements API for cross-border student mobility.
-- [Geant4](https://github.com/geant4/geant4) - CERN toolkit for simulating the passage of particles through matter.
-- [HEPData](https://github.com/HEPData/hepdata) - CERN-hosted repository for publication-related high-energy physics data.
-- [Indico](https://github.com/indico/indico) - Feature-rich event management system developed at CERN for scientific conferences and workshops.
-- [INSPIRE HEP](https://github.com/inspirehep/inspire-next) - High-energy physics information system serving the European and global research community.
-- [InvenioRDM](https://github.com/inveniosoftware/invenio) - CERN-developed digital library framework powering Zenodo and European institutional repositories.
-- [Karabo](https://github.com/European-XFEL/karabo) - SCADA framework for the European X-Ray Free-Electron Laser facility.
-- [MGnify API](https://github.com/EBI-Metagenomics/emgapi) - RESTful API for the MGnify metagenomics platform at the European Bioinformatics Institute.
-- [Newdle](https://github.com/indico/newdle) - Open source collaborative meeting scheduling tool developed at CERN.
-- [OpenAIRE Guidelines for Literature Repositories](https://github.com/openaire/guidelines-literature-repositories) - Guidelines for literature repository managers based on Dublin Core and DataCite for OpenAIRE compliance.
-- [OpenAIRE Interoperability Guidelines](https://github.com/openaire/guidelines) - Interoperability guidelines for integrating repositories and CRIS systems with the OpenAIRE infrastructure.
-- [OpenAIRE IIS](https://github.com/openaire/iis) - Information Inference Service of the OpenAIRE European research data infrastructure.
-- [OpenAPC](https://github.com/OpenAPC/openapc-de) - Collect and disseminate information on fee-based Open Access publishing in European research.
-- [OpenFisca](https://github.com/openfisca/openfisca-core) - Rules-as-code engine for simulating tax and benefit systems used across European countries.
-- [Pangeo EOSC](https://github.com/pangeo-data/pangeo-eosc) - Deployment of the Pangeo big data geoscience stack on the European Open Science Cloud.
-- [RDA DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard) - Machine-actionable data management plan standard used in European research infrastructure.
-- [REANA](https://github.com/reanahub/reana) - CERN-developed reusable research data analysis platform for reproducible science.
-- [RODA](https://github.com/keeps/roda) - Repository of Authentic Digital Objects for long-term digital preservation in European cultural heritage institutions.
-- [ROOT](https://github.com/root-project/root) - CERN framework for data processing, statistical analysis and visualization in particle physics.
-- [Zenodo](https://github.com/zenodo/zenodo) - CERN-hosted open research repository for EU-funded research outputs.
-- [Zenodo RDM](https://github.com/zenodo/zenodo-rdm) - Next generation of the CERN-hosted Zenodo open research repository, powered by InvenioRDM.
-- [zenodo-upload](https://github.com/jhpoelen/zenodo-upload) - Script for uploading large files to Zenodo using cURL and bash.
-- [zenodo_get](https://github.com/dvolgyes/zenodo_get) - Downloader for Zenodo records and datasets.
-- [zen4R](https://github.com/eblondel/zen4R) - R interface to the Zenodo REST API for managing deposits in the CERN-hosted open research repository.
+- [Awesome CERN](https://github.com/CERN/awesome-cern) ![Stars](https://img.shields.io/github/stars/CERN/awesome-cern?style=flat-square&label=) - Curated list of open source frameworks, libraries and software developed by CERN. `CERN`
+- [B2SHARE](https://github.com/EUDAT-B2SHARE/b2share) ![Stars](https://img.shields.io/github/stars/EUDAT-B2SHARE/b2share?style=flat-square&label=) - EUDAT collaborative data infrastructure service for storing and sharing European research data. ([Demo](https://b2share.eudat.eu)) `Python` `GPL-2.0`
+- [CDS Videos](https://github.com/CERNDocumentServer/cds-videos) ![Stars](https://img.shields.io/github/stars/CERNDocumentServer/cds-videos?style=flat-square&label=) - CERN Document Server for accessing articles, reports and multimedia content in high-energy physics. ([Demo](https://videos.cern.ch)) `Python` `GPL-2.0` `CERN`
+- [CERN Analysis Preservation](https://github.com/cernanalysispreservation/analysispreservation.cern.ch) ![Stars](https://img.shields.io/github/stars/cernanalysispreservation/analysispreservation.cern.ch?style=flat-square&label=) - Portal for capturing, preserving and reusing physics analyses at CERN. ([Demo](https://analysispreservation.cern.ch)) `Python` `GPL-3.0` `CERN`
+- [CERN C++ Course](https://github.com/hsf-training/cpluspluscourse) ![Stars](https://img.shields.io/github/stars/hsf-training/cpluspluscourse?style=flat-square&label=) - C++ course taught at CERN by the HEP Software Foundation. `Apache-2.0` `CERN`
+- [CERN Open Data Portal](https://github.com/cernopendata/opendata.cern.ch) ![Stars](https://img.shields.io/github/stars/cernopendata/opendata.cern.ch?style=flat-square&label=) - Source code for the CERN Open Data portal providing access to particle physics research data. ([Demo](https://opendata.cern.ch)) `Python` `GPL-2.0` `CERN`
+- [CSV Validator](https://github.com/digital-preservation/csv-validator) ![Stars](https://img.shields.io/github/stars/digital-preservation/csv-validator?style=flat-square&label=) - CSV Validation Tool and API used in European digital preservation projects. `Scala` `MPL-2.0`
+- [DBPTK](https://github.com/keeps/dbptk-developer) ![Stars](https://img.shields.io/github/stars/keeps/dbptk-developer?style=flat-square&label=) - Database Preservation Toolkit for migrating databases to archival formats used in European digital preservation. `Java` `LGPL-3.0`
+- [DSpace](https://github.com/DSpace/DSpace) ![Stars](https://img.shields.io/github/stars/DSpace/DSpace?style=flat-square&label=) - Digital asset management system powering institutional repositories across European universities. `Java` `BSD-3-Clause`
+- [EBRAINS Drive](https://github.com/HumanBrainProject/ebrains-drive) ![Stars](https://img.shields.io/github/stars/HumanBrainProject/ebrains-drive?style=flat-square&label=) - Python client for EBRAINS Collaboratory storage in the EU Human Brain Project. `Python` `Apache-2.0`
+- [eduroam CAT](https://github.com/GEANT/CAT) ![Stars](https://img.shields.io/github/stars/GEANT/CAT?style=flat-square&label=) - Configuration Assistant Tool for eduroam enterprise Wi-Fi networks used across European universities. `PHP`
+- [ELIXIR RDMkit](https://github.com/elixir-europe/rdmkit) ![Stars](https://img.shields.io/github/stars/elixir-europe/rdmkit?style=flat-square&label=) - ELIXIR European Research Data Management Toolkit. ([Demo](https://rdmkit.elixir-europe.org)) `Python`
+- [EMMO](https://github.com/emmo-repo/EMMO) ![Stars](https://img.shields.io/github/stars/emmo-repo/EMMO?style=flat-square&label=) - Elementary Multiperspective Material Ontology developed by the European Materials Modelling Council. `Python` `CC-BY-4.0`
+- [ERC Starting Grant Template](https://github.com/alexfikl/erc-stg) ![Stars](https://img.shields.io/github/stars/alexfikl/erc-stg?style=flat-square&label=) - LaTeX class and template for European Research Council Starting Grant proposals. `CC0-1.0`
+- [Europass CV](https://github.com/gmazzamuto/europasscv) ![Stars](https://img.shields.io/github/stars/gmazzamuto/europasscv?style=flat-square&label=) - Unofficial LaTeX class for the Europass curriculum vitae format.
+- [Europass CV Parser](https://github.com/europass/europasscv-parser-js) ![Stars](https://img.shields.io/github/stars/europass/europasscv-parser-js?style=flat-square&label=) - JavaScript library for parsing Europass CV documents from PDF and XML formats. `HTML` `MIT`
+- [EWP Interinstitutional Agreements API](https://github.com/erasmus-without-paper/ewp-specs-api-iias) ![Stars](https://img.shields.io/github/stars/erasmus-without-paper/ewp-specs-api-iias?style=flat-square&label=) - Specifications of the Erasmus Without Paper Interinstitutional Agreements API for cross-border student mobility. `XSLT` `MIT` `Erasmus+`
+- [Geant4](https://github.com/geant4/geant4) ![Stars](https://img.shields.io/github/stars/geant4/geant4?style=flat-square&label=) - CERN toolkit for simulating the passage of particles through matter. `C++` `CERN`
+- [HEPData](https://github.com/HEPData/hepdata) ![Stars](https://img.shields.io/github/stars/HEPData/hepdata?style=flat-square&label=) - CERN-hosted repository for publication-related high-energy physics data. ([Demo](https://hepdata.net)) `Python` `GPL-2.0` `CERN`
+- [Indico](https://github.com/indico/indico) ![Stars](https://img.shields.io/github/stars/indico/indico?style=flat-square&label=) - Feature-rich event management system developed at CERN for scientific conferences and workshops. ([Demo](https://getindico.io)) `Python` `MIT` `CERN`
+- [INSPIRE HEP](https://github.com/inspirehep/inspire-next) ![Stars](https://img.shields.io/github/stars/inspirehep/inspire-next?style=flat-square&label=) - High-energy physics information system serving the European and global research community. `Python` `GPL-3.0` `INSPIRE`
+- [InvenioRDM](https://github.com/inveniosoftware/invenio) ![Stars](https://img.shields.io/github/stars/inveniosoftware/invenio?style=flat-square&label=) - CERN-developed digital library framework powering Zenodo and European institutional repositories. `Python` `MIT` `CERN`
+- [Karabo](https://github.com/European-XFEL/karabo) ![Stars](https://img.shields.io/github/stars/European-XFEL/karabo?style=flat-square&label=) - SCADA framework for the European X-Ray Free-Electron Laser facility. `Python` `MPL-2.0`
+- [MGnify API](https://github.com/EBI-Metagenomics/emgapi) ![Stars](https://img.shields.io/github/stars/EBI-Metagenomics/emgapi?style=flat-square&label=) - RESTful API for the MGnify metagenomics platform at the European Bioinformatics Institute. `Python` `Apache-2.0`
+- [Newdle](https://github.com/indico/newdle) ![Stars](https://img.shields.io/github/stars/indico/newdle?style=flat-square&label=) - Open source collaborative meeting scheduling tool developed at CERN. `JavaScript` `MIT` `CERN`
+- [OpenAIRE Guidelines for Literature Repositories](https://github.com/openaire/guidelines-literature-repositories) ![Stars](https://img.shields.io/github/stars/openaire/guidelines-literature-repositories?style=flat-square&label=) - Guidelines for literature repository managers based on Dublin Core and DataCite for OpenAIRE compliance. `OpenAIRE`
+- [OpenAIRE Interoperability Guidelines](https://github.com/openaire/guidelines) ![Stars](https://img.shields.io/github/stars/openaire/guidelines?style=flat-square&label=) - Interoperability guidelines for integrating repositories and CRIS systems with the OpenAIRE infrastructure. `OpenAIRE`
+- [OpenAIRE IIS](https://github.com/openaire/iis) ![Stars](https://img.shields.io/github/stars/openaire/iis?style=flat-square&label=) - Information Inference Service of the OpenAIRE European research data infrastructure. `Java` `Apache-2.0` `OpenAIRE`
+- [OpenAPC](https://github.com/OpenAPC/openapc-de) ![Stars](https://img.shields.io/github/stars/OpenAPC/openapc-de?style=flat-square&label=) - Collect and disseminate information on fee-based Open Access publishing in European research. `Python`
+- [OpenFisca](https://github.com/openfisca/openfisca-core) ![Stars](https://img.shields.io/github/stars/openfisca/openfisca-core?style=flat-square&label=) - Rules-as-code engine for simulating tax and benefit systems used across European countries. `Python` `AGPL-3.0`
+- [Pangeo EOSC](https://github.com/pangeo-data/pangeo-eosc) ![Stars](https://img.shields.io/github/stars/pangeo-data/pangeo-eosc?style=flat-square&label=) - Deployment of the Pangeo big data geoscience stack on the European Open Science Cloud. `Python` `MIT` `EOSC`
+- [RDA DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard) ![Stars](https://img.shields.io/github/stars/RDA-DMP-Common/RDA-DMP-Common-Standard?style=flat-square&label=) - Machine-actionable data management plan standard used in European research infrastructure. `Unlicense`
+- [REANA](https://github.com/reanahub/reana) ![Stars](https://img.shields.io/github/stars/reanahub/reana?style=flat-square&label=) - CERN-developed reusable research data analysis platform for reproducible science. `Python` `MIT` `CERN`
+- [RODA](https://github.com/keeps/roda) ![Stars](https://img.shields.io/github/stars/keeps/roda?style=flat-square&label=) - Repository of Authentic Digital Objects for long-term digital preservation in European cultural heritage institutions. ([Demo](https://demo.roda-community.org)) `Java` `LGPL-3.0`
+- [ROOT](https://github.com/root-project/root) ![Stars](https://img.shields.io/github/stars/root-project/root?style=flat-square&label=) - CERN framework for data processing, statistical analysis and visualization in particle physics. `C++` `CERN`
+- [Zenodo](https://github.com/zenodo/zenodo) ![Stars](https://img.shields.io/github/stars/zenodo/zenodo?style=flat-square&label=) - CERN-hosted open research repository for EU-funded research outputs. `Python` `GPL-2.0` `CERN`
+- [Zenodo RDM](https://github.com/zenodo/zenodo-rdm) ![Stars](https://img.shields.io/github/stars/zenodo/zenodo-rdm?style=flat-square&label=) - Next generation of the CERN-hosted Zenodo open research repository, powered by InvenioRDM. `Python` `GPL-2.0` `CERN`
+- [zenodo-upload](https://github.com/jhpoelen/zenodo-upload) ![Stars](https://img.shields.io/github/stars/jhpoelen/zenodo-upload?style=flat-square&label=) - Script for uploading large files to Zenodo using cURL and bash. `MIT` `CERN`
+- [zenodo_get](https://github.com/dvolgyes/zenodo_get) ![Stars](https://img.shields.io/github/stars/dvolgyes/zenodo_get?style=flat-square&label=) - Downloader for Zenodo records and datasets. `Python` `AGPL-3.0` `CERN`
+- [zen4R](https://github.com/eblondel/zen4R) ![Stars](https://img.shields.io/github/stars/eblondel/zen4R?style=flat-square&label=) - R interface to the Zenodo REST API for managing deposits in the CERN-hosted open research repository. `R` `CERN`
 
 ## European Utilities
 
 Pan-European utility libraries: IBAN validation, NUTS regions, European phone numbers, postal codes, holidays, and locale tools.
 
-- [date-holidays](https://github.com/commenthol/date-holidays) - JavaScript library providing public holiday data for countries worldwide including all EU member states.
-- [iban-validation](https://github.com/jschaedl/iban-validation) - PHP library for validating International Bank Account Numbers (IBANs) used in SEPA.
-- [iban4j](https://github.com/arturmkrtchyan/iban4j) - Java library for IBAN and BIC generation and validation.
-- [IbanNet](https://github.com/skwasjer/IbanNet) - C# .NET IBAN validator, parser, builder, and generator.
-- [ibantools](https://github.com/Simplify/ibantools) - TypeScript/JavaScript library for IBAN, BBAN, and BIC validation, creation, and extraction.
-- [Nager.Date](https://github.com/Nager/Nager.Date) - Public holidays library and REST API for .NET covering 100+ countries including all EU member states.
-- [OpenHolidays API](https://github.com/openpotato/openholidaysapi) - Web service providing public holiday data with strong European country coverage.
-- [php-iban](https://github.com/globalcitizen/php-iban) - PHP library to generate, parse, validate, error-correct and present IBAN bank account numbers.
-- [python-stdnum](https://github.com/arthurdejong/python-stdnum) - Python library to validate tax numbers, VAT IDs, IBANs and other standard numbers used across Europe.
-- [Schengulator](https://github.com/PennyHow/schengulator) - Python tool to calculate how many days an individual has been in Schengen countries out of a 180-day period.
-- [schwifty](https://github.com/mdomke/schwifty) - Python library for IBAN and BIC parsing, validation and generation.
-- [stdnum-js](https://github.com/koblas/stdnum-js) - JavaScript library to validate European tax numbers, VAT IDs, and other standard identifiers.
-- [workalendar](https://github.com/workalendar/workalendar) - Python library for holidays and working days computation across European countries.
+- [date-holidays](https://github.com/commenthol/date-holidays) ![Stars](https://img.shields.io/github/stars/commenthol/date-holidays?style=flat-square&label=) - JavaScript library providing public holiday data for countries worldwide including all EU member states. `JavaScript`
+- [iban-validation](https://github.com/jschaedl/iban-validation) ![Stars](https://img.shields.io/github/stars/jschaedl/iban-validation?style=flat-square&label=) - PHP library for validating International Bank Account Numbers (IBANs) used in SEPA. `PHP` `MIT` `SEPA`
+- [iban4j](https://github.com/arturmkrtchyan/iban4j) ![Stars](https://img.shields.io/github/stars/arturmkrtchyan/iban4j?style=flat-square&label=) - Java library for IBAN and BIC generation and validation. `Java` `Apache-2.0`
+- [IbanNet](https://github.com/skwasjer/IbanNet) ![Stars](https://img.shields.io/github/stars/skwasjer/IbanNet?style=flat-square&label=) - C# .NET IBAN validator, parser, builder, and generator. `C#` `Apache-2.0`
+- [ibantools](https://github.com/Simplify/ibantools) ![Stars](https://img.shields.io/github/stars/Simplify/ibantools?style=flat-square&label=) - TypeScript/JavaScript library for IBAN, BBAN, and BIC validation, creation, and extraction. `JavaScript`
+- [Nager.Date](https://github.com/Nager/Nager.Date) ![Stars](https://img.shields.io/github/stars/Nager/Nager.Date?style=flat-square&label=) - Public holidays library and REST API for .NET covering 100+ countries including all EU member states. ([Demo](https://date.nager.at)) `C#` `MIT`
+- [OpenHolidays API](https://github.com/openpotato/openholidaysapi) ![Stars](https://img.shields.io/github/stars/openpotato/openholidaysapi?style=flat-square&label=) - Web service providing public holiday data with strong European country coverage. `C#` `AGPL-3.0`
+- [php-iban](https://github.com/globalcitizen/php-iban) ![Stars](https://img.shields.io/github/stars/globalcitizen/php-iban?style=flat-square&label=) - PHP library to generate, parse, validate, error-correct and present IBAN bank account numbers. `PHP` `LGPL-3.0`
+- [python-stdnum](https://github.com/arthurdejong/python-stdnum) ![Stars](https://img.shields.io/github/stars/arthurdejong/python-stdnum?style=flat-square&label=) - Python library to validate tax numbers, VAT IDs, IBANs and other standard numbers used across Europe. `Python` `LGPL-2.1` `VAT`
+- [Schengulator](https://github.com/PennyHow/schengulator) ![Stars](https://img.shields.io/github/stars/PennyHow/schengulator?style=flat-square&label=) - Python tool to calculate how many days an individual has been in Schengen countries out of a 180-day period. `Python` `MIT` `Schengen`
+- [schwifty](https://github.com/mdomke/schwifty) ![Stars](https://img.shields.io/github/stars/mdomke/schwifty?style=flat-square&label=) - Python library for IBAN and BIC parsing, validation and generation. `Python` `MIT`
+- [stdnum-js](https://github.com/koblas/stdnum-js) ![Stars](https://img.shields.io/github/stars/koblas/stdnum-js?style=flat-square&label=) - JavaScript library to validate European tax numbers, VAT IDs, and other standard identifiers. `TypeScript` `MIT` `VAT`
+- [workalendar](https://github.com/workalendar/workalendar) ![Stars](https://img.shields.io/github/stars/workalendar/workalendar?style=flat-square&label=) - Python library for holidays and working days computation across European countries. `Python` `MIT`
 
 ## Country-Specific Awesome Lists
 
 Awesome lists focused on individual European countries.
 
-- [awesome-germany](https://github.com/bundestag/awesome-germany) - Fiscally financed German public projects relevant to citizens.
-- [awesome-italian-public-datasets](https://github.com/italia/awesome-italian-public-datasets) - Open datasets from Italian public administration.
-- [awesome-portugal-data](https://github.com/rgllm/awesome-portugal-data) - Open data repositories in Portugal.
-- [awesome-spain](https://github.com/GeiserX/awesome-spain) - Open source software for Spain.
+- [awesome-germany](https://github.com/bundestag/awesome-germany) ![Stars](https://img.shields.io/github/stars/bundestag/awesome-germany?style=flat-square&label=) - Fiscally financed German public projects relevant to citizens. `Unlicense`
+- [awesome-italian-public-datasets](https://github.com/italia/awesome-italian-public-datasets) ![Stars](https://img.shields.io/github/stars/italia/awesome-italian-public-datasets?style=flat-square&label=) - Open datasets from Italian public administration.
+- [awesome-portugal-data](https://github.com/rgllm/awesome-portugal-data) ![Stars](https://img.shields.io/github/stars/rgllm/awesome-portugal-data?style=flat-square&label=) - Open data repositories in Portugal. `GPL-3.0`
+- [awesome-spain](https://github.com/GeiserX/awesome-spain) ![Stars](https://img.shields.io/github/stars/GeiserX/awesome-spain?style=flat-square&label=) - Open source software for Spain. `CC0-1.0`
 
 ## Contributing
 
