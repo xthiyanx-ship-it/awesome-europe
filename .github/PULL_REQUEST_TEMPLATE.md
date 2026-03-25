@@ -34,8 +34,9 @@ Remove this section if not applicable.
 
 ## Checklist
 
-- [ ] I ran `npx awesome-lint` with no errors.
 - [ ] There are no **duplicates** in the list.
-- [ ] Entries follow the format: `- [Name](URL) ![Stars](...) - Description. ([Demo](...)) \`Language\` \`License\` \`EU-Tag\``
-- [ ] Entries include star badge, language, license, and EU regulation tags.
+- [ ] Entries follow the format with badges: `- [Name](URL) [![Stars](...) ... - Description ending with a period.`
+- [ ] Entries include star, last-commit, language, and license badges.
 - [ ] Entries are in **alphabetical order** within their section.
+
+> **Note:** Linting runs automatically in CI via [awesome-lint-extra](https://github.com/GeiserX/awesome-lint-extra). No need to run it manually.
